@@ -8,14 +8,22 @@
     <title></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://storage.cloud.google.com/evcflo_static_frontend/style.css">
 </head>
 
 <body>
-    <h1>Chameleon EV Project</h1>
+    <h1>Chameleon Electric Vehicle Charger Forecasting and Location Optimization project</h1>
     <h2>Add a charger station to the database</h2>
 
-    <form action="http://localhost:5000/api/add_station" method="POST">
+	<!--Nav strip -->
+	<hr>
+	<a href="https://storage.googleapis.com/evcflo_static_frontend/index.html"> | Home.</a>
+    <a href="https://storage.cloud.google.com/evcflo_static_frontend/add_station.html"> | Add a Charge Station here.</a>
+	<a href="https://storage.cloud.google.com/evcflo_static_frontend/notebooks.html"> | View Research Notebooks.</a>
+	<a href="https://github.com/Chameleon-company/EVCFLO"> | GitHub. |</a>
+	<hr>
+
+    <form action="https://server-e657pcuziq-ts.a.run.app/api/add_station" method="POST">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name"><br>
         <label for="address">Address:</label>
@@ -33,9 +41,9 @@
         <label for="free_use">Free Use:</label>
         <input type="text" id="free_use" name="free_use"><br>
         <label for="latitude">Latitude:</label>
-        <input type="number" id="latitude" name="latitude"><br>
+        <input type="number" step="0.0001" id="latitude" name="latitude"><br>
         <label for="longitude">Longitude:</label>
-        <input type="number" id="longitude" name="longitude"><br>
+        <input type="number" step="0.0001" id="longitude" name="longitude"><br>
         <label for="port_count">Port Count:</label>
         <input type="number" id="port_count" name="port_count"><br>
         <label for="port_level_type">Port Level Type:</label>

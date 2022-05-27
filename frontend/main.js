@@ -2,7 +2,7 @@
 let KEY = "AIzaSyDGTQ9MBm6Bmf88rfrMQH1o1Pw-3ols86A";
 
 // API Server address
-let CHARGERS_URI = "http://localhost:5000/api/get_chargers"
+let CHARGERS_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_chargers"
 
 
 // Initialize and add the map
