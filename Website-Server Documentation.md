@@ -83,6 +83,9 @@ Refer to google developer docs for instructions on updating/deploying flask app 
 ## Front End
 The front end is a very simple set of static webpages hosted in a bucket on Google Cloud Platform.
 
+### Public URL:
+https://storage.googleapis.com/evcflo_static_frontend/index.html
+
 ### Links:
 [Host a static website](https://cloud.google.com/storage/docs/hosting-static-website)
 
