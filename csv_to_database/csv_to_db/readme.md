@@ -18,3 +18,5 @@ This script is required to run from within a flask server, there are other ways 
 2. Navigate browser to http://localhost:5000/go
 3. If successful you will get a message back saying processing complete.
 
+## Notes:
+env.py username, password and database connection strings removed for security.
