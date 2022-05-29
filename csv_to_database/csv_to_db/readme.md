@@ -20,3 +20,4 @@ This script is required to run from within a flask server, there are other ways 
 
 ## Notes:
 env.py username, password and database connection strings removed for security.
+contact lrowell@deakin.edu.au
