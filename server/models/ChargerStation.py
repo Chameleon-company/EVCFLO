@@ -8,60 +8,64 @@ db = MongoEngine()
 class ChargerStation(db.Document):
     name = db.StringField(required=True)
     address = db.StringField(default='not specified')
-    description = db.StringField(default='none entered')
+    longitude = db.FloatField(required=True)
+    latitude = db.FloatField(required=True)
     location_category = db.StringField(default='not specified')
     location_sub_category = db.StringField(default='not specified')
+    description = db.StringField(default='not specified')
     open_date = db.StringField(default='unknown')
+    parking = db.FloatField(default='unknown')
     pricing = db.StringField(default='unknown')
     free_use = db.StringField(default='not specified')
-    latitude = db.FloatField(required=True)
-    longitude = db.FloatField(required=True)
-    port_count = db.IntField(default=0)
+    contact = db.StringField(default='unknown')
+    networks = db.ArrayField(default=['unknown'])
+    total_plugs = db.IntField(default=0)
     port_level_type = db.StringField(default='not specified')
-    network = db.StringField(default='unknown')
-    manufacturer = db.StringField(default='unknown')
-    power_output_kw = db.FloatField(default=0.0)
-    power_output_volts = db.FloatField(default=0.0)
-    power_output_amps = db.FloatField(default=0.0)
-    renewable_power_supply = db.StringField(default='not specified')
-    CHAdeMO = db.IntField(default=0)
-    Tesla_std = db.IntField(default=0)
-    Tesla_Fast = db.IntField(default=0)
-    Tesla_Roadster = db.IntField(default=0)
-    CCS_SAE = db.IntField(default=0)
-    J1772 = db.IntField(default=0)
-    Type2 = db.IntField(default=0)
-    Commando = db.IntField(default=0)
-    Wall_AU = db.IntField(default=0)
+    renewable_power_supply = db.StringField(default='unknown')
+    power_outputs_kw = db.ArrayField(default=["unknown"])
+    Plugs_CHAdeMO = db.IntField(default=0)
+    Plugs_Tesla = db.IntField(default=0)
+    Plugs_CCS_SAE = db.IntField(default=0)
+    Plugs_J1772 = db.IntField(default=0)
+    Plugs_Type2 = db.IntField(default=0)
+    Plugs_Three_Phase = db.IntField(default=0)
+    Plugs_Commando = db.IntField(default=0)
+    Plugs_Wall_AU_NZ = db.IntField(default=0)
+    Plugs_Caravan_Mains_Socket = db.IntField(default=0)
+    Plugs_Other = db.IntField(default=0)
+    source = db.StringField(required=True)
+    source_date = db.StringField(required=True)
 
     def to_json(self):
         # Return this object as a JSON object.
         return {
             "name": self.name,
             "address": self.address,
-            "description": self.description,
+            "longitude": self.longitude,
+            "latitude": self.latitude,
             "location_category": self.location_category,
             "location_sub_category": self.location_sub_category,
+            "description": self.description,
             "open_date": self.open_date,
+            "parking": self.parking,
             "pricing": self.pricing,
             "free_use": self.free_use,
-            "latitude": self.latitude,
-            "longitude": self.longitude,
-            "port_count": self.port_count,
+            "contact": self.contact,
+            "networks": self.networks,
+            "total_plugs": self.total_plugs,
             "port_level_type": self.port_level_type,
-            "network": self.network,
-            "manufacturer": self.manufacturer,
-            "power_output_kw": self.power_output_kw,
-            "power_output_volts": self.power_output_volts,
-            "power_output_amps": self.power_output_amps,
             "renewable_power_supply": self.renewable_power_supply,
-            "CHAdeMO": self.CHAdeMO,
-            "Tesla_std": self.Tesla_std,
-            "Tesla_Fast": self.Tesla_Fast,
-            "Tesla_Roadster": self.Tesla_Roadster,
-            "CCS_SAE": self.CCS_SAE,
-            "J1772": self.J1772,
-            "Type2": self.Type2,
-            "Commando": self.Commando,
-            "Wall_AU": self.Wall_AU
+            "power_outputs_kw": self.power_outputs_kw,
+            "Plugs_CHAdeMO": self.Plugs_CHAdeMO,
+            "Plugs_Tesla": self.Plugs_Tesla,
+            "Plugs_CCS_SAE": self.Plugs_CCS_SAE,
+            "Plugs_J1772": self.Plugs_J1772,
+            "Plugs_Type2": self.Plugs_Type2,
+            "Plugs_Three_Phase": self.Plugs_Three_Phase,
+            "Plugs_Commando": self.Plugs_Commando,
+            "Plugs_Wall_AU_NZ": self.Plugs_Wall_AU_NZ,
+            "Plugs_Caravan_Mains_Socket": self.Plugs_Caravan_Mains_Socket,
+            "Plugs_Other": self.Plugs_Other,
+            "source": self.source,
+            "source_date": self.source_date
         }

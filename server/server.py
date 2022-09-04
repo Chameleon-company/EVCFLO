@@ -3,9 +3,11 @@ from config.env import DB_URI
 
 # Import models.
 from models.ChargerStation import ChargerStation
+from models.BoundingBox import BoundingBox
+from models.SuggestedStation import SuggestedStation
 
 # Import routes
-from routes.api import Add_Station, DB_Populate
+from routes.api import Add_Station, DB_Populate, Add_Bounding
 
 # Import resources.
 from flask import Flask, make_response, request, jsonify, render_template, send_from_directory
@@ -56,6 +58,25 @@ def get_chargers():
         chargerStations.append(chargerStation)
     return make_response(jsonify(chargerStations), 200)
 
+#WIP
+# Fetches all the bounds of current scanned bounding box's in the db and returns as a JSON object..
+@app.route('/api/get_bounds', methods=['GET'])
+def get_bounds():
+    print('Get bounds request received. Accessing db...')
+    boundingBoxs = []
+    for boundingBox in BoundingBox.objects:
+        boundingBoxs.append(boundingBox)
+    return make_response(jsonify(boundingBoxs), 200)
+
+#WIP
+# Fetches all the current suggested locations in the db and returns as a JSON object..
+@app.route('/api/get_suggested', methods=['GET'])
+def get_suggested():
+    print('Get suggested request received. Accessing db...')
+    suggestedStations = []
+    for suggestedStation in SuggestedStation.objects:
+        suggestedStations.append(suggestedStation)
+    return make_response(jsonify(suggestedStations), 200)
 
 # Gets the charger station data from the form body and creates a db entry for it...
 @app.route('/api/add_station', methods=['POST'])
@@ -66,6 +87,15 @@ def add_station():
         return make_response('Charger station entered...', 201)
     else:
         return make_response('An error occurred...', 400)
+
+@app.route('/api/add_bounding', methods=["POST"])
+def add_bounding():
+    result = Add_Bounding(request)
+    print(result)
+    if result == True:
+        return make_response('Bounding box added...', 201)
+    else:
+        return make_response('An error occured...', 400)
 
 
 # A testing route to add a demo marker to the db.
