@@ -1,13 +1,12 @@
 # Import environment variables.
 from env import DB_URI
 
-# Import models.
-from ChargerStation import ChargerStation
-
 # Import resources.
 from flask import Flask, make_response, request, jsonify, render_template, send_from_directory
 from flask_mongoengine import MongoEngine
-from csv_to_db import CsvToDb
+from routes.csv_to_db import CsvToDb
+from routes.bound_csv_to_db import BoundCsvToDb
+from routes.suggested_csv_to_db import SuggestedCsvToDb
 
 # Set run environment variable to determine how server will run.
 run_environment = 'LOCAL'
@@ -40,13 +39,26 @@ def HomePage():
     # Return a simple message if the server is up.
     return ('The server is running... Use route "/go" to launch csv to db')
 
-@app.route('/go', methods=['GET'])
+@app.route('/go_stations', methods=['GET'])
 def Go():
     # Attempt to run import...
     response = CsvToDb()
     #response = 'something'
     return (response)
 
+@app.route('/go_bounds', methods=['GET'])
+def Go():
+    # Attempt to run import...
+    response = BoundCsvToDb()
+    #response = 'something'
+    return (response)
+
+@app.route('/go_suggested', methods=['GET'])
+def Go():
+    # Attempt to run import...
+    response = SuggestedCsvToDb()
+    #response = 'something'
+    return (response)
 
 # Initialize server...
 if __name__ == '__main__':

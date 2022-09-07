@@ -7,7 +7,7 @@ from models.BoundingBox import BoundingBox
 from models.SuggestedStation import SuggestedStation
 
 # Import routes
-from routes.api import Add_Station, DB_Populate, Add_Bounding
+from routes.api import Add_Station, DB_Populate, Add_Bounding, Add_Suggested
 
 # Import resources.
 from flask import Flask, make_response, request, jsonify, render_template, send_from_directory
@@ -88,12 +88,23 @@ def add_station():
     else:
         return make_response('An error occurred...', 400)
 
+# Adding a bounding box to the database manually
 @app.route('/api/add_bounding', methods=["POST"])
 def add_bounding():
     result = Add_Bounding(request)
     print(result)
     if result == True:
         return make_response('Bounding box added...', 201)
+    else:
+        return make_response('An error occured...', 400)
+
+# Adding a suggested station to the database manually
+@app.route('/api/add_suggested', methods=["POST"])
+def add_suggested():
+    result = Add_Suggested(request)
+    print(result)
+    if result == True:
+        return make_response('Suggested Station added...', 201)
     else:
         return make_response('An error occured...', 400)
 

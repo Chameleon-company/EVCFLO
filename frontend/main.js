@@ -2,9 +2,14 @@
 let KEY = "AIzaSyDGTQ9MBm6Bmf88rfrMQH1o1Pw-3ols86A";
 
 // API Server address
-let CHARGERS_URI = "http://localhost:5000/api/get_chargers"
-let BOUND_URI = "http://localhost:5000/api/get_bounds"
-let SUGGESTED_URI = "http://localhost:5000/api/get_suggested"
+//LOCAL
+//let CHARGERS_URI = "http://localhost:5000/api/get_chargers"
+//let BOUND_URI = "http://localhost:5000/api/get_bounds"
+//let SUGGESTED_URI = "http://localhost:5000/api/get_suggested"
+//LIVE
+let CHARGERS_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_chargers"
+let BOUND_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_bounds"
+let SUGGESTED_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_suggested"
 
 // Initialize and add the map
 function initMap() {
@@ -12,6 +17,7 @@ function initMap() {
     // Declare empty array to store markers returned from the API
     const markers = [];
     const bounds = [];
+    const suggested = [];
 
     // Declare Melbourne location coords (for centring map).
     const melbourne = { lat: -37.8136, lng: 144.9631 }
@@ -35,7 +41,12 @@ function initMap() {
             // Iterate through data and pull lat/long coords to build markers. Push the markers to our array.
             for (var i = 0; i < data.length; i++) {
                 let markerPosition = { lat: data[i].latitude, lng: data[i].longitude };
-                markers.push(new google.maps.Marker({ position: markerPosition, map: map }));
+                markers.push(new google.maps.Marker({ position: markerPosition, 
+                    map: map,
+                    icon: {
+                        url: "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
+                    }
+                }));
             }
         })
         .catch((error) => {
@@ -74,7 +85,7 @@ function initMap() {
         })
 
     // Fetch suggested charger location map markers from API. WIP(Make markers different colour)
-    fetch(CHARGERS_URI)
+    fetch(SUGGESTED_URI)
         .then((response) => {
             // Convert the API response to a json object.
             return response.json();
@@ -85,7 +96,7 @@ function initMap() {
             // Iterate through data and pull lat/long coords to build markers. Push the markers to our array.
             for (var i = 0; i < data.length; i++) {
                 let markerPosition = { lat: data[i].latitude, lng: data[i].longitude };
-                markers.push(new google.maps.Marker({ position: markerPosition, 
+                suggested.push(new google.maps.Marker({ position: markerPosition, 
                     map: map , 
                     icon: {
                         url: "http://maps.google.com/mapfiles/ms/icons/blue-dot.png"

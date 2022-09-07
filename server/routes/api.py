@@ -2,6 +2,8 @@
 
 # Import models.
 from models.ChargerStation import ChargerStation
+from models.BoundingBox import BoundingBox
+from models.SuggestedStation import SuggestedStation
 
 # Add a ChargerStation to the db, returns True if successful otherwise returns False.
 def Add_Station(request):
@@ -35,7 +37,7 @@ def Add_Station(request):
         if 'Plugs_Caravan_Mains_Socket' in request.form: chargerStation_.Plugs_Caravan_Mains_Socket=request.form['Plugs_Caravan_Mains_Socket']
         if 'Plugs_Other' in request.form: chargerStation_.Plugs_Other=request.form['Plugs_Other']
 
-        # Attempt to parse array values, if fails default to []...
+        # Attempt to parse array values, if fails default to ["unknown"]...
         if 'power_outputs_kw' in request.form: 
             try:
                 array = (request.form['power_outputs_kw']).split(',')
@@ -71,6 +73,42 @@ def Add_Station(request):
 
 #WIP - Form interpretation to add bounding box to the database
 def Add_Bounding(request):
+
+    boundingBox_ = BoundingBox(north=request.form['north'], south=request.form['south'], east=request.form['east'],
+                               west=request.form['west'], source=request.form['source'], source_date=request.form['source_date'])
+
+    # Save the bounding box to the database.
+    print('bounding box received, saving to db..')
+    try:
+        boundingBox_.save()
+        return True
+    except BaseException as err:
+        print(f"Unexpected {err=}, {type(err)=}")
+        raise
+        return False
+    
+    # If reaches this point the entry was successful.
+    return True
+
+#WIP - Form interpretation to add suggested station to the database
+def Add_Suggested(request):
+
+    suggestedStation_ = SuggestedStation(longitude=request.form['longitude'], latitude=request.form['latitude'], 
+                                         total_plugs=request.form['suitability_score'], source=request.form['suitability_score'])
+
+    # Save the suggested station to the database.
+    print('suggested station received, saving to db..')
+    try:
+        suggestedStation_.save()
+        return True
+    except BaseException as err:
+        print(f"Unexpected {err=}, {type(err)=}")
+        raise
+        return False
+    
+    # If reaches this point the entry was successful.
+    return True
+
     return True
 
 # Populates the db with demo markers. Returns True if successful, otherwise False.
