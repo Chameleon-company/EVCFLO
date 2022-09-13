@@ -132,3 +132,27 @@ def DB_Populate(request):
         return True
     except:
         return False
+
+# Search the database
+def DB_Search_Chargers(lat=0, lng=0, rad=0):
+    print('Get chargers search request received. Accessing db...')
+
+    # Convert incoming strings to floats
+    lat = float(lat)
+    lng = float(lng)
+    rad = float(rad)
+
+    chargerStations = []
+    # 1 latitude/longitude point = 111km
+    radConversion = rad/111
+    north = lat + radConversion
+    south = lat - radConversion
+    east = lng + radConversion
+    west = lng - radConversion
+    print (str(north) + ", " + str(south) + ", " + str(east) + ", " + str(west))
+    for chargerStation in ChargerStation.objects:
+        # Check if the charger station from the db is within the search area, if so add to the list of results.
+        if (chargerStation.latitude < north and chargerStation.latitude > south and chargerStation.longitude < east and chargerStation.longitude > west):
+            print ("in range")
+            chargerStations.append(chargerStation)
+    return chargerStations

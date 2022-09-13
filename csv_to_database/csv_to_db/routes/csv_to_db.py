@@ -13,8 +13,17 @@ def CsvToDb():
     filePath = env.CSV_FILEPATH
 
     # Load the csv file and put into a dataframe
-    df = pd.read_csv(filePath)
-
+    try:
+        df = pd.read_csv(filePath)
+        #print(df)
+        print('Loaded .csv file')
+    except BaseException as err:
+        # something went wrong up, send back an error message.
+        print(f"Unexpected {err=}, {type(err)=}")
+        print('An error occurred loading .csv file')
+        raise
+        return ('Something went wrong loading .csv file, check console for error...')
+	
     # Iterate through the dataframe, create a ChargerStation object, and save to the database.
     try:
         # attempt to perform heavy lifting converting and saving charger station here.
@@ -25,7 +34,7 @@ def CsvToDb():
             nonSpec = 'not specified'
             unkn = 'unknown'
             arr_unkn = ['unknown']
-
+            
             # Clean the df - replace missing values with defaults.
             df['location_category'].fillna(nonSpec, inplace = True)
             df['location_sub_category'].fillna(nonSpec, inplace = True)
@@ -36,11 +45,11 @@ def CsvToDb():
             df['pricing'].fillna(unkn, inplace = True)
             df['free_use'].fillna(nonSpec, inplace = True)
             df['contact'].fillna(unkn, inplace = True)
-            df['networks'].fillna(arr_unkn, inplace = True)
+            df['networks'].fillna(unkn, inplace = True)
             df['total_plugs'].fillna(0, inplace = True)
             df['port_level_type'].fillna(nonSpec, inplace = True)
             df['renewable_power_supply'].fillna(nonSpec, inplace = True)
-            df['power_outputs_kw'].fillna(arr_unkn, inplace = True)
+            df['power_outputs_kw'].fillna(unkn, inplace = True)
             df['Plugs_CHAdeMO'].fillna(0, inplace = True)
             df['Plugs_Tesla'].fillna(0, inplace = True)
             df['Plugs_CCS_SAE'].fillna(0, inplace = True)
@@ -52,7 +61,7 @@ def CsvToDb():
             df['Plugs_Caravan_Mains_Socket'].fillna(0, inplace = True)
             df['Plugs_Other'].fillna(0, inplace = True)
 
-
+            
             # Populate the rest of the parameters from the df.
             chargerStation_.location_category = df['location_category'].iloc[i]
             chargerStation_.location_sub_category = df['location_sub_category'].iloc[i]
@@ -84,7 +93,7 @@ def CsvToDb():
         # something went wrong up, send back an error message.
         print(f"Unexpected {err=}, {type(err)=}")
         raise
-        return ('Something went wrong, check console for error...')
+        return ('Something went wrong converting data to charger station, check console for error...')
 
     return ('Processing completed...')
 

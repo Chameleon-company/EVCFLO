@@ -37,24 +37,24 @@ db.init_app(app)
 @app.route('/', methods=['GET'])
 def HomePage():
     # Return a simple message if the server is up.
-    return ('The server is running... Use route "/go" to launch csv to db')
+    return ('The server is running... Use route "/go_stations", "/go_bounds", "/go_suggested" to launch csv to db')
 
 @app.route('/go_stations', methods=['GET'])
-def Go():
+def Go_Stations():
     # Attempt to run import...
     response = CsvToDb()
     #response = 'something'
     return (response)
 
 @app.route('/go_bounds', methods=['GET'])
-def Go():
+def Go_Bounds():
     # Attempt to run import...
     response = BoundCsvToDb()
     #response = 'something'
     return (response)
 
 @app.route('/go_suggested', methods=['GET'])
-def Go():
+def Go_Suggested():
     # Attempt to run import...
     response = SuggestedCsvToDb()
     #response = 'something'

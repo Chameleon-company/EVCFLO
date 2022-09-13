@@ -7,7 +7,7 @@ from models.BoundingBox import BoundingBox
 from models.SuggestedStation import SuggestedStation
 
 # Import routes
-from routes.api import Add_Station, DB_Populate, Add_Bounding, Add_Suggested
+from routes.api import Add_Station, DB_Populate, Add_Bounding, Add_Suggested, DB_Search_Chargers
 
 # Import resources.
 from flask import Flask, make_response, request, jsonify, render_template, send_from_directory
@@ -45,8 +45,8 @@ run_environment = 'LOCAL'
 # The homepage.
 @app.route('/', methods=['GET'])
 def HomePage():
-    #return ('The server is running...')
-    return render_template('./public/index.html')
+    return ('The server is running...')
+    #return render_template('./public/index.html')
 
 
 # Fetches all the ChargerStations in the db and returns as a JSON object..
@@ -58,7 +58,6 @@ def get_chargers():
         chargerStations.append(chargerStation)
     return make_response(jsonify(chargerStations), 200)
 
-#WIP
 # Fetches all the bounds of current scanned bounding box's in the db and returns as a JSON object..
 @app.route('/api/get_bounds', methods=['GET'])
 def get_bounds():
@@ -68,7 +67,6 @@ def get_bounds():
         boundingBoxs.append(boundingBox)
     return make_response(jsonify(boundingBoxs), 200)
 
-#WIP
 # Fetches all the current suggested locations in the db and returns as a JSON object..
 @app.route('/api/get_suggested', methods=['GET'])
 def get_suggested():
@@ -108,6 +106,16 @@ def add_suggested():
     else:
         return make_response('An error occured...', 400)
 
+# Searching for charger stations by location and radius
+@app.route('/api/search_chargers/<lat>/<lng>/<rad>', methods=['GET'])
+def search_chargers(lat=0, lng=0, rad=0):
+    print('Get chargers search request received. Accessing db...')
+
+    # Get results for search query
+    result = DB_Search_Chargers(lat, lng, rad)
+
+    return make_response(jsonify(result), 200)
+    
 
 # A testing route to add a demo marker to the db.
 @app.route('/api/db_populate', methods=['POST'])
