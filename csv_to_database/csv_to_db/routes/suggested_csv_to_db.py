@@ -14,7 +14,8 @@ def SuggestedCsvToDb():
 
     # Load the csv file and put into a dataframe
     df = pd.read_csv(filePath)
-
+    print(df)
+    
     # Iterate through the dataframe, create a bound object, and save to the database.
     try:
         # attempt to perform heavy lifting converting and saving charger station here.

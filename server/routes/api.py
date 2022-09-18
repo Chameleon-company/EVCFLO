@@ -94,7 +94,7 @@ def Add_Bounding(request):
 def Add_Suggested(request):
 
     suggestedStation_ = SuggestedStation(longitude=request.form['longitude'], latitude=request.form['latitude'], 
-                                         total_plugs=request.form['suitability_score'], source=request.form['suitability_score'])
+                                         total_plugs=request.form['total_plugs'], suitability_score=request.form['suitability_score'])
 
     # Save the suggested station to the database.
     print('suggested station received, saving to db..')

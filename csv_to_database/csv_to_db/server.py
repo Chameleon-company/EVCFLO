@@ -43,21 +43,18 @@ def HomePage():
 def Go_Stations():
     # Attempt to run import...
     response = CsvToDb()
-    #response = 'something'
     return (response)
 
 @app.route('/go_bounds', methods=['GET'])
 def Go_Bounds():
     # Attempt to run import...
     response = BoundCsvToDb()
-    #response = 'something'
     return (response)
 
 @app.route('/go_suggested', methods=['GET'])
 def Go_Suggested():
     # Attempt to run import...
     response = SuggestedCsvToDb()
-    #response = 'something'
     return (response)
 
 # Initialize server...
