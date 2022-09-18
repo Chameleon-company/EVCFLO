@@ -34,8 +34,8 @@ db = MongoEngine()
 db.init_app(app)
 
 # Set run environment variable to determine how server will run.
-run_environment = 'LOCAL'
-#run_environment = 'LIVE'
+#run_environment = 'LOCAL'
+run_environment = 'LIVE'
 
 
 ########
@@ -46,7 +46,6 @@ run_environment = 'LOCAL'
 @app.route('/', methods=['GET'])
 def HomePage():
     return ('The server is running...')
-    #return render_template('./public/index.html')
 
 
 # Fetches all the ChargerStations in the db and returns as a JSON object..

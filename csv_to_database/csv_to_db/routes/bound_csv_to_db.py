@@ -19,6 +19,7 @@ def BoundCsvToDb():
     try:
         # attempt to perform heavy lifting converting and saving charger station here.
         for i in range(len(df.index)):
+            print(df['source'].iloc(i))
             boundingBox_ = BoundingBox(north=df['north'].iloc[i], south=df['south'].iloc[i], east=df['east'].iloc[i],
                                         west=df['west'].iloc[i], source=df['source'].iloc[i], source_date=df['source_date'].iloc[i])
 

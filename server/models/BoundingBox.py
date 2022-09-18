@@ -1,4 +1,4 @@
-# WIP This class defines the boundingBox model
+# This class defines the boundingBox model
 
 from flask_mongoengine import MongoEngine
 

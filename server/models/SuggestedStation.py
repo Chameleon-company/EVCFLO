@@ -1,4 +1,4 @@
-# WIP This class defines the suggestedStation model
+# This class defines the suggestedStation model
 
 from flask_mongoengine import MongoEngine
 
