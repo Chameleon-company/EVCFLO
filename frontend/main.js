@@ -3,19 +3,13 @@ let KEY = "AIzaSyDtqhSWmPBgoWRASz58IbAuMqQY9lgWoxo";
 
 // API Server address
 //LOCAL
-let CHARGERS_URI = "http://localhost:5000/api/get_chargers"
-let BOUND_URI = "http://localhost:5000/api/get_bounds"
-let SUGGESTED_URI = "http://localhost:5000/api/get_suggested"
+// let CHARGERS_URI = "http://localhost:5000/api/get_chargers"
+// let BOUND_URI = "http://localhost:5000/api/get_bounds"
+// let SUGGESTED_URI = "http://localhost:5000/api/get_suggested"
 //LIVE
-<<<<<<< HEAD
-//let CHARGERS_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_chargers"
-//let BOUND_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_bounds"
-//let SUGGESTED_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_suggested"
-=======
-// let CHARGERS_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_chargers"
-// let BOUND_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_bounds"
-// let SUGGESTED_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_suggested"
->>>>>>> c6dd69f (Updated server and csv_to_db files to include new functions and live parameters.)
+let CHARGERS_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_chargers"
+let BOUND_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_bounds"
+let SUGGESTED_URI = "https://server-e657pcuziq-ts.a.run.app/api/get_suggested"
 
 // Initialize and add the map
 function initMap() {
