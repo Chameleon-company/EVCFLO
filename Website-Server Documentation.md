@@ -65,7 +65,7 @@ Returns: All of the suggested points objects from the database as a json object.
 
 Method: GET
 
-Returns: Chargerstation objects from the database within <rad>km from geo location with latitude <lat> and longitude <lng> as a json object.
+Returns: Chargerstation objects from the database within rad km from geo location with latitude lat and longitude lng as a json object.
 
 
 *[/api/add_station]*
