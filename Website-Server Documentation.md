@@ -47,13 +47,52 @@ Method: GET
 Returns: All of the chargerstation objects from the database as a json object.
 
 
+*[/api/get_bounds]*
+
+Method: GET
+
+Returns: All of the bounding box objects from the database as a json object.
+
+
+*[/api/get_suggested]*
+
+Method: GET
+
+Returns: All of the suggested points objects from the database as a json object.
+
+
+*[/api/search_chargers/<lat>/<lng>/<rad>]*
+
+Method: GET
+
+Returns: Chargerstation objects from the database within <rad>km from geo location with latitude <lat> and longitude <lng> as a json object.
+
+
 *[/api/add_station]*
 
 Method: POST
 
 Returns: 201 if successful, 400 if failed.
 
-Note: Requires body to contain at least valid values for 'name', 'latitude', 'longitude' parameters. The complete model for a charger station (parameter names and types) can be found in /models/ChargerStation.py
+Note: Requires body to contain at least valid values for 'name', 'latitude', and 'longitude' parameters. The complete model for a charger station (parameter names and types) can be found in /models/ChargerStation.py
+
+
+*[/api/add_bounding]*
+
+Method: POST
+
+Returns: 201 if successful, 400 if failed.
+
+Note: Requires body to contain at least valid values for 'north', 'south', 'east', 'west', 'source', and 'source_date' parameters. The complete model for a bounding box (parameter names and types) can be found in /models/BoundingBox.py
+
+
+*[/api/add_suggested]*
+
+Method: POST
+
+Returns: 201 if successful, 400 if failed.
+
+Note: Requires body to contain at least valid values for 'latitude', 'longitude', 'total_plugs', and 'suitability_score' parameters. The complete model for a charger station (parameter names and types) can be found in /models/SuggestedStation.py
 
 
 *[/api/db_populate]*
