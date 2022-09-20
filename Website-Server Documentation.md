@@ -61,7 +61,7 @@ Method: GET
 Returns: All of the suggested points objects from the database as a json object.
 
 
-*[/api/search_chargers/<lat>/<lng>/<rad>]*
+*[/api/search_chargers/lat/lng/rad]*
 
 Method: GET
 
