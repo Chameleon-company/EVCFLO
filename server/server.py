@@ -34,7 +34,7 @@ db = MongoEngine()
 db.init_app(app)
 
 # Set run environment variable to determine how server will run.
-#run_environment = 'LOCAL'
+# run_environment = 'LOCAL'
 run_environment = 'LIVE'
 
 
