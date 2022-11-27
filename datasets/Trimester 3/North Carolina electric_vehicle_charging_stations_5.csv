@@ -1,0 +1,8 @@
+rel,href
+self,https://data.townofcary.org/api/v2/catalog/datasets/electric-vehicle-charging-stations
+datasets,https://data.townofcary.org/api/v2/catalog/datasets
+records,https://data.townofcary.org/api/v2/catalog/datasets/electric-vehicle-charging-stations/records
+exports,https://data.townofcary.org/api/v2/catalog/datasets/electric-vehicle-charging-stations/exports
+aggregate,https://data.townofcary.org/api/v2/catalog/datasets/electric-vehicle-charging-stations/aggregates
+facets,https://data.townofcary.org/api/v2/catalog/datasets/electric-vehicle-charging-stations/facets
+reuses,https://data.townofcary.org/api/v2/catalog/datasets/electric-vehicle-charging-stations/reuses
