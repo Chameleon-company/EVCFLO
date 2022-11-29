@@ -1,0 +1,28 @@
+﻿OBJECTID,Name,Details,Longitude,Latitude,Type
+1,"Copley Street, Cork","Type-2 AC Socket 22kW (x2, 1 Occupied, 1 Available) CP:C5HT8",-8.46768289796164,51.8951778567994,Standard
+2,"Copley Street, Opposite Keohans Funeral Home, Cork","Type-2 AC Socket 22kW (x2, ALL Occupied) CP:C80JH",-8.46768289796164,51.8951778567994,Standard
+3,"95 Glanmire Road, Cork City","Type-2 AC Socket 22kW (x2, ALL Available)",-8.45649558034883,51.9024754024261,Standard
+4,"South Mall (opp no 41), Cork City","Type-2 AC Socket 22kW (x2, 1 Occupied, 1 Available) CP:C84X5 Free parking for EVs while charging",-8.47335349073475,51.8963441827223,Standard
+5,"Black Ash Park & Ride, Off South Link Road, Cork",1 charge point with facility to charge 2 cars,-8.46650266978178,51.8785884274526,Standard
+6,Cork Institute of Technology,1 charge point with facility to charge 2 cars,-8.53461811430965,51.8859740483233,Standard
+7,Cork County Hall,"
+ Type-2 AC Socket 22kW (x2, 1 Occupied, 1 Available)",-8.50772821768268,51.8928978823019,Standard
+8,Kent Station,"Type-2 AC Socket 22kW (x2, ALL Occupied)",-8.45664310976961,51.9021679399292,Standard
+9,Paul Street Multi Storey Car Park,Type-2 AC Socket 3.7kW Slow Charger (x2 spaces),-8.47482896550408,51.899790322481,Standard
+10,North Main Street Multi Storey Car Park,Type-2 AC Socket 3.7kW Slow Charger (x2 spaces),-8.47794257029627,51.9008095813471,Standard
+11,City Hall Q-park Multi Storey Car Park ,Type-2 AC Socket 3.7kW Slow Charger (x2 spaces) Paid Parking,-8.4643651150885,51.8964500716616,Standard
+12,Grand Parade Q-park Multi Storey Car Park ,Type-2 AC Socket 3.7kW Slow Charger (x2 spaces),-8.47434528650396,51.8965967400054,Standard
+13,St. Finbarr’s Q-park Multi Storey Car Park ,Type-2 AC Socket 3.7kW Slow Charger (x2 spaces) Paid Parking,-8.48107162341642,51.8963712371735,Standard
+14,Carrolls’s Quay Q-park Multi Storey Car Park ,Type-2 AC Socket 3.7kW Slow Charger (x2 spaces),-8.4722857918156,51.9017415593558,Standard
+15,"Musgrave Group HQ, Ballycureen",Type-2 AC Socket 3.7kW Slow Charger (x2 spaces),-8.4749220121029,51.8674462120282,Standard
+16,"Deasey’s Topaz Service Station, Commons Road","CHAdeMO DC 45kW (1 space), Combo DC 45kW (1 space), AC (Type-2) 43kW (1 space)",-8.48252216814,51.9197753599228,Fast Charge
+17,"Esso/Centra , Rochestown Road","CHAdeMO DC 45kW (1 space), Combo DC 45kW (1 space), AC (Type-2) 43kW (1 space)",-8.3954039516364,51.8769996521065,Fast Charge
+18,Topaz Frankfield Service Station,"CHAdeMO DC 45kW (1 space), AC (Type-2) 43kW (1 space)",-8.47082780993981,51.8720983163551,Fast Charge
+19,Nissan Fast Charge Point,"CHAdeMO DC 50kW (Available) Business hours only (Mon-Fri 9.00-18.00, Sat 9.00-15.00)",-8.5145661828456,51.8934819797715,Fast Charge
+20,The River Lee Hotel,"Type-2 AC Socket 3.7kW (Available) 24 hour access (Paid Car Park)
+",-8.48484552138351,51.895954906142,Standard
+21,Clayton Hotel Silver Springs,"Type-2 AC Socket 3.7kW (Available)
+Type-2 AC Socket 3.7kW (Available) 24 hour access",-8.42394272932357,51.9038926074931,
+22,"O'Sullivan's Bar, West Village, Douglas","Type-2 AC Socket 22kW (Available)
+Type-2 AC Socket 22kW (Available) Patrons Only",-8.43970719327769,51.8759425486748,
+23,"Castle Close Road, Blarney",Type -2 22kw (x2 Spaces),-8.5653550463422,51.9313766554389,Standard
