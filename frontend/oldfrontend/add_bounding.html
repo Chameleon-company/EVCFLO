@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://storage.cloud.google.com/evcflo_static_frontend/style.css">
+</head>
+
+<body>
+    <h1>Chameleon Electric Vehicle Charger Forecasting and Location Optimization project</h1>
+    <h2>Add a bounding box to the database</h2>
+
+    <!--Nav strip -->
+    <hr>
+    <!--LOCAL-->
+    <!--    
+    <a href="http://localhost:5000/frontend/index.html"> | Home.</a>
+    <a href="http://localhost:5000/frontend/add_station.html"> | Add a Charge Station here.</a>
+    <a href="http://localhost:5000/frontend/add_suggested_station.html"> | Add a Suggested Station here.</a>
+    <a href="http://localhost:5000/frontend/add_bounding.html"> | Add a Bounding Box here.</a>
+    <a href="http://localhost:5000/frontend/notebooks.html"> | View Research.</a>
+    <a href="http://localhost:5000/frontend/visualizations.html"> | Visualizations. |</a>
+    -->
+    <!--LIVE-->
+    <a href="https://storage.googleapis.com/evcflo_static_frontend/index.html"> | Home.</a>
+    <a href="https://storage.cloud.google.com/evcflo_static_frontend/add_station.html"> | Add a Charge Station here.</a>
+    <a href="https://storage.cloud.google.com/evcflo_static_frontend/add_suggested_station.html"> | Add a Suggested Station here.</a>
+    <a href="https://storage.cloud.google.com/evcflo_static_frontend/add_bounding.html"> | Add a Bounding Box here.</a>
+    <a href="https://storage.cloud.google.com/evcflo_static_frontend/notebooks.html"> | View Research.</a>
+    <a href="https://github.com/Chameleon-company/EVCFLO"> | GitHub. |</a>
+    <a href ="https://storage.cloud.google.com/evcflo_static_frontend/visualizations.html"> | Visualizations. |</a>
+    <hr>
+
+    <form action="https://server-e657pcuziq-ts.a.run.app/api/add_bounding" method="POST">
+        <label for="north">North:</label>
+        <input type="number" step="0.0001" id="north" name="north"><br>
+        <label for="south">South:</label>
+        <input type="south" step="0.0001" id="south" name="south"><br>
+        <label for="east">East:</label>
+        <input type="number" step="0.0001" id="east" name="east"><br>
+        <label for="west">West:</label>
+        <input type="number" step="0.0001" id="west" name="west"><br>
+        <label for="source">Source - How points inside obtained (Google_API):</label>
+        <input type="text" id="source" name="source"><br>
+        <label for="source_date">Source Date:</label>
+        <input type="date" id="source_date" name="source_date"><br>
+        <input type="submit" value="Submit">
+    </form>
+
+    <script src="" async defer></script>
+</body>
+
+</html>
