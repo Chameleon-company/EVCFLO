@@ -16,8 +16,10 @@
     "react-burger-menu": "^3.0.9",
     "react-dom": "^18.2.0",
     "react-native-svg": "^13.8.0",
+    "react-router-dom": "^6.9.0",
     "react-scripts": "5.0.1",
     "react-social-icons": "^5.15.0",
+    "styled-components": "^5.3.9",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
