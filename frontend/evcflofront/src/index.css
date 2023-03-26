@@ -31,7 +31,7 @@ Variables
   --clr-grey-9: hsl(142, 51%, 22%);
   --clr-grey-10: hsl(210, 36%, 96%);
   --clr-white: #fff;
-  --clr-yellow: #c6b945;
+  --clr-yellow: #d2c868ec;
   --ff-primary: "Lato", sans-serif;
   --transition: all 0.3s linear;
   --spacing: 0.25rem;
@@ -306,7 +306,7 @@ Navbar
 }
 .nav-link:hover {
   color: var(--clr-primary-1);
-  background: var(--clr-primary-8);
+  background: var(--clr-primary-2);
   padding-left: 2.25rem;
 }
 .social-icons {
@@ -369,7 +369,7 @@ Navbar
   }
   .nav-link:hover {
     padding: 0;
-    color: var(--clr-primary-5);
+    color: var(--clr-primary-4);
     background: transparent;
   }
   .nav-icons {
