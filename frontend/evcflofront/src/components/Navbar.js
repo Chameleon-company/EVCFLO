@@ -12,6 +12,7 @@ const Navbar = () => {
   const toggleLinks = () => {
     setShowLinks(!showLinks);
   };
+  //for dropdown box mobile view
   useEffect(() => {
     const linksHeight = linksRef.current.getBoundingClientRect().height;
     if (showLinks) {
@@ -36,6 +37,7 @@ const Navbar = () => {
         </div>
         <div className="links-container" ref={linksContainerRef}>
           <ul className="nav-links" id="nav-links" ref={linksRef}>
+            {/*maps pagelinks from data.js*/}
             {pageLinks.map((link) => {
               return (
                 <li key={link.id}>
@@ -48,6 +50,7 @@ const Navbar = () => {
           </ul>
         </div>
         <ul className="nav-icons">
+          {/* maps social links from data.js*/}
           {socialLinks.map((link) => {
             const { id, href, bgc } = link;
             return (
