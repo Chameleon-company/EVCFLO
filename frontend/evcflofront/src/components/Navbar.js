@@ -25,7 +25,9 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="nav-center">
         <div className="nav-header">
-          <img src={logo} className="nav-logo" alt="evcflologo" />
+          <a href="/home" target="_blank" rel="noreferrer">
+            <img src={logo} className="nav-logo" alt="evcflologo" />
+          </a>
           <button
             type="button"
             className="nav-toggle"
