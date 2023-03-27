@@ -279,7 +279,7 @@ Navbar
   font-size: 1rem;
 }
 .nav-link:hover {
-  color: var(--prime-clr-1);
+  color: var(--prime-clr-5);
   background: var(--prime-clr-2);
   padding-left: 2.25rem;
 }
