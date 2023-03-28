@@ -119,7 +119,7 @@ p {
   color: var(--prime-clr-1);
   background: var(--prime-clr-5);
 }
-/* section */
+/* section  */
 .section {
   padding: 5rem 0;
   scroll-margin-top: 4rem;
@@ -395,17 +395,6 @@ Hero Component
   margin-right: auto;
   color: var(--white-clr);
   letter-spacing: var(--spacing);
-}
-.hero-btn {
-  padding: 0.9rem 1.6rem;
-  font-size: 1.25rem;
-  background: var(--white-clr);
-  color: var(--prime-clr-4);
-}
-.hero-btn:hover {
-  background: transparent;
-  color: var(--white-clr);
-  border-color: var(--white-clr);
 }
 @media screen and (min-width: 768px) {
   .hero {
