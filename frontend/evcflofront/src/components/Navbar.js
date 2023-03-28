@@ -6,14 +6,14 @@ import { SocialIcon } from "react-social-icons";
 
 const Navbar = () => {
   const [showLinks, setShowLinks] = useState(false); //usestate for dropdown menu, viewable below certain screen sizes
-  const [isOpen, setOpen] = useState(false); // For hamburger menu icon
+  const [isOpen, setOpen] = useState(false); // usestate For hamburger menu icon using the hamburger react library
   const linksUseRef = useRef(null); // keeps menu dropdown open after refresh
   const rLinks = useRef(null);
   const toggleLinks = () => {
     //toggles dropdown links
     setShowLinks(!showLinks);
   };
-  //for dropdown box mobile view
+  //for dropdown box
   useEffect(() => {
     const linksHeight = rLinks.current.getBoundingClientRect().height;
     if (showLinks) {
@@ -27,6 +27,8 @@ const Navbar = () => {
       <div className="nav-center">
         <div className="nav-header">
           <a href="/home" target="_blank" rel="noreferrer">
+            {" "}
+            {/*links logo to homepage*/}
             <img src={logo} className="nav-logo" alt="evcflologo" />
           </a>
           <button
