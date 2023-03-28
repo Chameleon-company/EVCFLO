@@ -5,20 +5,21 @@ import Hamburger from "hamburger-react";
 import { SocialIcon } from "react-social-icons";
 
 const Navbar = () => {
-  const [showLinks, setShowLinks] = useState(false);
-  const [isOpen, setOpen] = useState(false);
-  const linksContainerRef = useRef(null);
-  const linksRef = useRef(null);
+  const [showLinks, setShowLinks] = useState(false); //usestate for dropdown menu, viewable below certain screen sizes
+  const [isOpen, setOpen] = useState(false); // For hamburger menu icon
+  const linksUseRef = useRef(null); // keeps menu dropdown open after refresh
+  const rLinks = useRef(null);
   const toggleLinks = () => {
+    //toggles dropdown links
     setShowLinks(!showLinks);
   };
   //for dropdown box mobile view
   useEffect(() => {
-    const linksHeight = linksRef.current.getBoundingClientRect().height;
+    const linksHeight = rLinks.current.getBoundingClientRect().height;
     if (showLinks) {
-      linksContainerRef.current.style.height = `${linksHeight}px`;
+      linksUseRef.current.style.height = `${linksHeight}px`;
     } else {
-      linksContainerRef.current.style.height = "0px";
+      linksUseRef.current.style.height = "0px";
     }
   }, [showLinks]);
   return (
@@ -32,19 +33,20 @@ const Navbar = () => {
             type="button"
             className="nav-toggle"
             id="nav-toggle"
-            onClick={toggleLinks}
+            onClick={toggleLinks} //toggles dropdown menu
           >
             <Hamburger toggled={isOpen} toggle={setOpen} />
           </button>
         </div>
-        <div className="links-container" ref={linksContainerRef}>
-          <ul className="nav-links" id="nav-links" ref={linksRef}>
+        <div className="links-container" ref={linksUseRef}>
+          <ul className="nav-links" id="nav-links" ref={rLinks}>
             {/*maps pagelinks from data.js*/}
             {pageLinks.map((link) => {
+              const { id, href, text } = link;
               return (
-                <li key={link.id}>
-                  <a href={link.href} className="nav-link">
-                    {link.text}
+                <li key={id}>
+                  <a href={href} className="nav-link">
+                    {text}
                   </a>
                 </li>
               );
@@ -57,14 +59,7 @@ const Navbar = () => {
             const { id, href, bgc } = link;
             return (
               <li key={id}>
-                <a
-                  href={href}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="footer-icon"
-                >
-                  <SocialIcon url={href} bgColor={bgc} />
-                </a>
+                <SocialIcon url={href} bgColor={bgc} />
               </li>
             );
           })}
