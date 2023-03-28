@@ -9,14 +9,7 @@ const Footer = () => {
           const { id, href, bgc } = link;
           return (
             <li key={id}>
-              <a
-                href={href}
-                target="_blank"
-                rel="noreferrer"
-                className="footer-icon"
-              >
-                <SocialIcon url={href} bgColor={bgc} />
-              </a>
+              <SocialIcon url={href} bgColor={bgc} />
             </li>
           );
         })}
