@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://storage.cloud.google.com/evcflo_static_frontend/style.css">
+</head>
+
+<body>
+    <h1>Chameleon Electric Vehicle Charger Forecasting and Location Optimization project</h1>
+    <h2>Add a suggested station to the database</h2>
+
+    <!--Nav strip -->
+    <hr>
+    <!--LOCAL-->
+    <!--    
+    <a href="http://localhost:5000/frontend/index.html"> | Home.</a>
+    <a href="http://localhost:5000/frontend/add_station.html"> | Add a Charge Station here.</a>
+    <a href="http://localhost:5000/frontend/add_suggested_station.html"> | Add a Suggested Station here.</a>
+    <a href="http://localhost:5000/frontend/add_bounding.html"> | Add a Bounding Box here.</a>
+    <a href="http://localhost:5000/frontend/notebooks.html"> | View Research.</a>
+    <a href="http://localhost:5000/frontend/visualizations.html"> | Visualizations. |</a>
+    -->
+    <!--LIVE-->
+    <a href="https://storage.googleapis.com/evcflo_static_frontend/index.html"> | Home.</a>
+    <a href="https://storage.cloud.google.com/evcflo_static_frontend/add_station.html"> | Add a Charge Station here.</a>
+    <a href="https://storage.cloud.google.com/evcflo_static_frontend/add_suggested_station.html"> | Add a Suggested Station here.</a>
+    <a href="https://storage.cloud.google.com/evcflo_static_frontend/add_bounding.html"> | Add a Bounding Box here.</a>
+    <a href="https://storage.cloud.google.com/evcflo_static_frontend/notebooks.html"> | View Research.</a>
+    <a href="https://github.com/Chameleon-company/EVCFLO"> | GitHub. |</a>
+    <a href ="https://storage.cloud.google.com/evcflo_static_frontend/visualizations.html"> | Visualizations. |</a>
+
+    <hr>
+
+    <!-- <form action="http://localhost:5000/api/add_suggested" method="POST"></form> -->
+    <form action="https://server-e657pcuziq-ts.a.run.app/api/add_suggested" method="POST">
+        <label for="longitude">Longitude:</label>
+        <input type="number" step="0.0001" id="longitude" name="longitude"><br>
+        <label for="latitude">Latitude:</label>
+        <input type="number" step="0.0001" id="latitude" name="latitude"><br>
+        <label for="total_plugs">Total Plugs:</label>
+        <input type="number" id="total_plugs" name="total_plugs"><br>
+        <label for="suitability_score">Suitability_Score:</label>
+        <input type="number" step="0.001" id="suitability_score" name="suitability_score"><br>
+        <input type="submit" value="Submit">
+    </form>
+
+    <script src="" async defer></script>
+</body>
+
+</html>
