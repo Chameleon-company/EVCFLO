@@ -1,0 +1,22 @@
+﻿CHARGING POINT (name and adress),Location,longitude,latitude,Charger,Maker
+PdRR El Prat de Llobregat: Pl. Volateria (Mas Blau),El Prat deLlobregat,2.074807,41.318125,Quick,DBT
+PdRL El Prat de Llobregat: Pl. Volateria (Mas Blau),El Prat deLlobregat,2.07489,41.318112,Normal,CIRCUTOR
+PdRR Cornell? de Llobregat: Carrer de Baltasar Oriol i Mercer,Cornell? de Llobregat,2.088675,41.352895,Quick,DBT
+PdRL Cornell? de Llobregat: Carrer de Baltasar Oriol i Mercer,Cornell? de Llobregat,2.088723,41.352909,Normal,CIRCUTOR
+PdRR Badalona: C. Anna Tugas - Pg. Olof Palmer,Badalona,2.226672,41.454923,Quick,DBT
+PdRL Badalona: C. Anna Tugas - Pg. Olof Palmer,Badalona,2.226735,41.454931,Normal,CIRCUTOR
+"PdRR Barber? del Vall?s: C. Arqu­medes, 8",Barber? del Vall?s,2.133018,41.510892,Quick,DBT
+"PdRL Barber? del Vall?s: C. Arqu­medes, 8",Barber? del Vall?s,2.133097,41.510915,Normal,CIRCUTOR
+"PdRR Gav?: C. del Progres, 54",Gav?,2.008393,41.297211,Quick,DBT
+"PdRL Gav?: C. del Progres, 54",Gav?,2.008493,41.29726,Normal,CIRCUTOR
+PdRR l'Hospitalet de Ll.: C. Salvador Espriu - Gran Via de les Corts Catalanes,L'Hospitalet de Llobregat,2.122684,41.353543,Quick,DBT
+PdRL L'Hospitalet de Ll.: C. Salvador Espriu - Gran Via de les Corts Catalanes,L'Hospitalet de Llobregat,2.12274,41.353497,Normal,CIRCUTOR
+PdRR Montcada i Reixac: C. Tarragona - C. Pla de Matabous,Montcada i Reixac,2.18517,41.492368,Quick,DBT
+PdRL Montcada i Reixac: C. Tarragona - C. Pla de Matabous,Montcada i Reixac,2.185111,41.492438,Normal,CIRCUTOR
+PdRR Pallej?: Rda. Santa Eulalia - C. Joan Maragall,Pallej?,2.001107,41.419023,Quick,DBT
+PdRL Pallej?: Rda. Santa Eulalia - C. Joan Maragall,Pallej?,2.001132,41.419113,Normal,CIRCUTOR
+"PdRR Sant Cugat del Vall?s: Av. Via Augusta, 3",Sant Cugat del Vall?s,2.051367,41.4828,Quick,DBT
+"PdRL Sant Cugat del Vall?s: Av. Via Augusta, 3",Sant Cugat del Vall?s,2.051307,41.482744,Normal,CIRCUTOR
+PdRR Sant Joan Despi: C. TV3 - C. Jacint Verdaguer,Sant Joan Desp­,2.072196,41.374397,Quick,DBT
+PdRL Sant Joan Desp­: C. TV3 - C. Jacint Verdaguer,Sant Joan Desp­,2.072167,41.374448,Normal,CIRCUTOR
+FLNR Sant Andreu da la Barca: Pg. Rafael de Casanova FGC,Sant Andreu de la Barca,1.974044,41.446306,Normal,CIRCUTOR
