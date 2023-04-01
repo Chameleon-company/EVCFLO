@@ -1,0 +1,22 @@
+Charger;CHARGING POINT (name and adress);OCPP version;Location;longitude;latitude;Schuko 3kW 16A mode 1;Schuko 3kW 16A mode 1;Mennekes 7 kW 16A mode 3;Mennekes 7 kW 16A mode 3;Mennekes 43 kW 63A mode 3;CHAdeMO 55kW 125A mode 4;COMBO CCS 55 kW 125A mode 4;Observations;Maker
+Quick;PdRR El Prat de Llobregat: Pl. Volateria (Mas Blau);1.5;El Prat deLlobregat;2.074807;41.318125;;;;;x;x;x;;DBT
+Normal;PdRL El Prat de Llobregat: Pl. Volateria (Mas Blau);1.5;El Prat deLlobregat;2.07489;41.318112;x;x;;;;;;;CIRCUTOR
+Quick;PdRR Cornell? de Llobregat: Carrer de Baltasar Oriol i Mercer;1.5;Cornell? de Llobregat;2.088675;41.352895;;;;;x;x;x;;DBT
+Normal;PdRL Cornell? de Llobregat: Carrer de Baltasar Oriol i Mercer;1.5;Cornell? de Llobregat;2.088723;41.352909;x;x;;;;;;;CIRCUTOR
+Quick;PdRR Badalona: C. Anna Tugas - Pg. Olof Palmer;1.5;Badalona;2.226672;41.454923;;;;;x;x;x;;DBT
+Normal;PdRL Badalona: C. Anna Tugas - Pg. Olof Palmer;1.5;Badalona;2.226735;41.454931;x;x;;;;;;;CIRCUTOR
+Quick;PdRR Barber? del Vall?s: C. Arqu­medes, 8;1.5;Barber? del Vall?s;2.133018;41.510892;;;;;x;x;x;;DBT
+Normal;PdRL Barber? del Vall?s: C. Arqu­medes, 8;1.5;Barber? del Vall?s;2.133097;41.510915;x;x;;;;;;;CIRCUTOR
+Quick;PdRR Gav?: C. del Progres, 54;1.5;Gav?;2.008393;41.297211;;;;;x;x;x;;DBT
+Normal;PdRL Gav?: C. del Progres, 54;1.5;Gav?;2.008493;41.29726;x;x;;;;;;;CIRCUTOR
+Quick;PdRR l'Hospitalet de Ll.: C. Salvador Espriu - Gran Via de les Corts Catalanes;1.5;L'Hospitalet de Llobregat;2.122684;41.353543;;;;;x;x;x;;DBT
+Normal;PdRL L'Hospitalet de Ll.: C. Salvador Espriu - Gran Via de les Corts Catalanes;1.5;L'Hospitalet de Llobregat;2.12274;41.353497;x;x;;;;;;;CIRCUTOR
+Quick;PdRR Montcada i Reixac: C. Tarragona - C. Pla de Matabous;1.5;Montcada i Reixac;2.18517;41.492368;;;;;x;x;x;;DBT
+Normal;PdRL Montcada i Reixac: C. Tarragona - C. Pla de Matabous;1.5;Montcada i Reixac;2.185111;41.492438;x;x;;;;;;;CIRCUTOR
+Quick;PdRR Pallej?: Rda. Santa Eulalia - C. Joan Maragall;1.5;Pallej?;2.001107;41.419023;;;;;x;x;x;;DBT
+Normal;PdRL Pallej?: Rda. Santa Eulalia - C. Joan Maragall;1.5;Pallej?;2.001132;41.419113;x;x;;;;;;;CIRCUTOR
+Quick;PdRR Sant Cugat del Vall?s: Av. Via Augusta, 3;1.5;Sant Cugat del Vall?s;2.051367;41.4828;;;;;x;x;x;;DBT
+Normal;PdRL Sant Cugat del Vall?s: Av. Via Augusta, 3;1.5;Sant Cugat del Vall?s;2.051307;41.482744;x;x;;;;;;;CIRCUTOR
+Quick;PdRR Sant Joan Despi: C. TV3 - C. Jacint Verdaguer;1.5;Sant Joan Desp­;2.072196;41.374397;;;;;x;x;x;;DBT
+Normal;PdRL Sant Joan Desp­: C. TV3 - C. Jacint Verdaguer;1.5;Sant Joan Desp­;2.072167;41.374448;x;x;;;;;;;CIRCUTOR
+Normal;FLNR Sant Andreu da la Barca: Pg. Rafael de Casanova FGC;1.5;Sant Andreu de la Barca;1.974044;41.446306;x;x;x;x;;;;with solar pannels, open in April 2019;CIRCUTOR
