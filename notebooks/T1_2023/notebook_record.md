@@ -1,9 +1,11 @@
-#Notebook Recording Document T1_2023
+# Notebook Recording Document T1_2023
+
 This document is intended to track new notebooks added to the library in the GitHub repository. If you have added a new notebook to the library, please add the following information to this document:
 
 Dataset Name Dataset Source Dataset Reference
 
-#To add a new notebook to the library, follow these steps:
+# To add a new notebook to the library, follow these steps:
+
 1. Create a new folder within the appropriate trimester folder and name it using the descriptive naming convention.
 
 2. Upload the notebook files to this new folder.
@@ -18,7 +20,7 @@ Thank you for contributing to our notebook library! If you have any questions or
 
 Please fill out this information and add it to the end of the document:
 
-#Notebook 1
+# Notebook 1
 Notebook Name:
 
 Notebook Dataset:
@@ -27,7 +29,7 @@ Notebook Description:
 
 Contributor:
 
-#Notebook 2
+# Notebook 2
 Notebook Name:
 
 Notebook Dataset:
@@ -36,7 +38,7 @@ Notebook Description:
 
 Contributor:
 
-#Notebook 3
+# Notebook 3
 Notebook Name:
 
 Notebook Dataset:
