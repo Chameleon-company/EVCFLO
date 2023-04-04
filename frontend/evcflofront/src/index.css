@@ -119,6 +119,10 @@ p {
   color: var(--prime-clr-1);
   background: var(--prime-clr-5);
 }
+/*center text*/
+.centerText{
+  text-align: center;
+}
 /* section  */
 .section {
   padding: 5rem 0;
