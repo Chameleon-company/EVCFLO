@@ -123,6 +123,13 @@ p {
 .centerText{
   text-align: center;
 }
+/*center element display*/
+.centered {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 /* section  */
 .section {
   padding: 5rem 0;
