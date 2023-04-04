@@ -1,7 +1,11 @@
-import React from "react";
+import Map from "../components/Map";
 
 const Locate = () => {
-  return <h1>LOCATE PAGE</h1>;
+  return (
+    <>
+      <Map />
+    </>
+  );
 };
 
 export default Locate;
