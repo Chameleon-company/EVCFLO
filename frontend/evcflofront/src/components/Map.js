@@ -1,18 +1,20 @@
-import { Helmet } from "react-helmet";
+import AppendHead from "react-append-head";
 
 const Map = () => (
   <section>
     <div className="application">
-      <Helmet>
+      <AppendHead>
         <script
+          name="javascript"
           src="https://storage.cloud.google.com/evcflo_static_frontend/main.js"
-          type="text/javascript"
+          order="0"
         />
         <script
+          name="javascript"
           src="https://maps.googleapis.com/maps/api/js?key=&MAPS_KEY&callback=initMap&v=weekly"
-          type="text/javascript"
+          order="1"
         />
-      </Helmet>
+      </AppendHead>
     </div>
     <div id="map"></div>
   </section>
