@@ -6,6 +6,8 @@ import Data from "./pages/data";
 import Locate from "./pages/locate";
 import Research from "./pages/research";
 import AImodels from "./pages/aimodels";
+//import AI models
+import DensityClustering from "./aimodels/densityclustering";
 
 function App() {
   return (
@@ -18,6 +20,7 @@ function App() {
         <Route path="/locate" element={<Locate />} />
         <Route path="/research" element={<Research />} />
         <Route path="/aimodels" element={<AImodels />} />
+        <Route path="/densityclustering" element={<DensityClustering />} />
       </Routes>
       <Footer />
     </Router>
