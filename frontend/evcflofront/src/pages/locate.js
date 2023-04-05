@@ -1,7 +1,13 @@
-import React from "react";
+import Map from "../components/Map";
+import InfoMaps from "../components/InformationMaps";
 
 const Locate = () => {
-  return <h1>LOCATE PAGE</h1>;
+  return (
+    <>
+      <Map />
+      <InfoMaps />
+    </>
+  );
 };
 
 export default Locate;
