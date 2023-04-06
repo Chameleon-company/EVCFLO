@@ -399,6 +399,27 @@ Hero Component
     max-width: 45rem;
   }
 }
+/*
+Map Component
+*/
+
+#map {
+  /* Setup the size of the map */
+  height: 600px;
+  width: 100%;
+  margin-top: 0px;
+}
+@media screen and (min-width: 1025px) {
+  #map {
+    height: 600px;
+    width: 100%;
+    margin-top: 63px;
+  }
+}
+
+/*
+AI Page
+*/
 
 .aiModels {
   margin-top: 100px;
