@@ -21,6 +21,13 @@ function App() {
         <Route path="/research" element={<Research />} />
         <Route path="/aimodels" element={<AImodels />} />
         <Route path="/densityclustering" element={<DensityClustering />} />
+        <Route
+          exact
+          path="/densityclusteringmap"
+          render={() => {
+            window.location.href = "densityclusteringmap.html";
+          }}
+        />
       </Routes>
       <Footer />
     </Router>
