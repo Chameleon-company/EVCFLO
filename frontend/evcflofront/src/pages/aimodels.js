@@ -1,6 +1,6 @@
 const AImodels = () => {
   return (
-    <div>
+    <div className="aiModels">
       <h1>AI models PAGE</h1>
       <p className="centerText">
         {" "}
@@ -13,7 +13,6 @@ const AImodels = () => {
           rel="noreferrer"
           href={process.env.PUBLIC_URL + "densityclusteringmap.html"}
         >
-          {" "}
           Density Clustering Map
         </a>
       </div>
