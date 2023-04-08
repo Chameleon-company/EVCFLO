@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "EVBox Troniq Modular",
+    "category": "Ev",
+    "capacity" : "22kW",
+    "simultaneously" : "3(DC/AC/DC) ",
+    "type" : "22kW",
+    "Dimensions" : "22kW",
+    "price": 14,
+    "img": "http://localhost:3000/assets/1.webp"
+  },
+  {
+    "id": 2,
+    "name": "EVBox BusinessLine ",
+    "category": "Ev",
+    "capacity" : "22kW",
+    "simultaneously" : "22kW",
+    "type" : "22kW",
+    "Dimensions" : "22kW",
+    "price": 16,
+    "img": "http://localhost:3000/assets/2.webp"
+  }
+]
