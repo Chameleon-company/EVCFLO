@@ -20,13 +20,13 @@ Thank you for contributing to our dataset library! If you have any questions or 
 
 # Dataset 1
 
-Dataset Name:
+Dataset Name:EV travel range after one full charging
 
-Dataset Source:
+Dataset Source: Shown in the attached document
 
-Dataset Reference:
+Dataset Reference: Shown in the attached document
 
-Contributor:
+Contributor: Shoyo Chen
 
 # Dataset 2
 
