@@ -20,13 +20,13 @@ Thank you for contributing to our dataset library! If you have any questions or 
 
 # Dataset 1
 
-Dataset Name: csl_ev
+Dataset Name:EV travel range after one full charging
 
-Dataset Source: https://www.data.qld.gov.au/dataset/find-a-charging-station-electric-vehicle
+Dataset Source: Shown in the attached document
 
-Dataset Reference: This dataset contains location of charging stations of the Queensland government supported electric vehicles along Queensland's Electric Vehicle Super Highway.
+Dataset Reference: Shown in the attached document
 
-Contributor: Jamie Davidson
+Contributor: Shoyo Chen
 
 # Dataset 2
 
@@ -45,6 +45,16 @@ Dataset Name: Electric Vehicle Charging Stations NSW - 20211207
 Dataset Source: https://data.nsw.gov.au/search/dataset/ds-nsw-ckan-cd64c628-9040-4566-964d-548f92e23c10/details?q=charging%20stations
 
 Dataset Reference: Provided by transport NSW, Created 09/07/2022
+
+Contributor: Jamie Davidson
+
+# Dataset 4
+
+Dataset Name: csl_ev
+
+Dataset Source: https://www.data.qld.gov.au/dataset/find-a-charging-station-electric-vehicle
+
+Dataset Reference: This dataset contains location of charging stations of the Queensland government supported electric vehicles along Queensland's Electric Vehicle Super Highway.
 
 Contributor: Jamie Davidson
 
