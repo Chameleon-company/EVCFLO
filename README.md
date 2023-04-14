@@ -2,6 +2,12 @@
 This repository is designed to store various research conducted on EV charging stations globally with different datasets, analysis done on python & server used. It contains the frontend codes and upskilling information as well as the notebooks.
 
 # Important links
+Most Recent Handover Document: https://deakin365.sharepoint.com/sites/Chameleon2/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FChameleon2%2FShared%20Documents%2FEV%20Adoption%20Tools%2FProject%20Documentation%2F2022%20%2D%20T2%20EVCFLO%20Web%20Dev%20Handover%20%2Epdf&parent=%2Fsites%2FChameleon2%2FShared%20Documents%2FEV%20Adoption%20Tools%2FProject%20Documentation&p=true&ga=1
+
+Trello board:  
+https://trello.com/b/v3XH0ISE/evcflo-project
+
+Most Recent Designs: https://www.figma.com/file/axhWCcz9kWJcxJEhWBrlbl/EVCFLO-Website?node-id=0-1&t=qKl8Ui4vvs12mFr7-0
 
 
 # Installation
