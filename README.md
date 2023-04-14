@@ -9,6 +9,7 @@ https://trello.com/b/v3XH0ISE/evcflo-project
 
 Most Recent Designs: https://www.figma.com/file/axhWCcz9kWJcxJEhWBrlbl/EVCFLO-Website?node-id=0-1&t=qKl8Ui4vvs12mFr7-0
 
+User story planning document: https://deakin365.sharepoint.com/:w:/r/sites/Chameleon2/_layouts/15/doc2.aspx?action=edit&sourcedoc=%7B7da3afad-c8a7-4120-8fba-01f12bdd4c17%7D&wdOrigin=TEAMS-ELECTRON.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1&cid=9aa7d877-51e7-453a-adca-2ee335b9ce5e
 
 # Installation
 The frontend of the project is a combination of HTML, CSS and JS that is run on a React JS framework.
