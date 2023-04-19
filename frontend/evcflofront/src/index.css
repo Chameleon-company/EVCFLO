@@ -119,6 +119,25 @@ p {
   color: var(--prime-clr-1);
   background: var(--prime-clr-5);
 }
+/*center text*/
+.centerText {
+  text-align: center;
+}
+/*center element display*/
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*table style*/
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  
+}
+th, td {
+  background-color: #96D4D4;
+}
 /* section  */
 .section {
   padding: 5rem 0;
@@ -388,6 +407,9 @@ Hero Component
     max-width: 45rem;
   }
 }
+/*
+Map Component
+*/
 
 #map {
   /* Setup the size of the map */
@@ -401,4 +423,12 @@ Hero Component
     width: 100%;
     margin-top: 63px;
   }
+}
+
+/*
+AI Page
+*/
+
+.aiModels {
+  margin-top: 100px;
 }
