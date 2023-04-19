@@ -8,10 +8,10 @@ const SuggestedStation = () => {
     formState: { errors, isSubmitting },
   } = useForm({
     defaultValues: {
-      longitude: 2,
-      latitude: 2,
-      total_plugs: 2,
-      suitability_score: 0.1,
+      longitude: "",
+      latitude: "",
+      total_plugs: "",
+      suitability_score: "",
     },
   });
   const onSubmit = (data) => {
@@ -19,6 +19,7 @@ const SuggestedStation = () => {
     fetch("https://server-e657pcuziq-ts.a.run.app/api/add_suggested", {
       method: "POST",
       body: JSON.stringify(data),
+      headers: { "Content-Type": "application/json" },
     });
   };
 
@@ -28,11 +29,11 @@ const SuggestedStation = () => {
 
   return (
     <form onSubmit={handleSubmit(onSubmit)}>
-      <h1>Longitude</h1>
+      <h2>Suggest a Station</h2>
 
       <div>
         <label>
-          <span>Longitude</span>
+          <span>Longitude: </span>
           <input
             {...register("longitude", {
               required: "Please fill in this field.",
@@ -50,7 +51,7 @@ const SuggestedStation = () => {
 
       <div>
         <label>
-          <span>Latitude</span>
+          <span>Latitude: </span>
           <input
             {...register("latitude", {
               required: "Please fill in this field.",
@@ -68,7 +69,7 @@ const SuggestedStation = () => {
 
       <div>
         <label>
-          <span>Total Plugs</span>
+          <span>Total Plugs: </span>
           <input
             {...register("total_plugs", {
               required: "Please fill in this field.",
@@ -86,7 +87,7 @@ const SuggestedStation = () => {
 
       <div>
         <label>
-          <span>Suitability Score</span>
+          <span>Suitability Score: </span>
           <input
             {...register("suitability_score", {
               required: "Please fill in this field.",
@@ -102,6 +103,7 @@ const SuggestedStation = () => {
             aria-invalid={errors["suitability_score"] ? "true" : "false"}
             step="0.1"
             type="number"
+            placeholder="Between 0.1 and 1.0"
             id="suitability_score"
             name="suitability_score"
           />
