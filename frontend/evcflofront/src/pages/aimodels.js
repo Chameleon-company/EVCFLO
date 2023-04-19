@@ -13,12 +13,14 @@ const AImodels = () => {
         <table width="80%" className="centerText">
           <tr>
             <th>Name</th>
+            <th>Source</th>
             <th>Description</th>
             <th>Application</th>
           </tr>
           {/* 1st model */}
           <tr>
             <td>EVCS density clustering model map</td>
+            <td>Reserve</td>
             <td>
               VIC and QLD EVCS locations display on the map with colours showing
               their density in selected area
@@ -41,6 +43,16 @@ const AImodels = () => {
           {/* 2nd model */}
           <tr>
             <td>Future EVCS Recommendation Map</td>
+            <td>
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href={process.env.PUBLIC_URL + "https://storage.googleapis.com/evcflo_static_frontend/notebooks/EVCS%20Interactive%20Map-melbourne%20and%20geelong.html"}
+              >
+                Notebook: EVCS - Interactive Map Development
+                Melbourne and Geelong Region
+              </a>
+            </td>
             <td>
               Showing colour icons of different EVCS in Melbourne and Geelong
               areas
@@ -66,6 +78,7 @@ const AImodels = () => {
           {/* 3rd model */}
           <tr>
             <td>EVCS clustering prediction model</td>
+            <td>Reserve</td>
             <td>
               Applied Machine learning models to predict EVCS clustering based
               on input data
