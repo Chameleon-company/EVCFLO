@@ -8,8 +8,9 @@ const AImodels = () => {
         This page contains all Artificial Intelligence/Machine Learning Model application that generated
         from our researchs to help promote EV adoption
       </p>
+      
       <div class="centered">
-        <table width="70%" className="centerText">
+        <table width="80%" className="centerText">
           <tr>
             <th>Name</th>
             <th>Description</th>
@@ -25,31 +26,34 @@ const AImodels = () => {
                 rel="noreferrer"
                 href={process.env.PUBLIC_URL + "densityclusteringmap.html"}
               >
-                Density Clustering Map
+                Click me
               </a>
             </td>
           </tr>
           {/* 2nd model */}
           <tr>
-            <td>Reserve</td>
-            <td>Reserve</td>
+            <td>Future EVCS Recommendation Map</td>
             <td>
-              Reserve
+              Showing colour icons of different EVCS in Melbourne and Geelong areas
+              <ur>
+                <li>Red Icon: EVCS near another EVCS within 5km radius</li>
+                <li>Green Icon: EVCS has no other EVCS within 5km radius</li>
+                <li>Blue Icon: Recommended future EVCS locations for carpark having over 100 parking spaces </li>
+              </ur>
+            </td>
+            <td>
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href={process.env.PUBLIC_URL + "EVCSrecommendationsmap.html"}
+            >
+              Click me
+            </a>
             </td>
           </tr>
           
         </table>
-        <ul>
-          {/* <li>
-              <a
-              target="_blank"
-              rel="noreferrer"
-              href={process.env.PUBLIC_URL + "densityclusteringmap.html"}
-            >
-              Density Clustering Map
-            </a>
-          </li> */}
-        </ul>
+
       </div>
     </div>
   );

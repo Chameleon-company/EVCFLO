@@ -28,6 +28,13 @@ function App() {
             window.location.href = "densityclusteringmap.html";
           }}
         />
+        <Route
+          exact
+          path="/EVCSrecommendationsmap"
+          render={() => {
+            window.location.href = "EVCSrecommendationsmap.html";
+          }}
+        />
       </Routes>
       <Footer />
     </Router>
