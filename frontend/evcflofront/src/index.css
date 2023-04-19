@@ -125,7 +125,6 @@ p {
 }
 /*center element display*/
 .centered {
-  height: 10vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -134,7 +133,7 @@ p {
 table, th, td {
   border: 1px solid white;
   border-collapse: collapse;
-  background-color: #96D4D4;
+  
 }
 th, td {
   background-color: #96D4D4;
