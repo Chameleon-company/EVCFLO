@@ -5,6 +5,8 @@ import Home from "./pages/home";
 import Data from "./pages/data";
 import Locate from "./pages/locate";
 import Research from "./pages/research";
+import FAQ from "./pages/faq";
+
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
         <Route path="/data" element={<Data />} />
         <Route path="/locate" element={<Locate />} />
         <Route path="/research" element={<Research />} />
+        <Route path="/faq" element={<FAQ />} />
       </Routes>
       <Footer />
     </Router>
