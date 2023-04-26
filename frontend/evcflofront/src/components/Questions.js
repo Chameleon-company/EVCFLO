@@ -8,7 +8,13 @@ const Questions = () => {
       <Title title="Frequently Asked Questions" />
       <div className="collapsible">
         <div className="header" {...getToggleProps()}>
-          {isExpanded ? "Collapse" : "Expand"}
+          <div className="icon">
+            <i
+              className={
+                "fas fa-chevron-circle-" + (isExpanded ? "up" : "down")
+              }
+            ></i>
+          </div>
         </div>
         <div {...getCollapseProps()}>
           <div className="content">
