@@ -1,5 +1,5 @@
 import Title from "./Title";
-import useCollapse from 'react-collapsed';
+import { useCollapse } from "react-collapsed";
 
 const Questions = () => {
   const { getCollapseProps, getToggleProps, isExpanded } = useCollapse();
@@ -8,12 +8,13 @@ const Questions = () => {
       <Title title="Frequently Asked Questions" />
       <div className="collapsible">
         <div className="header" {...getToggleProps()}>
-          {isExpanded ? 'Collapse' : 'Expand'}
+          {isExpanded ? "Collapse" : "Expand"}
         </div>
         <div {...getCollapseProps()}>
           <div className="content">
-              Now you can see the hidden content. <br/><br/>
-              Click again to hide...
+            Now you can see the hidden content. <br />
+            <br />
+            Click again to hide...
           </div>
         </div>
       </div>
@@ -23,7 +24,7 @@ const Questions = () => {
 
 export default Questions;
 
-{/*
+/*
 <div className="section-center about-center">
           <p>
             <h3>What is Chameleon?</h3>
@@ -36,4 +37,4 @@ export default Questions;
             This will allow us to build smarter cities, homes, transportation and energy management systems. ​
           </p>
       </div>
-*/}
+*/
