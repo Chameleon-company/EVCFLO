@@ -9,6 +9,6 @@ export const socialLinks = [
   {
     id: 1,
     href: "https://github.com/Chameleon-company/EVCFLO",
-    bgc: "#ff5a01",
+    bgc: "#cc9900",
   },
 ];
