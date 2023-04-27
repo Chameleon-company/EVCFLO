@@ -21,22 +21,24 @@ Thank you for contributing to our notebook library! If you have any questions or
 Please fill out this information and add it to the end of the document:
 
 # Notebook 1
-Notebook Name:
+Notebook Name:Charging-station-wait-optimization.ipynb
 
 Notebook Dataset:
 
-Notebook Description:
+Notebook Description:Charging-station-wait-optimization
 
-Contributor:
+Contributor: violameli
 
 # Notebook 2
-Notebook Name:
+Notebook Name:Australian_VIC&QLD_EVCS_clustering_T12023update-Copy1.ipynb
 
-Notebook Dataset:
+Notebook Folder: EV density clustering model T1 2023
 
-Notebook Description:
+Notebook Dataset:Cleaned_Australian_EV_Charging_Stations.csv
 
-Contributor:
+Notebook Description: Improve Australian_EV_charging_stations_prediction ML model that produced during T3 2022
+
+Contributor: Barry Chen
 
 # Notebook 3
 Notebook Name:
