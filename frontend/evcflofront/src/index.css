@@ -402,3 +402,46 @@ Hero Component
     margin-top: 63px;
   }
 }
+
+/*
+NewBoundary, NewStation and SuggestStation forms
+*/
+
+.datapage {
+  height: 1800px;
+}
+
+@media screen and (min-width: 1025px) {
+  .datapage {
+    margin-top: 70px;
+    height: 1000px;
+    width: 100%;
+  }
+}
+
+#suggest {
+  float: left;
+  width: 30%;
+  margin-right: 10px;
+  box-shadow: 0 50px 50px rgb(0 0 0 / 0.2);
+  border-radius: 25px;
+  background: #a4cfec49;
+  padding: 20px;
+}
+#boundary {
+  float: left;
+  width: 30%;
+  box-shadow: 0 50px 50px rgb(0 0 0 / 0.2);
+  border-radius: 25px;
+  background: #a4cfec49;
+  padding: 20px;
+}
+#newstation {
+  float: left;
+  width: 30%;
+  margin-right: 10px;
+  box-shadow: 0 50px 50px rgb(0 0 0 / 0.2);
+  border-radius: 25px;
+  background: #2144ad1a;
+  padding: 20px;
+}
