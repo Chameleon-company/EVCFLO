@@ -1,8 +1,8 @@
-import Title from "./Title";
+import SubTitle from "./SubTitle";
 const NewBoundary = () => {
   return (
     <section className="section" id="boundary">
-      <Title title="Add" subTitle="Boundary" />
+      <SubTitle title="Add" subTitle="Boundary" />
       <form
         action="https://server-e657pcuziq-ts.a.run.app/api/add_bounding"
         method="POST"

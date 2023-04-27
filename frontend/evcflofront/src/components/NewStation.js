@@ -1,8 +1,8 @@
-import Title from "./Title";
+import SubTitle from "./SubTitle";
 const NewStation = () => {
   return (
     <section className="section" id="newstation">
-      <Title title="Add" subTitle="Station" />
+      <SubTitle title="Add" subTitle="Station" />
       <form
         action="https://server-e657pcuziq-ts.a.run.app/api/add_station"
         method="POST"

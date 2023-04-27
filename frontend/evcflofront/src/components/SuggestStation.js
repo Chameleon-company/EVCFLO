@@ -1,8 +1,8 @@
-import Title from "./Title";
+import SubTitle from "./SubTitle";
 const SuggestedStation = () => {
   return (
     <section className="section" id="suggest">
-      <Title title="Suggest" subTitle="Station" />
+      <SubTitle title="Suggest" subTitle="Station" />
       <form
         action="https://server-e657pcuziq-ts.a.run.app/api/add_suggested"
         method="POST"
