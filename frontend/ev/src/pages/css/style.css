@@ -99,13 +99,17 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(21, 5, 23, 0.25);
+  background: rgb(211 227 237 / 0%);
   transition: all 0.5s;
   z-index: 997;
-  position: relative;
+  position: absolute;
   height: 70px;
 }
 
+#headerli{
+  font-size: 30px;
+  color: white;
+}
 @media (max-width: 992px) {
   #header {
     height: 60px;
@@ -1674,4 +1678,7 @@ section {
   #footer .credits {
     padding-top: 5px;
   }
+}
+#loom-companion-mv3{
+  display: none;
 }
