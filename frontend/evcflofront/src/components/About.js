@@ -7,22 +7,23 @@ const About = () => {
       <div className="section-center about-center">
         <article className="about-info">
           <p>
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            EVCFLO is an innovative service that provides valuable insights to
+            businesses looking to assess the demand for electric vehicle
+            charging stations in the city of Melbourne. By using EVCFLO,
+            businesses can gain access to information on the location and types
+            of charging stations. This information can be used to identify areas
+            where there is high demand for charging stations, as well as to
+            optimize the placement and design of charging infrastructure.
           </p>
           <p>
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            Using EVCFLO is easy and convenient for businesses looking to assess
+            the demand for electric vehicle charging in Melbourne. The service
+            provides a comprehensive database of charging stations in the city,
+            as well as up-to-date information on charging rates and
+            availability. With EVCFLO, businesses can get a better understanding
+            of the current and future demand for electric vehicle charging, and
+            make informed decisions about the placement and design of charging
+            infrastructure to meet the needs of EV drivers in the city.
           </p>
         </article>
       </div>
