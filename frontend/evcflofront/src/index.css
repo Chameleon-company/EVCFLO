@@ -477,3 +477,69 @@ NewBoundary, NewStation and SuggestStation forms
   background: #2144ad1a;
   padding: 20px;
 }
+
+/*
+Login Page
+*/
+
+.loginpage {
+  margin-top: 100px;
+  height: 1000px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login-form {
+  background-color: var(--prime-clr-4);
+  color: var(--white-clr);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  width: 30rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login-form-group {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+}
+.login-label {
+  margin-bottom: 0.5rem;
+}
+.login-form input {
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  border: none;
+  color: var(--heading-clr);
+  width: 100%;
+}
+.login-btn {
+  margin-top: 1rem;
+  background-color: var(--prime-clr-2);
+  color: var(--white-clr);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: var(--transition);
+}
+.login-btn:hover {
+  background-color: var(--prime-clr-5);
+  color: var(--prime-clr-1);
+}
+.login-error {
+  color: red;
+  margin-bottom: 1rem;
+}
+
+.login-success {
+  color: white;
+  margin-bottom: 1rem;
+}

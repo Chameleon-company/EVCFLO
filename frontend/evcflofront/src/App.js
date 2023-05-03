@@ -7,6 +7,7 @@ import Research from "./pages/research";
 import AImodels from "./pages/aimodels";
 //import AI models
 import DensityClustering from "./aimodels/densityclustering";
+import Login from "./pages/login";
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
             window.location.href = "EVCSrecommendationsmap.html";
           }}
         />
+        <Route path="/login" element={<Login />} />
       </Routes>
       <Footer />
     </Router>
