@@ -423,7 +423,7 @@ Map Component
   #map {
     height: 600px;
     width: 100%;
-    margin-top: 63px;
+    margin-top: 0px;
   }
 }
 
