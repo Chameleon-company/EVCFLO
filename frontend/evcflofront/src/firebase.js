@@ -14,6 +14,7 @@ const firebaseConfig = {
 
 
 const app = initializeApp(firebaseConfig);
+
 export const auth = getAuth(app);
 
 
@@ -23,17 +24,24 @@ export const loginUser = (email, password) => {
         .then((userCredential) => {
           // Signed in
           const user = userCredential.user;
-          console.log(user);
           resolve(user);
         })
         .catch((error) => {
           const errorCode = error.code;
           const errorMessage = error.message;
-          console.log(errorCode, errorMessage);
-          reject(errorMessage);
+          // If someone is reviewing this for cyber, it is pretty bad to tell the user that the email is wrong.
+          // I'm handling it in the view so that it displays the same message for both but if someone inspects console they'll see the request response msg
+          // Blame firebase's api not me :c
+          if (errorCode === 'auth/wrong-password' || errorCode === 'auth/user-not-found') {
+            reject('Wrong password!');
+          } else {
+            console.log(errorCode, errorMessage);
+            reject(errorMessage);
+          }
         });
     });
   };
+  
 
 
 export default app

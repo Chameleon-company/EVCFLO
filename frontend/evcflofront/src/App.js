@@ -8,6 +8,7 @@ import AImodels from "./pages/aimodels";
 //import AI models
 import DensityClustering from "./aimodels/densityclustering";
 import Login from "./pages/login";
+import Logout from "./pages/logout";
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
           }}
         />
         <Route path="/login" element={<Login />} />
+        <Route path="/logout" element={<Logout />} />
       </Routes>
       <Footer />
     </Router>

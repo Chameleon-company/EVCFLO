@@ -269,6 +269,16 @@ Navbar
   height: 45px;
 }
 
+button.nav-link {
+  background-color: transparent;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  font-size: inherit;
+  padding: 0;
+  text-align: inherit;
+  text-decoration: none; /* Add this line to remove underline */
+}
 .nav-link {
   display: block;
   padding: 1rem 2rem;
