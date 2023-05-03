@@ -106,10 +106,11 @@ h6 {
   height: 70px;
 }
 
-#headerli{
+#headerli {
   font-size: 30px;
   color: white;
 }
+
 @media (max-width: 992px) {
   #header {
     height: 60px;
@@ -474,7 +475,7 @@ h6 {
 
 #hero:before {
   content: "";
- 
+
   position: absolute;
   bottom: 0;
   top: 0;
@@ -774,8 +775,12 @@ section {
 
 .services .icon {
   position: absolute;
-  left: -20px;
-  top: calc(50% - 30px);
+  /*left: -20px;*/
+  /*top: calc(50% - 30px);*/
+}
+
+.services .icon-content {
+  margin-left: 25%;
 }
 
 .services .icon i {
@@ -1679,6 +1684,52 @@ section {
     padding-top: 5px;
   }
 }
-#loom-companion-mv3{
+
+#loom-companion-mv3 {
   display: none;
+}
+
+.Businessheroimg1 {
+  width: 100%;
+  height: 100vh;
+  background: url("../img/Desktop.71829379.cta_lifestyle_car_roadtrip_v2.webp") top center !important;
+  background-size: cover;
+  position: relative;
+  margin-bottom: -70px;
+}
+
+.Businessheroimg2 {
+  width: 100%;
+  height: 100vh;
+  background: url("../img/Desktop.a21ce93e.business_charging_plp_hero_liviqo_mirrored.webp") top center !important;
+  background-size: cover;
+  position: relative;
+  margin-bottom: -70px;
+}
+.EvHomeheroimg{
+  width: 100%;
+    height: 100vh;
+    background: url("../img/Desktop.a21ce93e.hero_plp_home.webp") top center !important;
+    background-size: cover;
+    position: relative;
+    margin-bottom: -70px;
+
+}
+.new-line{
+  white-space: pre-line;
+}
+.btn-ev{
+  background: #ff7f5d;
+    display: inline-block;
+    padding: 8px 35px 9px 35px;
+    border-radius: 4px;
+    color: #fff;
+    transition: none;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    transition: 0.3s;
+    width: 38%;
+    margin-bottom: 4%;
 }

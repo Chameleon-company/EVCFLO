@@ -1,6 +1,6 @@
-import MainContent from "../pages/MainContent";
+import BusinessContent from "../pages/BusinessContent";
 import Footer from "../pages/Footer";
-const HomePage = () => {
+const Business = () => {
 	return (
 		<div>
 			<header id="header" className="d-flex align-items-center ">
@@ -12,27 +12,21 @@ const HomePage = () => {
 					</h1>
 				</div>
 			</header>
-
-			<section id="hero">
+			<section id="hero" class="Businessheroimg2">
 				<div className="hero-container">
-					<h1>Changing the norm. </h1>
-					<h1>Charging the future. </h1>
+					<h1>EV charging stations for businesses</h1>
 					<h2>
-						We empower your transition to electric mobility with our
-						complete electric vehicle charging solutions
+						Simplify your transition to electric mobility and
+						achieve your sustainability and revenue goals.
 					</h2>
 					<a href="#about" className="btn-get-started scrollto">
-						For businesses
-					</a>
-					<a href="#about" className="btn-get-started scrollto">
-						For home
+						Inquire Now
 					</a>
 				</div>
 			</section>
-
-			<MainContent />
+			<div className="new-line"></div>
+			<BusinessContent />
 			<Footer />
-
 			<a
 				href="#"
 				class="back-to-top d-flex align-items-center justify-content-center active"
@@ -43,4 +37,4 @@ const HomePage = () => {
 	);
 };
 
-export default HomePage;
+export default Business;

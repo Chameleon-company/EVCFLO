@@ -1,6 +1,6 @@
-import MainContent from "../pages/MainContent";
+import EvHomepageContent from "../pages/EvHomepageContent";
 import Footer from "../pages/Footer";
-const HomePage = () => {
+const EvHomepage = () => {
 	return (
 		<div>
 			<header id="header" className="d-flex align-items-center ">
@@ -12,27 +12,21 @@ const HomePage = () => {
 					</h1>
 				</div>
 			</header>
-
-			<section id="hero">
+			<section id="hero" class="EvHomeheroimg">
 				<div className="hero-container">
-					<h1>Changing the norm. </h1>
-					<h1>Charging the future. </h1>
+					<h1>Home charging stations for electric cars</h1>
 					<h2>
-						We empower your transition to electric mobility with our
-						complete electric vehicle charging solutions
+						Charge with confidence from the comfort of your home
+						with our intuitive EV charging solutions.
 					</h2>
 					<a href="#about" className="btn-get-started scrollto">
-						For businesses
-					</a>
-					<a href="#about" className="btn-get-started scrollto">
-						For home
+						Inquire Now
 					</a>
 				</div>
 			</section>
-
-			<MainContent />
+			<div className="new-line"></div>
+			<EvHomepageContent />
 			<Footer />
-
 			<a
 				href="#"
 				class="back-to-top d-flex align-items-center justify-content-center active"
@@ -43,4 +37,4 @@ const HomePage = () => {
 	);
 };
 
-export default HomePage;
+export default EvHomepage;
