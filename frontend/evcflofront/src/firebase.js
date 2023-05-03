@@ -41,7 +41,30 @@ export const loginUser = (email, password) => {
         });
     });
   };
-  
+
+
+
+  export const getUserProfile = async () => {
+    return new Promise(async (resolve, reject) => {
+      try {
+        auth.onAuthStateChanged(async (user) => {
+          if (user !== null) {
+            const displayName = user.displayName ? user.displayName : "None set";
+            const email = user.email;
+            const photoURL = user.photoURL ? user.photoURL : "https://source.boringavatars.com/beam";
+            const emailVerified = user.emailVerified;
+            const uid = user.uid;
+            resolve({ displayName, email, photoURL, emailVerified, uid });
+          } else {
+            resolve(null); // User is not logged in
+          }
+        });
+      } catch (error) {
+        console.error("Error fetching user profile:", error);
+        reject(error);
+      }
+    });
+  };
 
 
 export default app

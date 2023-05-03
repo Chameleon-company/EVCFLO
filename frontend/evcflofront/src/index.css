@@ -319,7 +319,8 @@ button.nav-link {
   }
 
   .navbar {
-    position: fixed;
+    /* commented this out as it is a hinderance to other pages (the need to add margins at the top of every page)  */
+    /* position: fixed; */
     top: 0;
     left: 0;
     width: 100%;
@@ -552,4 +553,62 @@ Login Page
 .login-success {
   color: white;
   margin-bottom: 1rem;
+}
+
+/*
+user page
+*/
+
+.user-profile {
+  height: auto;
+  margin-top: 100px;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: var(--prime-clr-5);
+  border-radius: 1rem;
+  box-shadow: var(--dark-shadow);
+}
+
+.user-avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 4px solid var(--prime-clr-4);
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-info h2 {
+  font-size: 2rem;
+  color: var(--heading-clr);
+  margin-bottom: var(--spacing);
+}
+
+.user-info p {
+  font-size: 1.2rem;
+  color: var(--paragraph-clr);
+}
+
+.verified-badge {
+  color: var(--prime-clr-1);
+  font-size: 1.5rem;
+  margin-left: 0.5rem;
+}
+
+.loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }

@@ -28,45 +28,35 @@ const Navbar = () => {
 
 // for different links if logged in
 const [loggedIn, setLoggedIn] = useState(false);
+// Mutating page links directly can cause issues, so we create a copy
+const [navLinks, setNavLinks] = useState(pageLinks)
 
 useEffect(() => {
-    auth.onAuthStateChanged((user) => {
-        if (user) {
-            setLoggedIn(true);
-            console.log("logged in");
-
-            // Remove Login link
-            pageLinks.splice(
-                pageLinks.findIndex((v) => v.text === "Login "),
-                1
-            );
-
-            // Add Logout link
-            pageLinks.push({
-                id: 6,
-                href: "/logout",
-                text: "Logout "
-            });
-        } else {
-            setLoggedIn(false);
-            console.log("logged out");
-
-            // Remove Logout link
-            pageLinks.splice(
-                pageLinks.findIndex((v) => v.text === "Logout "),
-                1
-            );
-
-            // Add Login link if not already in the list
-            if (!pageLinks.some((v) => v.text === "Login ")) {
-                pageLinks.push({
-                    id: 5,
-                    href: "/login",
-                    text: "Login "
-                });
-            }
-        }
-    });
+  auth.onAuthStateChanged((user) => {
+    if (user) {
+      setLoggedIn(true);
+      console.log("logged in");
+      // Remove Login link
+      const filteredLinks = pageLinks.filter((link) => link.text !== "Login ");
+      // Add Logout and User links
+      const newPageLinks = [
+        ...filteredLinks,
+        { id: 6, href: "/user", text: "User " },
+        { id: 7, href: "/logout", text: "Logout " },
+      ];
+      setNavLinks(newPageLinks);
+    } else {
+      setLoggedIn(false);
+      console.log("logged out");
+      // Remove Logout and User links
+      const filteredLinks = pageLinks.filter((link) => link.text !== "Logout " && link.text !== "User ");
+      // Add Login link if not already in the list
+      const newPageLinks = filteredLinks.some((link) => link.text === "Login ")
+        ? filteredLinks
+        : [...filteredLinks, { id: 5, href: "/login", text: "Login " }];
+        setNavLinks(newPageLinks);
+    }
+  });
 }, []);
   return (
     <nav className="navbar">
@@ -89,7 +79,7 @@ useEffect(() => {
         <div className="links-container" ref={linksUseRef}>
           <ul className="nav-links" id="nav-links" ref={rLinks}>
             {/*maps pagelinks from data.js*/}
-            {pageLinks.map((link) => {
+            {navLinks.map((link) => {
               const { id, href, text } = link;
               return (
                 <li key={id}>
