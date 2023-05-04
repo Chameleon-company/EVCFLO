@@ -22,7 +22,7 @@ The dataset folders: descriptive names that reflect the source or category of th
 
 ## Adding New Datasets
 
-To add a new dataset to the library, create a new folder within the appropriate trimester folder and name it using the descriptive naming convention. Upload the data files to this new folder.S
+To add a new dataset to the library, create a new folder within the appropriate trimester folder and name it using the descriptive naming convention. Upload the data files to this new folder.
 
 \*\*you can record new datasets in the datarecord.md inside TX_YYYY!
 
