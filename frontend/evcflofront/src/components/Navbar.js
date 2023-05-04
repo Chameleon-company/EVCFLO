@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import logo from "../images/logo.png";
-import { pageLinks, socialLinks } from "../data";
+import { pageLinks, socialLinks, authenticatedLinks, notAuthenticatedLinks } from "../data";
 import Hamburger from "hamburger-react";
 import { SocialIcon } from "react-social-icons";
 import { auth } from "../firebase";
@@ -27,35 +27,14 @@ const Navbar = () => {
   }, [showLinks]);
 
 // for different links if logged in
-const [loggedIn, setLoggedIn] = useState(false);
+const [loggedIn, setLoggedIn] = useState(false); //unused but could be useful in future?
 // Mutating page links directly can cause issues, so we create a copy
-const [navLinks, setNavLinks] = useState(pageLinks)
+const [navLinks, setNavLinks] = useState( [...pageLinks, ...notAuthenticatedLinks])
 
 useEffect(() => {
   auth.onAuthStateChanged((user) => {
-    if (user) {
-      setLoggedIn(true);
-      console.log("logged in");
-      // Remove Login link
-      const filteredLinks = pageLinks.filter((link) => link.text !== "Login ");
-      // Add Logout and User links
-      const newPageLinks = [
-        ...filteredLinks,
-        { id: 6, href: "/user", text: "User " },
-        { id: 7, href: "/logout", text: "Logout " },
-      ];
-      setNavLinks(newPageLinks);
-    } else {
-      setLoggedIn(false);
-      console.log("logged out");
-      // Remove Logout and User links
-      const filteredLinks = pageLinks.filter((link) => link.text !== "Logout " && link.text !== "User ");
-      // Add Login link if not already in the list
-      const newPageLinks = filteredLinks.some((link) => link.text === "Login ")
-        ? filteredLinks
-        : [...filteredLinks, { id: 5, href: "/login", text: "Login " }];
-        setNavLinks(newPageLinks);
-    }
+    user ? setLoggedIn(true) : setLoggedIn(false);
+    setNavLinks(user ? [...pageLinks, ...authenticatedLinks] : [...pageLinks, ...notAuthenticatedLinks]);
   });
 }, []);
   return (
