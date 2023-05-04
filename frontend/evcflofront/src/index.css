@@ -494,8 +494,8 @@ Login Page
 */
 
 .loginpage {
-  margin-top: 100px;
-  height: 1000px;
+  margin-top: 0px;
+  height: 600px;
   width: 100%;
   display: flex;
   flex-direction: column;
