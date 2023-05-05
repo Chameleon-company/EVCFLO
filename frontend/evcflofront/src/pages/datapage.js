@@ -1,11 +1,12 @@
 import SuggestedStation from "../components/SuggestStation";
 import NewStation from "../components/NewStation";
 import NewBoundary from "../components/NewBoundary";
+import Title from "../components/Title";
 
 const Data = () => {
   return (
     <div className="datapage">
-      <h1>Add or Suggest Map Data</h1>
+      <Title title="Add or Suggest Map Data" />
       <SuggestedStation />
       <NewStation />
       <NewBoundary />

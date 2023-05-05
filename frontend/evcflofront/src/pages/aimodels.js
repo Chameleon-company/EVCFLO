@@ -1,12 +1,14 @@
 import { Link } from "react-router-dom";
+import Title from "../components/Title";
 
 const AImodels = () => {
   return (
     <div className="aiModels">
+      <Title title="AI/ML EVCS applications" />
       <p className="centerText">
-        <h1>AI/ML EVCS applications</h1> This page contains all Artificial
-        Intelligence/Machine Learning Model application that generated from our
-        researchs to help promote EV adoption
+        This page contains all Artificial Intelligence/Machine Learning Model
+        application that generated from our researchs to help promote EV
+        adoption
       </p>
 
       <div class="centered">
@@ -47,10 +49,13 @@ const AImodels = () => {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href={process.env.PUBLIC_URL + "https://storage.googleapis.com/evcflo_static_frontend/notebooks/EVCS%20Interactive%20Map-melbourne%20and%20geelong.html"}
+                href={
+                  process.env.PUBLIC_URL +
+                  "https://storage.googleapis.com/evcflo_static_frontend/notebooks/EVCS%20Interactive%20Map-melbourne%20and%20geelong.html"
+                }
               >
-                Notebook: EVCS - Interactive Map Development
-                Melbourne and Geelong Region
+                Notebook: EVCS - Interactive Map Development Melbourne and
+                Geelong Region
               </a>
             </td>
             <td>
