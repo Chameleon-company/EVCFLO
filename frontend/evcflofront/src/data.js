@@ -2,7 +2,8 @@ export const pageLinks = [
   { id: 1, href: "/home", text: "home " },
   { id: 2, href: "/datapage", text: "data " },
   { id: 3, href: "/research", text: "research " },
-  { id: 4, href: "/aimodels", text: "AI models " },
+  { id: 4, href: "/aimodels", text: "AIModels " },
+  { id: 5, href: "/faq", text: "FAQ " },
 ];
 
 export const socialLinks = [
