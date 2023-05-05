@@ -533,6 +533,10 @@ NewBoundary, NewStation and SuggestStation forms
 Questions Component
 */
 
+.faq {
+  margin-top: 90px;
+}
+
 .collapsible .content {
   padding: 6px;
   background-color: rgb(240, 240, 240);

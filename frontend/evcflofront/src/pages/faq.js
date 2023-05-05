@@ -4,8 +4,7 @@ import Title from "../components/Title";
 
 const FAQ = () => {
   return (
-    <div>
-      <h1>FAQ</h1>
+    <div className="faq">
       <Title title="Frequently Asked Questions" />
       <Questions />
     </div>
