@@ -1,9 +1,8 @@
 export const pageLinks = [
   { id: 1, href: "/home", text: "home " },
-  { id: 2, href: "/locate", text: "locate " },
-  { id: 3, href: "/datapage", text: "data " },
-  { id: 4, href: "/research", text: "research " },
-  { id: 5, href: "/aimodels", text: "AIModels " },
+  { id: 2, href: "/datapage", text: "data " },
+  { id: 3, href: "/research", text: "research " },
+  { id: 4, href: "/aimodels", text: "AImodels " },
   { id: 5, href: "/faq", text: "FAQ " },
 ];
 
