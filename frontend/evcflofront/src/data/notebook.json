@@ -1,0 +1,15 @@
+[
+    {
+        "id":1,
+        "topic":"EVCS Turku-Finland Analysis",
+        "detail":"Examination of charge duration and energy consumption on sample Turku Finland dataset.",
+        "link":"https://storage.googleapis.com/evcflo_static_frontend/notebooks/EVCS_Turku-Finland_Analysis.html"
+    },
+
+    {
+        "id":2,
+        "topic":"EVData(EDA_Analysis)",
+        "detail":"Investigates the characteristics of existing charging stations in Queensland and Melbourne Austrlia.",
+        "link":"https://storage.googleapis.com/evcflo_static_frontend/notebooks/EVData(EDA_Analysis).html"
+    }
+]
