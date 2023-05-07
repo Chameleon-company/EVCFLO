@@ -3,13 +3,13 @@
         "id":1,
         "topic":"EVCS Turku-Finland Analysis",
         "detail":"Examination of charge duration and energy consumption on sample Turku Finland dataset.",
-        "link":"https://storage.googleapis.com/evcflo_static_frontend/notebooks/EVCS_Turku-Finland_Analysis.html"
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/Turku-Finland%20Analysis/EVCS_Turku-Finland_Analysis.html"
     },
 
     {
         "id":2,
         "topic":"EVData(EDA_Analysis)",
         "detail":"Investigates the characteristics of existing charging stations in Queensland and Melbourne Austrlia.",
-        "link":"https://storage.googleapis.com/evcflo_static_frontend/notebooks/EVData(EDA_Analysis).html"
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/AUS%20EV%20Charging%20Stations%20Notebook/EVData(EDA_Analysis).html"
     }
 ]
