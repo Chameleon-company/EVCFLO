@@ -5,11 +5,84 @@
         "detail":"Examination of charge duration and energy consumption on sample Turku Finland dataset.",
         "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/Turku-Finland%20Analysis/EVCS_Turku-Finland_Analysis.html"
     },
-
     {
         "id":2,
         "topic":"EVData(EDA_Analysis)",
         "detail":"Investigates the characteristics of existing charging stations in Queensland and Melbourne Austrlia.",
         "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/AUS%20EV%20Charging%20Stations%20Notebook/EVData(EDA_Analysis).html"
+    },
+    {
+        "id":3,
+        "topic":"EVData(Google_API)",
+        "detail":"Utilizing Google Maps API in order to investigate landmark count in close proximity to charging stations found in Queensland and Melbourne Australia.",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/AUS%20EV%20Charging%20Stations%20Notebook/EVData(Google_API)New.html"
+    },
+    {
+        "id":4,
+        "topic":"EV_Registered_Data",
+        "detail":"Studies the volume of Electric Vehicles that have been registered globally, with focused interest in Australia and the US.",
+        "//comment":"HTML file in Github not display properly, need fixing the future",
+        "link":"https://storage.googleapis.com/evcflo_static_frontend/notebooks/EV_Registered_Data.html"
+    },
+    {
+        "id":5,
+        "topic":"EVCS_Boulder_Colorado Analysis",
+        "detail":"Analysis and visualisation of EV charging station energy consumption data for charging station in Boulder, Colorado.",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/Boulder-Colorado/EVCS_Boulder_Colorado%20Analysis.html"
+    },
+    {
+        "id":6,
+        "topic":"EVCS - Consumption Prediction by Time Series",
+        "detail":"In this analysis, we would like to develop a prediction model based on time series data generated from the EVCS dataset in the UK and forecast future energy consumption trends for the next 365 days. Our analysis contains four sections: Data Cleaning, Data Exploration, Pattern Recognition, and Prediction Model. The results of evaluation metrics suggest that the model has strong predictive power, while future work directions are also pointed out.",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/EVCS%20Prediction%20Model%20-%20Time%20Series/EVCS%20-%20Consumption%20Prediction%20by%20Time%20Series.html"
+    },
+    {
+        "id":7,
+        "topic":"EVCS - Consumption Prediction by Transaction Records",
+        "detail":"In this analysis, we will build a Machine Learning model using a Random Forest algorithm based on an EVCS dataset in Netherland to explore the relationships between energy consumption and all other features. We also provide graphical presentations of information extracted from our research. The analysis has four main sections: Data Cleaning, Data Exploration, Feature Selection, and Prediction Model. Our final model returns an accuracy of 87.33% which provides great prediction power by individual transaction records.",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/EVCS%20Prediction%20Model%20-%20Transactions/EVCS%20-%20Consumption%20Prediction%20by%20Transaction%20Records.html"
+    },
+    {
+        "id":8,
+        "topic":"EVCS Visualisation - Barcelona",
+        "detail":"In this analysis, we would like to explore the dataset of EVCS in Barcelona Spain by investigating various important features and their relationships. We use various distribution methods to fit in the key attributes to explore the patterns, while providing other visualised methods to illustrate our findings.",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/Barcelona-Spain%20Analysis/EVCS%20Visualisation%20-%20Barcelona.html"
+    },
+    {
+        "id":9,
+        "topic":"AustinEVdata",
+        "detail":"Investigation and cleaning a dataset of EV charging stations in Austin, Texas.",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/Austin%20(US)%20EV%20Charging%20Stations%20Notebook/AustinEVdata.html"
+    },
+    {
+        "id":10,
+        "topic":"AustinEVData(Google_Maps_API)",
+        "detail":"Utilizing Google Maps API in order to investigate landmark count in close proximity to charging stations found in Austin, Texas.",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/Austin%20(US)%20EV%20Charging%20Stations%20Notebook/AustinEVData(Google_Maps_API).html"
+    },
+    {
+        "id":11,
+        "topic":"AustinEV_Clustering",
+        "detail":"Clustering analysis of the landmark proximity dataset for Austin, Texas.",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/Austin%20(US)%20EV%20Charging%20Stations%20Notebook/AustinEV_Clustering.html"
+    },
+    {
+        "id":12,
+        "topic":"Analysis of Cary, N.Carolina USA",
+        "detail":"Data cleaning and analysis of EV vehicle data from Cary, N.Carolina, USA. Includes analysis of charging time and energy usage.",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/US-NC-Cary%20Analysis/EVCS%20-%20Data%20Cleaning%20and%20Analysis%20-%20Cary%20(NC).html"
+    },
+    {
+        "id":13,
+        "topic":"UK EV Charging Locations",
+        "detail":"Analysis of UK EV Charging Stations.",
+        "//comment":"missing html file in Github, need fixing the future",
+        "link":"https://storage.googleapis.com/evcflo_static_frontend/notebooks/ukEVlocations.html"
+    },
+    {
+        "id":14,
+        "topic":"EVCS - Interactive Map Development - Melbourne and Geelong Region",
+        "detail":"In this analysis, we will built an Interactive Map that provides indications of exisiting EVCS locations, as well as the possible future charging sites. Techniques used in this analysis is based on the EVCS location datasets of Melbourne and Geelong, and Melbourne off street parking lot location dataset.",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/EVCS%20Interactive%20Maps/EVCS%20Interactive%20Map-melbourne%20and%20geelong.html"
     }
 ]
