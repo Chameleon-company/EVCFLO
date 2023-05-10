@@ -1,0 +1,376 @@
+Island,Address,Zip Code,Facility,Parking Lot,Charger Location,Station Availability (Hours),Number of Chargers,Number of Ports,Charger Level,Charge Fee,Manufacturer,Notes
+Island,"Street Adress
+City, Hawaii Zip Code
+",Zip Code,Facility,Parking Lot,Charger Location,Station Availability (Hours),Number of Chargers*,Number of Ports**,Charger Level,Charge Fee,Manufacturer,Notes
+Oahu,"2295 North King Street
+Honolulu, Hawaii 96819
+(21.33549137449171, -157.8816364481399)",96819,Commercial,New City Nissan,3 charging stalls are located in front right of the building., 6:30am-8:00pm,3,3,2,Free for all Nissan Leafs,AeroVironment,Leafs only
+Oahu,"100 Holomoana St.
+Honolulu, Hawaii 96815
+(21.286010676439616, -157.84029461445297)",96815,Hotel,Hawaii Prince Hotel,In level E of the parking garage,24/7,4,4,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"3221 Waialae Ave
+Honolulu, Hawaii 96816
+(21.287044896773295, -157.80755929258643)",96816,Commercial,Kaimuki Shopping Center,Outdoor open lot,Mon-Fri 8:30am-5:00pm,1,2,2,Free until further notice,AeroVironment,
+Oahu,"4450 Kapolei Parkway
+Kapolei, Hawaii 96707
+(21.328854377915434, -158.0914212979147)",96707,Commercial,Kapolei Commons,In the front parking near Down to Earth,7:00am-9:00pm,2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"2552 Kalakaua Avenue
+Honolulu, Hawaii 96815
+(21.272511852779814, -157.82323447555714)",96815,Hotel,Waikiki Beach Marriott,"One charger is on 3rd floor self parking garage, second charger is in valet",24/7,2,2,2,Free,AeroVironment,After parking use nearby phone and contact security who will use a motion key to start charger 
+Oahu,"92-1185 Aliinui Drive
+Kapolei, Hawaii 96707
+(21.340239794806394, -158.12284360961843)",96707,Hotel,"Aulani A Disney Resort and Spa, Ko Olina","Parking garage 1, closest stalls to the elevator on two floors. ",24/7,12,12,"2, 3-fast","
+",Charge Point,"12 chargers; Spaces 250-254, 393-397, and 498-499"
+Hawaii,"74-5044 Ane Keohokalole Hwy
+Kailua-Kona, Hawaii 96740
+(19.650440000006142, -155.9799599996541)",96740,Commercial,West Hawaii Civic Center,1st floor of parking structure in covered structure,"7:45am-4:30pm Close first Fri of month and County observed holidays
+",3,6,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"330 Royal Hawaiian Avenue
+Honolulu, Hawaii 96815
+(21.28042588663766, -157.82819873315887)",96815,Commercial,DFS Waikiki Galleria,,9:00am-11:00pm,2,2,2,,AeroVironment,
+Hawaii,"62-100 Kauna&rsquo;oa Dr
+Kohala Coast, Hawaii 96743
+(20.016599999890275, -155.7242700003601)",96743,Hotel,Hapuna Beach Prince Hotel,Valet,24/7,2,4,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"1199 Auloa Road
+Kailua, Hawaii 96734
+(21.374324099716887, -157.77992312662604)",96734,Commercial,Whole Foods Kailua,Parking stall in front of entrance,7:00am-10:00pm,2,2,2,Free for up to 2 hours,Volta,
+Maui,"170 Kaahumanu Avenue
+Kahului, Hawaii 96732
+(20.88967945812709, -156.47218299093976)",96732,Hotel,Maui Beach Hotel,"Must bring your own charger. Contact hotel about where to plug in. There are multiple restaurants, shops, Maui Arts & Culteral Center & Queen Kaahumanu Shopping Center within short walking distance from this charge spot.",,1,1,1,Free,,
+Oahu,"1450 Ala Moana Blvd
+Honolulu, Hawaii 96814
+(21.289311188287115, -157.8421921839348)",96814,Commercial,Ala Moana Center,2 Charging stations are located in front of Genki Sushi. Take the Keeaumoku entrance up the ramp and turn right. Charging stations will be on the right. 2 chargers ground level right below,"Mall hours, 7:00am-9:30pm",4,8,2,Free,Better Place,
+Hawaii,"Keahole International Airport
+Kailua-Kona, Hawaii 96740
+(19.650440000006142, -155.9799599996541)",96740,Commercial,National Car Rental Kona Airport,"Outside parking, side of the building","5:30am-11:30pm
+",1,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Hawaii,"2450 Kekuanaoa St, Suite 215
+Hilo, Hawaii 96720
+(19.715577712536007, -155.04482733776695)",96720,Airport,Hilo International Airport,In parking lot close to terminal entrance,5:00am - 10:00pm,2,2,2,Free until further notice,,
+Oahu,"2375 Ala Wai Blvd
+Honolulu, Hawaii 96815
+(21.279148849356034, -157.82297367216864)",96815,Hotel,Waikiki Sand Villa,Valet,24/7,1,1,2,Free to Hotel Guests - Non Guests/Bar Patrons $10.00 per session,Schneider Electric,
+Oahu,"1801 Kalakaua Ave
+Honolulu, Hawaii 96815
+(21.29030943573963, -157.83557317379913)",96815,Commercial,Hawaii Convention Center,"In parking structure, Aisle B next to pedestrian walkway",,1,1,2,$2.00/hour,Eaton?,Pay at charging station. All major credit cards. 
+Oahu,"94-1480 Moaniani St.
+Waipahu, Hawaii 96797
+(21.425325812664497, -157.99796942170946)",96797,Commercial,Kaiser Permanente Waipio,Enter the parking lot and continue towards the Ewa side of the main building. One pedestal charging station is next to the handicap stalls on the building side.,24/7,1,1,2,Free,Volta,
+Oahu,"563 Kamoku Street
+Honolulu, Hawaii 96826
+(21.286347176348407, -157.82475281350472)",96826,School,Iolani School,Guest Stall,"9:00am-3:00pm the lot is reserved for school staff, after 3:00pm the lot is open to those attending special events at Iolani",2,2,2,Free,AeroVironment,
+Maui,"4405 Honoapiilani Hwy
+Kahana, Hawaii 96761
+(20.97332540007227, -156.67669781362287)",96761,Commercial,Kahana Gateway,Charge spots located in the rear of the shopping center underneath the building down from the Shell Station and Kahana Koin-Op.,24/7,2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"95-1249 Meheula Pkwy
+Mililani, Hawaii 96789
+(21.453248200399102, -158.00784762085445)",96789,Commercial,Town Center of Mililani,In front of Baskin Robins,7:00am-10:00pm,2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"94-826 Ukee St
+Waipahu, Hawaii 96797
+(21.41153804528932, -157.99960051872316)",96797,Commercial,Aloha Island Mart Waipio-Gentry,"Special key FOB available in the store, give drivers license whenyou get fob, get license back when you return fob.",24/7,1,1,3-fast,Free,AeroVironment,
+Oahu,"98-1005 Moanalua Rd (uptown)
+Aiea, Hawaii
+(21.385934347115153, -157.94082083088813)",,Commercial,Pearlridge Shopping Center (uptown),Uptown parking lot fronting the main food court entrance,"Mon-Sat 10:00am-9:00pm, Sun 10:00am-6:00pm",1,1,2,Free,Volta,
+Oahu,"1288 Ala Moana Blvd
+Honolulu, Hawaii 96814
+(21.29181130352856, -157.84994433982735)",96814,Condo,Hokua Condominium,"On ground level of parking garage near loading dock
+",6:00am-2:00am,2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"160 Ahui Street
+Honolulu, Hawaii 96813
+(21.293461524831603, -157.86003755519)",96813,Commercial,Kakaako Piano Lot Parking Facility,"Next to Children’s Discovery Center, right off Ahui st Ewa side of the lot",24/7,1,1,2,"$1.00 per session plus $1.00/hour.  
+",Shorepower,
+Oahu,"1956 Ala Moana Blvd
+Honolulu, Hawaii 96815
+(21.285526846034113, -157.83420892244482)",96815,Hotel,Double Tree by Hilton Alana Waikiki Hotel,Valet,24/7,2,2,2,"Hawaii
+HECO Rates + Surcharge (TBD)
+",ECOtality Blink,
+Maui,"905 Mokuea Pl
+Kahului, Hawaii 96732
+(20.89439190556061, -156.44106644872596)",96732,Commercial,Alamo/National Kahului Airport,,24/7,1,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"1525 Bernice St.
+Honolulu, Hawaii 96817
+(21.333122240610425, -157.86936304388902)",96817,Commecial,Bishop Museum,Charge Spot located in the rear parking area,"Wed-Mon 9:00am-5:00pm
+",4,4,2,"Free, 4 hours at a time",Better Place,
+Oahu,"1380 Lusitania street
+Honolulu, Hawaii 96813
+(21.308592652595337, -157.85289411608346)",96813,Commercial,Queen’s Physician Office Building,"1 charger at POB 1 lot on Lusitaina st. Main entry Makai side level 3, 2nd charger at Miller st garage across emergency room level B2 near cashiers booth",24/7,4,4,2,"Free until further notice, anticipated fee will be $2.00/hour",Coulomb,Parking valet will give you 1/2 off when fee begins
+Hawaii,"62-100 Mauna Kea Beach
+Kohala Coast, Hawaii 96743
+(20.016599999890275, -155.7242700003601)",96743,Hotel,Mauna Kea Beach Resort,,"24/7
+",2,4,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,Driver needs to pick up key from office at first right after parking to open gate.
+Oahu,"590 Farrington Hwy
+Kapolei, Hawaii 96707
+(21.33845913718835, -158.0784440810319)",96707,Commercial,Kapolei Shopping Center,Between Longs and Safeway in front of Subway,"8:00am-10:00pm
+",2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Kauai,"2249 Poipu Road
+Koloa, Hawaii 96720
+(21.878627454871527, -159.46001758041845)",96720,Hotel,Marriott Waiohai Beach Club,Valet,,3,3,2,Pick up FOB from front desk,AeroVironment,
+Oahu,"2255 Kalakaua Ave
+Honolulu, Hawaii 96815
+(21.278717174782003, -157.82857644841118)",96815,Hotel,Sheraton Waikiki,3rd floor parking garage,24/7,3,6,2,Charging stations free for hotel guest and patrons of the hotel with parking validation,,Need FOB key from front desk
+Oahu,"4561 Salt Lake Blvd
+Honolulu, Hawaii 96818
+(21.365303899762978, -157.92906669196518)",96818,Commercial,Stadium Marketplace,Between office max and checkers,7:00am-9:00pm,4,4,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Maui,"3900 Wailea Alanui
+Wailea, Hawaii 96753
+(20.679442862484365, -156.4411963343861)",96753,Hotel,Four Seasons Maui (Wailea),"Self-park at spaces 167 and 169 (at end of row on left) in valet/selfpark garage. Move the cone that’s there to prevent non-EV parking. Hint: Valet at
+Hotel Wailea will drive you to/from Four Seasons garage for tip, other hotel valets may if you ask.  ",24/7,1,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,Ask for key at bell desk
+Oahu,"4339 Waialae Ave
+Honolulu, Hawaii 96816
+(21.27824053410643, -157.78427584524786)",96816,Commercial,Aloha Island Mart Kahala,"Special key FOB available in the store, give drivers license whenyou get fob, get license back when you return fob.",24/7,1,1,3-fast,Free,AeroVironment,
+Oahu,"818 Keeaumoku St.
+Honolulu, Hawaii 96814
+(21.297018378078235, -157.840879173772)",96814,Commercial,"HMSA Center
+(Hawaii Medical Service)",On ground floor of parking lot,"Mon-Thurs 7:00am-12:00am, Fri 7:00am-2:00am, Sat 3:00pm-2:00pm, Sun 9:00am-12:00am",2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Maui,"101 Pakaula Street
+Kahului, Hawaii 96732
+(20.87761055649389, -156.45662471983286)",96732,Commercial,Walmart,In the back of the store next to the garden shop,24/7,1,1,2,Free,Blink,Requires a Blink Card 
+Oahu,"564 Pohukaina
+Honolulu, Hawaii 96813
+(21.301576014347276, -157.86136064277085)",96813,Government,Ka`ahumanu Hale parking Garage  First Circuit Court,"Basement floor, first stall, clearly marked", 7:00am-5:00pm,1,1,2,$2.00/hour up to 4 hours,Eaton,
+Oahu,"2003 Kalia Rd.
+Honolulu, Hawaii 96814
+(21.28477333511022, -157.83574728358352)",96814,Hotel,Hilton Hawaiian Village,"On the 2nd floor of the parking garage across from Kalia Tower
+",24/7,4,4,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"600 Queen St
+Honolulu, Hawaii 96813
+(21.302297398390238, -157.8581101838534)",96813,Condo,Keola Lai Condominium,Public charge spot on 1st floor of parking garage. Guest spot located on 3rd floor,24/7,2,4,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"1226 College Walk
+Honolulu, Hawaii 96817
+(21.315085757646898, -157.86148264146328)",96817,Commercial,USA Hawaii Credit Union,On left after entering parking garage,"Mon-Fri 7:00am-7:00pm, Sat 7:00am-2:30pm",4,4,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Maui,"2605 Ka&rsquo;anapali Parkway
+Lahaina, Hawaii 96761
+(20.92039999976032, -156.6749199996581)",96761,Hotel,Sheraton Maui,On 2nd floor of parking garage.,24/7,1,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"2330 Kuhio Avenue
+Honolulu, Hawaii 96815
+(21.278564290037025, -157.82506909249693)",96815,Hotel,Ohana Waikiki West,"Self park, lobby level",24/7,2,2,2,Free,AeroVironment,Need attendent to activate
+Oahu,"1130 North Nimitz Hwy
+Honolulu, Hawaii 96817
+(21.319174147958822, -157.87623425225317)",96817,Commercial,Nimitz Center,Charge Spot is located at Enterprise Rent-a-Car parking in rear of garage,"8:00am-9:00pm
+
+",2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,Fleet customers only
+Oahu,"4211 Waialae Ave
+Honolulu, Hawaii 96816
+(21.278465364613794, -157.78658710286317)",96816,Commercial,Kahala Mall,Across from Whole Foods on the 1st floor,"Mon-Fri 8:00am-5:00pm, Sat 8:00am-12:00pm",2,2,2,Free,Volta,
+Oahu,"3255 Aolele St
+Honolulu, Hawaii 96818
+(21.333395954163393, -157.91460559373402)",96818,Commercial,Enterprise Rent A Car Honolulu Airport,,6:00am-11:00pm,2,4,2,"Free, 4 hours at a time",Better Place,
+Maui,"55 Amala Place
+Kahului, Hawaii 96732
+(20.89518125803988, -156.46060783511692)",96732,Commercial,Bio-Beetle ECO Rental Cars,By appointment and for Bio-Beetle customers only.,By appointment and for Bio-Beetle customers only.,,,,,Eaton,"No charger, but allow customers to plug in to outlet to charge when they bring in their own Level 1 charger,  private to customers by appointment."
+Maui,"3600 Lower Honoapiilani Road
+Lahaina, Hawaii 96761
+(20.952712939160733, -156.68663532204664)",96761,Commercial,5A Rent A Space Business Services Center,One credit card Level 2 charge port located next to the sidewalk across the parking lot from Ohana Taco.,24/7,1,1,2,$10/hr,Schneider,Credit Card required to use this charge spot.
+Oahu,"3029 Lowrey Avenue
+Honolulu, Hawaii 96822
+(21.308133998360404, -157.8065790315745)",96822,Government,Univ of Hawaii Faculty Housing,Charge Spot located approximately 200 yards on the left.,24/7,1,1,2,"Free until Dec 31st 2012, 4 hours at a time",AeroVironment,
+Oahu,"Salt Lake Blvd
+Honolulu, Hawaii 96815
+(21.371864453966737, -157.93368920719575)",96815,Commercial,Aloha Stadium,"Enter the main salt lake gate 1, turn right at sections 3D and 4D, make a right turn at 2A and proceed to park in the marked stall","6:00am-12:00am
+",1,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"700 Bishop St.
+Honolulu, Hawaii 96813
+(21.3072256831108, -157.86340719060598)",96813,Commercial,TOPA Financial Center,Parking garage basement level,"5:00am-8:00pm
+",4,4,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"3401 N. Nimitz Hwy,
+Honolulu, Hawaii 96815
+(21.33722706600821, -157.9174564445669)",96815,Hotel,Ohana Honolulu Airport,,24/7,1,1,2,Free,AeroVironment,"Need FOB key to activate charger in self-parking, Private to guests"
+Maui,"1881 S Kihei Rd
+Kihei, Hawaii 96753
+(20.73335030977387, -156.45264072324306)",96753,Commercial,Kihei Town Center,"In front of “Happy Nails” between Sansei and Cuatro Restaurants, near Police Station & Rainbow Attic at 24/7 Kihei Foodland",24/7,2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,Need a Better Place membership
+Oahu,"930 Valkenburgh St
+Pearl City, Hawaii 96818
+(21.343776924855927, -157.92813395368722)",96818,Commercial,Moanalua Shopping Center,In front of Subway,7:00am-9:00pm,2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"2233 Helumoa Rd
+Honolulu, Hawaii 96815
+(21.278276506987652, -157.83050099755388)",96815,Hotel,Waikiki Parc Hotel & Halekulani Hotel,"On 2nd floor, up ramp after you pass parking booth",24/7,2,2,2,Free,Eaton,The two hotels share this parking lot
+Maui,"40 Hana Hwy
+Kahului, Hawaii 96732
+(20.89194574964091, -156.46278507573356)",96732,Commercial,Enterprise Rent A Car,Across the Hana Hwy from the Mercedes dealership. Access fromthe Hana Hwy. Since this is a rental car location access to the one charge port is by availability only. This charge spot is next to Maui Mall,7:00am-5:00pm,1,1,1,Free,AeroVironment,
+Maui,"3700 Wailea Alanui
+Wailea, Hawaii 96753
+(20.688015538311618, -156.43965069932614)",96753,Hotel,Wailea Beach  Marriott,"One in valet, one is in paid parking both on first floor adjacent to lobby.  ",24/7,1,2,2,,AeroVironment,Need FOB key to activate charger in self-parking
+Hawaii,"73-200 Kupipi street
+Kailua-Kona, Hawaii 96740
+(19.737290520646336, -156.04045859217698)",96740,Airport,Kona International Airport at Keahole,1st floor of parking structure across from entrance gate,24/7,2,2,2,"Free until further notice, anticipated charging fee: $7/session",,
+Kauai,"1571 Poipu Rd.
+Koloa, Hawaii 96756
+(21.87678431070708, -159.44084500965906)",96756,Hotel,Grand Hyatt Kauai,In the corner of the guest parking closest to the hotel there are 2 spaces at the level 2 charger reserved for Evs and 4 spaces at the level 3 charger reserved for EVs ,24/7,2,2,2 & 3,Free until further notice,AeroVironment,
+Oahu,"434 Kuulei Rd
+Kailua, Hawaii 96734
+(21.3947297165617, -157.7432487742712)",96734,Commercial,Kailua Shell,Special key available in the store.,24/7,1,1,3-fast,Free,AeroVironment,
+Oahu,"2211 Kuhio Avenue
+Honolulu, Hawaii 96815
+(21.280911520533493, -157.8279019568892)",96815,Hotel,Ohana Waikiki Malia,"2nd level, at entrance",24/7,2,2,2,Free,AeroVironment,See attendent for FOB key to activate
+Kauai,"5-4280 Kuhio Highway
+Princeville, Hawaii 96722
+(22.213130749665254, -159.47352637220382)",96722,Commercial,Princeville Shopping Center,"Rear parking lot, next to public restrooms",24/7,2,2,2,Free,Eaton,
+Oahu,"3253 N. Nimitz Highway
+Honolulu, Hawaii 96819
+(21.33653458804565, -157.9131037259451)",96819,Hotel,Best Western Plaza Hotel,Self-parking next to secuirty as soon as you enter,24/7,2,2,2,Free,AeroVironment,"Registered guests/visitors can use, need FOB"
+Kauai,"3838 Wylie Rd
+Princeville, Hawaii 96722
+(22.221943074619873, -159.46853434707594)",96722,Hotel,Westin Princeville Resort,Valet reccomened,24/7,2,4,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"94-849 Lumiaina Street
+Waipahu, Hawaii 96797
+(21.399988788222664, -158.00521770573695)",96797,Commercial,Waikele Center,"Located by Gap and Brooks Brothers, have to call security to activate",24/7,2,2,2,Free,AeroVironment,
+Oahu,"91-1401 Ft Weaver Rd
+Honolulu, Hawaii 96706
+(21.333769206953146, -158.02317141687146)",96706,Commercial,Ewa Town Center,Next to Blockbusters and Starbucks building facing Fort Weaver Rd,"7:00am-9:00pm
+",2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"3055 N. Nimitz Hwy
+Honolulu, Hawaii 96819
+(21.33583311686283, -157.9082114141057)",96819,Commercial,"Alamo Rent-a-Car, Nimitz",,,1,2,2,"Free, 4 hours at a time",Better Place,
+Hawaii,"69-425 Waikoloa Beach Dr
+Waikoloa, Hawaii 96738
+(19.92262948680053, -155.88694018715248)",96738,Hotel,Hilton Waikaloa,,24/7,4,8,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,Valet needs to swipe card to activate charger
+Oahu,"2335 Kalakaua Avenue
+Honolulu, Hawaii 96815
+(21.27763798834684, -157.82731739757017)",96815,Hotel,Outrigger Waikiki,"Basement of garage, valet",24/7,1,1,2,Free,AeroVironment,
+Maui,"1 Ritz-Carlton Drive
+Kapalua, Hawaii 96761
+(21.00072919963964, -156.6538299170569)",96761,Hotel,Ritz Carlton Kapaalua,"Outdoor parking lot close to entrance for employees, EV station labled, where buses and big vehicles parked",24/7,2,2,2,Free until further notice,Hubbell,
+Maui,"30 Halawai Dr #C
+Lahaina, Hawaii 96761
+(20.942316776502025, -156.68840698644436)",96761,Commercial,Alamo Rent-a-Car Kaanapali,,,1,2,2,,Better Place,
+Oahu,"57-091 Kamehameha Hwy
+Kahuku, Hawaii 96731
+(21.6976574741794, -157.99224422954634)",96731,Hotel,Turtle Bay Resort,Near beach access parking,24/7,6,6,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Maui,"220 Mahalani Street
+Wailuku, Hawaii 96793
+(20.884231686320213, -156.48843029126542)",96793,Commercial,Maui Memorial Medical Center,Two designated EV parking spaces in the far left of the handicapped parking in the row in front of the ER entrance (facing west Maui mountains). ,24/7,2,2,2,Free,AeroVironment,There will be a charge via AV FOB and/or credit card soon
+Oahu,"2255 Kuhio Avenue
+Honolulu, Hawaii 96815
+(21.280111123927384, -157.82698464841934)",96815,Commercial,Waikiki Trade Center,,24/7,2,4,2,Free,AeroVironment,See Parking Management Office for FOB key to activate
+Maui,"260 Hana Hwy
+Kahului, Hawaii 96732
+(20.888663224233994, -156.45805464185946)",96732,Commercial,Jim Falk  Motors of Maui,,7:30am-8:00pm,3,3,2,Free,AeroVironment,Customers only
+Oahu,"4675 Kapolei Pkwy
+Kapolei, Hawaii 96707
+(21.327829461113208, -158.08683820776824)",96707,Government,Kapolei Judiciary State Ownership,Enter the parking lot and continue to the rear entrance of the building. Two charging stations are located next to the loading docks.,7:00am-5:00pm,2,2,2,$2.00/hour up to 4 hours,Volta,
+Oahu,"55-370 Kamehameha Hwy
+Laie, Hawaii 96762
+(21.638913194296748, -157.91929194484317)",96762,Commercial,Polynesian Cultural Center,"Enter main entrance, stay to right on circle, take a right, drive 15 meters and the Charge Spot will be on your left in the front row",11:00am-10:00pm,2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"841 Bishop Street
+Honolulu, Hawaii 96813
+(21.307783262768965, -157.86244491603463)",96813,Commercial,Davies Pacific Center,6th floor,,1,1,2,"1st 2 hours free, $5 every additional hour",ChargePro,"Use your smart phone to charge by credit card at the charger, instructions on the screen"
+Oahu,"150 Kaiulani Avenue
+Honolulu, Hawaii 96815
+(21.277494096822124, -157.82488922809105)",96815,Hotel,Ohana Waikiki East,,24/7,2,2,2,Free,AeroVironment,Private for hotel guest
+Oahu,"500 Ala Moana Blvd.
+Honolulu, Hawaii 96813
+(21.30097539500713, -157.8631373939972)",96813,Commercial,Water Front Plaza,The charger is located in the basement level of the parking garage just off the Waterfront Plaza aka Restaurant Row Pohukaina Street entrance.  Our signs and parking lot stencils are being fabricated,24/7,1,1,2,"1st 2 hours free, $5 every additional hour",ChargePro,"Use your smart phone to charge by credit card at the charger, instructions on the screen.  A 2 hour limit may be enforced when demand rises"
+Oahu,"55-510 Kamehameha Hwy
+Laie, Hawaii 96762
+(21.647158676827154, -157.92152970923166)",96762,Commercial,Laie Village Center,In front parking lot lot,8:00am-7:00pm,2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Kauai,"4369 Rice Street
+Lihue, Hawaii 96761
+(21.974039820623826, -159.36710913251258)",96761,Government,Historic County Building,,"
+",2,2,2,"$2.00/hour, up to 4 hours",AeroVironment,
+Oahu,"227 Lewers Street
+Honolulu, Hawaii 96815
+(21.279037461318318, -157.83102218381737)",96815,Hotel,Wyndham Hotel,Valet,24/7,1,1,3-fast,Free,AeroVironment,
+Oahu,"2552 Kalakaua Avenue
+Honolulu, Hawaii 96815
+(21.272511852779814, -157.82323447555714)",96815,Hotel,Marriot Waikiki Beach,Self-park,24/7,1,1,2,Free,,Front desk security manager needs to activate.
+Oahu,"98-1005 Moanalua Rd (downtown)
+Aiea, Hawaii
+(21.385934347115153, -157.94082083088813)",,Commercial,Pearlridge Shopping Center (downtown),Downtown parking lot fronting the entrance of Cold Stone Creamery,"Mon-Sat 10:00am-9:00pm, Sun 10:00am-6:00pm",1,1,2,Free,Volta,
+Oahu,"2828 Paa Street
+Honolulu, Hawaii 96819
+(21.345051167663144, -157.89474856332708)",96819,Commercial,Kaiser Permanente Mapunapuna,One floor outdoor facility,8:00am-5:00pm,1,1,2,Free,Volta,
+Hawaii,"72-100 Kaupulehu Dr
+Kailua-Kona, Hawaii 96740
+(19.827445243219415, -155.99167523068476)",96740,Hotel,Four Seasons Resort Hualalai,,24/7,2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"2169 Kalia Road
+Honolulu, Hawaii 96815
+(21.278906032408145, -157.83238957381542)",96815,Hotel,Outrigger Reef,"Self-Park in garage outside valet, basement level",24/7,1,1,2,"Free until further notice,  fee amount TBD",AeroVironment,Will need to retrieve FOB key from front desk when a fee begins
+Maui,"100 Nohea Kai Drive
+Lahaina, Hawaii 96761
+(20.91616449188996, -156.6945403626842)",96761,Hotel,Mariott Maui Ocean Club,Located in the valet station,24/7,1,1,2,Free,Coulomb,"1 station, but 5 stalls are set up.  When parking lot is expanded, more chargers will be added."
+Oahu,"3288 Moanalua Road
+Honolulu, Hawaii 96819
+(21.362489021811257, -157.90030637346817)",96819,Commercial,Kaiser Permanente Moanalua Medical Center,2nd floor.,24/7,2,2,2,Free.,Volta,
+Oahu,"94-1299 Ka Uka Blvd
+Honolulu, Hawaii 96797
+(21.428364360457522, -157.99888106109972)",96797,Commercial,Tony Nissan,Enter dealer from Moaniani St.  , 7:00am to 8:00pm,1,1,2,Free,AeroVironment,Leafs only.  Recommend calling ahead to check availability of charger
+Oahu,"575 Cooke Street
+Honolulu, Hawaii 96813
+(21.299662384844396, -157.8573277736879)",96813,Commercial,Green Energy Outlet,Green spot for EV Charging in front of lot.  Other chargers available in garage," 8:00am-5:00pm Mon-Fri, 8:00am-1:00pm Sat, or available 24/7 with a Charge Card",2,3,2,$4.00 per session plus $2.00/30 minutes,ChargePoint Network and Tesla,"The ChargePoint charger has 2 ports, one is outside and available 24/7.  You can pay inside during operating hours, or you can use a Charge Card and it bills you. Charge Point Network 1-888-758-4389 mychargepoint.net to purchase a card.  The Tesla charger is available in the garage only during business hours."
+Oahu,"22 S. Pauahi St.
+Honolulu, Hawaii 96813
+(21.311183536789333, -157.86094481970065)",96813,Commercial,Mark’s Garage,3rd floor of parking garage,"Mon 5:45am-10:00pm, Tue 10:45am-12:00am, Wed-Fri 5:45am-2:00am, Sat 7:00am-2:00am",1,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"151 Kaiulani St.
+Honolulu, Hawaii 96815
+(21.277323225636565, -157.8247093636852)",96815,Commercial,"Enterprise Rent-a-Car, Waikiki",,7:00am-8:00pm,4,4,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"415 South Beretania St.
+Honolulu, Hawaii 96813
+(21.307522459380436, -157.85646442453978)",96813,Government,Hawaii State Capitol,"Basement Parking Garage, Entrance off Punchbowl"," 4:00am. to 6:30pm Mon-Fri, 6:00am to 2:00pm Saturdays",1,1,2,$2.00/hr up to 4 hours,Eaton,
+Oahu,"220 S. King St
+Honolulu, Hawaii 96813
+(21.30729762887313, -157.86053835333252)",96813,Commercial,Central Pacific Plaza,On 2nd Floor of parking garage,"Mon-Fri 7:00am-7:00pm, Sat 7:00am-3:00pm, Sun closed 
+",2,2,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Maui,"200 Hobron Avenue
+Kahului, Hawaii 96732
+(20.896199542839497, -156.4636484248817)",96732,Utility,Maui Electric Company,"Located next to each other, in front of public entrance for customer service & bill payment.",24/7,2,2,2,Free,Simens (Coulomb),"Either use your Chargepoint RFID or call the ""1-877 my chargepoint"" number to get access.  "
+Hawaii,"74-5450 Makala Blvd
+Kailua-Kona, Hawaii 96740
+(19.64962554196788, -156.0039729036985)",96740,Commercial,Kona Commons Shopping Center,On side of Sports Authority,"8:00am-10:00pm
+",2,4,2,"Free until Dec 31st 2012
+4 hours at a time",Better Place,
+Maui,"200 south High Street
+Wailuku, Hawaii 96793
+(20.885353719166176, -156.5046395229772)",96793,County Building,"County Building, Wailuku","Directly in front of County Building, outdoor lot. Spot is painted green, sign for Evs.",24/7,2,2,23,"There is a $20 deposit for key to activate charger, pick up at the Maui County Business Resource Center.  Deposit will be returned when key is returned.",AeroVironment,Maui County youtube video on how to use level 3 charger http://www.youtube.com/watch?v=Aj_2zcCSUQg
+Kauai,"2440 Hoonani Rd.
+Koloa, Hawaii 96756
+(21.876721358165014, -159.46220390785493)",96756,Hotel,Sheraton Kauai,Attached to the shack near the luau lawn,24/7,3,3,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"2300 Kalakaua Ave
+Honolulu, Hawaii 96815
+(21.277871812074466, -157.8275152484166)",96815,Hotel,Holiday Inn Beachcomber,Valet,24/7,2,2,2,,AeroVironment,
+Maui,"3700 Wailea Alanui Dr
+Wailea, Hawaii 96753
+(20.688015538311618, -156.43965069932614)",96753,Hotel,Marriot Wailea Beach,Valet recommended,24/7,2,2,2,,,"Valet recommended, self-parking needs FOB from front desk"
+Maui,"2365 Ka&rsquo;anapali Parkway
+Lahaina, Hawaii 96761
+(20.92039999976032, -156.6749199996581)",96761,Hotel,Westin Kaanapali Resort and Spa,Ground level of parking lot,24/7,2,4,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Oahu,"609 Kailua Road
+Kailua, Hawaii 96734
+(21.394001265717975, -157.74199871665047)",96734,Commercial,Longs Drugs,Parking stall in front of entrance,8:00am-9:00pm,2,2,2,Free for up to 2 hours,Volta,
+Oahu,"2500 Kuhio Ave
+Honolulu, Hawaii 96815
+(21.275389683273545, -157.82233515352786)",96815,Hotel,Hilton Waikiki Prince,Valet,24/7,2,2,2,Free,AeroVironment,
+Oahu,"1600 Kapiolani Boulevard
+Honolulu, Hawaii 96814
+(21.29189224251121, -157.83970106191362)",96814,Commercial,The Pan Am Building,"2nd floor, up the ramp take 2 left turns","Mon-Fri 6:00am-10:00pm, Sat 7:00am-5:00pm, Sun closed",1,1,2,"1st 2 hours free, $5 every additional hour",ChargePro,"Use your smart phone to charge by credit card at the charger, instructions on the screen.  Call 1-800 number to sign up for a card"
+Oahu,"300 Rodgers Boulevard
+Honolulu, Hawaii 96819
+(21.335604930654792, -157.91871398519555)",96819,Airport,Honolulu International Airport,"In regular public parking lot in between interisland and main parking structures, 1st floor",24/7,1,1,2,Flat $7/session,,
+Oahu,"45-568 Kamehameha Hwy
+Kaneohe, Hawaii 96744
+(21.399453085430384, -157.79902564501552)",96744,Commercial,King Windward Nissan,,"7:00am-8:00pm, by appreservation",1,1,2,Free,AeroVironment,Leafs only
+Oahu,"2500 Campus Rd &ndash; Arena Parking
+Honolulu, Hawaii 95822
+(38.51372000007808, -121.49462000001284)",95822,School,Univ of Hawaii Lower Campus Parking Garage,"On first floor, section F","5:00am-12:00am
+UH Permit Holders
+Access:
+24/7
+",4,4,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,
+Kauai,"4444 Rice Street
+Lihue, Hawaii 96766
+(21.975084024169593, -159.3690108257757)",96766,Government,Lihue Civic Center-Piikoi Building,Adjacent to Kauai Museum ,24/7,3,3,2,"$2.00/hour, up to 4 hours",AeroVironment,
+Oahu,"201 Beach Walk Street
+Honolulu, Hawaii 96815
+(21.278030000184515, -157.82469000024318)",96815,Hotel,Embassy Suites Waikiki,Valet,24/7,2,2,2,Free,AeroVironment,
+Kauai,"3610 Rice Street
+Lihue, Hawaii 96766
+(21.964755991613174, -159.35414137281424)",96766,Hotel,Kauai Marriott Resort & Beach Club,"Charging station is located on the Kalapaki Cir. side of the hotel, near the Ha'upu Tower, handicap parking space",24/7,1,2,2,Free,AeroVironment,Charger is for exclusive guest use.  Car must be registered at front desk and they will provide a key to activate
+Maui,"200 Nohea Kai Drive
+Lahaina, Hawaii 96761
+(20.916152072725744, -156.6945616692168)",96761,Hotel,Hyatt Regency Maui,"In Lahaina parking area, take a left turn towards back area, EV station will be directly on your right",24/7,1,2,2,"$3.50/hour, max of 4 hours",Pep,Pay with credit card at charger
+Maui,"1345 Piilani Highway
+Kihei, Hawaii 96753
+(20.754255865531718, -156.44730352109272)",96753,Commercial,Elleair Golf Club,Visit the Pro Shop or restaurant & attendant will give you access. ,During Golfing hours: 6:30 am to 6:00 pm Mon-Sun and Restaurant hours:  8:00am to 10:00 pm. Closed after 10:00 pm.,1,1,2,$12 flat fee per session,AeroVironment,
+Oahu,"46-003 Alaloa St.
+Kaneohe, Hawaii 96744
+(21.416506215332234, -157.80532318199687)",96744,Commercial,"Enterprise Rent-a-Car, Kaneohe",In front of the Enterprise office at the intersection of Kahuhipa St and Alaloa St.,"Mon-Fri 8:00am-6:00pm, Sat 9:00am-12:00pm
+",3,3,2,"Free until Dec 31st 2012, 4 hours at a time",Better Place,

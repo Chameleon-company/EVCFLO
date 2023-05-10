@@ -1,0 +1,34 @@
+Location Name,Latitude,Longitude,Address,Description,Charging plugs available,Host,Status,Nearest QESH charging station
+Gatton,-27.55140366,152.3350726,"Building 8156, The University of Queensland, Main Drive & Outer Ring Road, Gatton QLD 4343",University of Queensland Gatton Veterinary Hospital carpark,,University of Queensland,Active,"Toowoomba: 55km West, 
+Brisbane: 92km East"
+Cairns,-16.92045651,145.7788731,"Pier Point Road, Cairns QLD 4870",Lagoon car park (between the Esplanade and Pier Point Rd),,Cairns Regional Council,Active,Tully: 141km South
+Rockhampton,-23.38227211,150.5134619,"189 Alma St, Rockhampton City QLD 4700",Alma St carpark of council building.,,Rockhamption Regional Council,Active,"Miriam Vale: 170km South, 
+Marlborough: 98km North"
+Coolangatta,-28.16419699,153.5152736,"1 Eastern Ave, Bilinga 4225","Gold Coast Airport. Carparks near northbound second entrance off Gold Coast Highway, near amenities",,Gold Coast Airport,Active,Helensvale: 40km North
+Brisbane,-27.44449167,153.0836111,"North Shore Hamilton
+281 MacArthur Ave, Hamilton QLD 4007","Eat St carpark, near roundabout at end of Macarthur Ave. Ultimate location will be at a new park created by closure of Curtin Ave West, close to Kingsford Smith Dr and Gateway Motorway (from 2019).",,Queensland Government,Active,"Gatton: 92km West, 
+Helensvale: 69km South, 
+Cooroy: 129km North, 
+Springfield: 39km South"
+Maryborough,-25.53982619,152.6991534,"102 Lennox St, Maryborough 4650","Lennox St (near Alice St), perpendicular car parks in front of government building",,Fraser Coast Regional Council,Active,"Cooroy: 133km South, 
+Childers: 60km North"
+Childers,-25.23560702,152.2788755,"1/3 Crescent St, Childers 4660","Crescent St, new dedicated carpark created near off-street caravan parking",,Bundaberg Regional Council,Active,"Maryborough: 60km South, 
+Miriam Vale: 154km North"
+Marlborough,-22.8149,149.89395,"71209 Kunwarara Rd, Marlborough QLD 4705","Puma service station, south of Marlborough",,,Active,"Rockhampton: 98km South, 
+Carmila: 136km North"
+Mackay,-21.13971112,149.1852379,"1 Gregory St, Mackay 4740",Council owned Carpark cnr Gregory and River Sts,,Mackay Regional Council,Active,"Carmila: 100km South,
+ Bowen: 192km North"
+Bowen,-20.01660114,148.2480204,"80 Santa Barbara Parade, Bowen QLD 4805","Santa Barbara Pde, near tourist info building and toilets.",,Whitsunday Regional Council,Active,"Mackay: 192km South, 
+Townsville: 200km North"
+Tully,-17.93486278,145.9244323,"Morris St, Tully QLD 4854","Parking in council carpark cnr Writ Ln/Morris St, near playground",,Cassowary Coast Regional Council,Active,"Townsville: 208km South, 
+Cairns: 141km North"
+Miriam Vale,-24.32778446,151.5601492,"39 Blomfield St, Miriam Vale 4677","Blomfield St, On-street perpendicular parking just north of Alf Larson Park",,Gladstone Regional Council,Active,"Childers: 154km South, 
+Rockhampton: 170km North"
+Carmila,-21.90865281,149.4090921,"Music St, Carmila 4739","Near Service Station, Carmila",,,Active,"Marlborough: 136km South, 
+Mackay: 100km North"
+Townsville,-19.32382549,146.7587996,"1 James Cook Dr, Douglas QLD 4814","James Cook University, near Supermarket",,James Cook University,Active,"Bowen: 200km South, 
+Tully: 208km North"
+Toowoomba,-27.5202159,151.8501711,"10810 Warrego Hwy, Charlton 4350","Caltex Charlton Travel Centre, Warrego Hwy",,"Caltex Charlton Travel Centre, Warrego Highway",Active,Gatton: 55km East
+Cooroy,-26.418047,152.911429,"34 Elm St, Cooroy 4563",Cooroy Train Station carpark,,"Noosa Shire Council, Queensland Rail",Active,"Brisbane: 129km South, 
+Maryborough: 133km North"
+Springfield,-27.68194444,152.8997222,"4 David Henry Way, Springfield Central QLD 4300",Carpark on David Henry Way,,Springfield Land Corporation,Active,Brisbane: 39km North

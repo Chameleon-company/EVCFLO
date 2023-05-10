@@ -1,0 +1,393 @@
+,Location Name,Latitude,Longitude,Town,Postal Code,City,Address,Plugs_Type2,Plugs_Three_Phase,Plugs_CHAdeMO,Plugs_CCS/SAE,Plugs_Tesla,Plugs_J-1772,Plugs_Caravan_Mains_Socket,Plugs_wall_AU/NZ,Power 1,charging_stations,Nearby EVStations,Hospitals,Parks,Restaurants,Malls,Supermarkets
+0,Chargefox Charging Station,-35.726719565595815, 145.65935410367524,Cobram,2714,N.A,154 Campbell Rd,1.0,,0.0,0.0,0.0,,,,,,0,0,0,0,0,0
+1,Secure Parking,-37.832108,144.969126,N.A,3205,Melbourne,"15-29 Bank Street, South Melbourne VIC 3205, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,21.0,N.A,21.0,15,1,18,20,4,20
+2,Lonsdale St,-37.81343708,144.955934,N.A,3000,Melbourne,"535 Little Lonsdale St, Melbourne VIC 3004, Australia",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,N.A,2.0,20,2,18,20,20,20
+3,Sorrento Community Centre,-38.33856,144.737043,N.A,3943,Melbourne,"860 Melbourne Rd, Sorrento VIC 3943, Australia",0.0,0.0,4.0,4.0,0.0,0,0.0,0.0,50.065,8.0,1,0,5,20,0,6
+4,CTR Whittlesea,-37.51059,145.118412,N.A,3757,Melbourne,"74A Church St, Whittlesea VIC 3757, Australia",0.0,0.0,2.0,2.0,0.0,0,0.0,0.0,50.065,4.0,1,0,9,20,0,1
+5,Rye & Sorrento Camping,-38.320637,144.718201,N.A,3943,Melbourne,"1380 Point Nepean Rd Portsea VIC 3944, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,1,0,9,3,0,1
+6,Red Rock (Coming Soon),-38.453893,145.199794,N.A,3922,N.A,"4 Lynton Ct, Cowes VIC 3922, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,0,2,0,0,0
+7,Wanzl / Rectifier Technologies,-37.85402,145.104433,N.A,3125,Melbourne,"97 Highbury Rd, Burwood VIC 3125, Australia",0.0,0.0,0.0,1.0,0.0,0,0.0,0.0,N.A,1.0,2,0,8,20,2,3
+8,Cowes Transit Centre,-38.451339,145.240243,N.A,3922,N.A,"83 Thompson Ave, Cowes VIC 3922, Australia",1.0,0.0,0.0,0.0,2.0,1,0.0,0.0,N.A,4.0,2,2,10,20,3,9
+9,Melbourne Museum,-37.804609,144.972702,N.A,N.A,Melbourne,"11 Nicholson St, Carlton VIC 3053, Australia",0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,N.A,2.0,17,13,18,20,20,20
+10,Atura Hotel Dandenong,-38.002297,145.250432,N.A,3177,Melbourne,"5-17 Doveton Avenue, Eumemmerring, Victoria, Australia, VIC 3177",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,22.0,1.0,2,0,3,20,1,4
+11,Club Trillium (gym/pool) carpark,-37.565285,144.893834,N.A,3064,Melbourne,"Trillium Boulevard, Mickleham VIC 3064, Australia",0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,N.A,1.0,0,0,7,0,1,1
+12,West Oval,-38.129308,144.345207,N.A,3215,Geelong,"Weddell Rd, North Geelong VIC 3215, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,22.0,2.0,2,1,6,20,2,7
+13,Hobsons Bay Civic Centre,-37.863399,144.831492,N.A,3018,Melbourne,"115 Civic Parade, Altona VIC 3018, Australia",0.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50.0,2.0,2,0,9,20,1,5
+14,Woodman Estate,-38.282256,145.125377,N.A,3933,Melbourne,"136 Graydens Road Moorooduc VIC 3933, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,0,0,1,1,0,0
+15,Electric Vehicle Charging Station,-37.03208342983455, 144.0582813921051,Newstead,3463,N.A,"49, B180",0.0,,0.0,0.0,0.0,,,,,,0,0,0,0,0,0
+16,Mornington Supercharger,-38.234305,145.051085,N.A,3931,Melbourne,"75 Mornington-Tyabb Rd, Mornington VIC 3931, Australia",0.0,0.0,0.0,0.0,6.0,0,0.0,0.0,250.0,6.0,2,3,3,19,4,6
+17,Skyrail Rainforest Cableway,-16.8476624, 145.6950452,Smithfield,4878,Cairns,"6 Skyrail Dr, Smithfield QLD 4878, Australia",2.0,,,,,,,,7,,1,1,4,19,1,3
+18,Hart's Farm,-38.4092,145.0067,N.A,3928,Melbourne,"Gate 2, 300 Tucks Rd, Shoreham, VIC, Australia, VIC 3916",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,2.0,1.0,0,0,0,4,0,0
+19,Armstrong Creek East Community Hub,-38.231922,144.368965,N.A,3217,N.A,"46-70 Central Boulevard, Armstrong Creek VIC 3217, Australia",6.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,6.0,1,0,3,6,1,3
+20,Middy's Smart Centre (Behind Mulgrave Branch),-37.918327,145.148532,N.A,3168,Melbourne,"214 Wellington Rd, Clayton VIC 3168, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,6,1,2,20,3,8
+21,Nepean Country Club And & Day Spa,-38.398895,144.870509,N.A,3940,Melbourne,"205 Browns Rd, Boneo VIC 3939, Australia",0.0,1.0,0.0,0.0,0.0,1,0.0,1.0,N.A,3.0,2,0,0,1,0,0
+22,Bourke St,-37.81477906,144.956447,N.A,3000,Melbourne,"542 Little Bourke St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,20,3,20,20,20,20
+23,Energy Smart Water,-38.334999,144.98653,N.A,3936,Melbourne,"11 Dalkeith Drive, Dromana VIC 3936, Australia",0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,N.A,1.0,0,0,4,9,0,1
+24,South Melbourne,-37.82974328,144.960726,N.A,3205,Melbourne,"229 Coventry St, South Melbourne VIC 3205, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,20,1,19,20,5,20
+25,Pacific Epping Shopping Centre,-37.653416,145.016892,N.A,3075,Melbourne,"583 High St, Epping VIC 3076, Australia",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,22.0,2.0,2,7,2,20,8,13
+26,Jet City Hangar 131,-37.719978,144.892935,N.A,3041,Melbourne,"Essendon Fields VIC 3042, Australia",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,22.0,1.0,2,0,6,20,2,10
+27,Ampol Foodary Altona North,-37.84646146,144.8088603,N.A,3025,Melbourne,"1 Horsburgh Drive, Altona North, VIC 3025, Australia",,,2.0,2.0,,,,,,,2,0,0,2,0,0
+28,Glenroy Community Hub,-37.708497,144.924037,N.A,3046,Melbourne,"50 Wheatsheaf Rd, Glenroy 3046, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,11.0,1.0,2,1,6,20,0,16
+29,Lygon Street Car park,-37.802158,144.96708,N.A,3053,Melbourne,204-218 Lygon St Carlton Victoria 3053 Australia,1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,15,13,17,20,15,20
+30,Paradigm Hill Winery,-38.385929,145.071771,N.A,3916,Melbourne,"26 Merricks Road Merricks VIC 3916, Australia",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,22.0,1.0,1,0,1,0,0,0
+31,Chargefox Charging Station,-36.72751174841472, 145.59358907054357,Euroa,3666,N.A,167 Tarcombe St,0.0,,1.0,1.0,0.0,,,,,,1,0,0,0,0,0
+32,Dandenong Agricultural and Pastoral Society,-37.983731,145.196402,N.A,3174,Melbourne,"Dandenong‎ VIC‎ 3175, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,0,8,20,0,8
+33,Melbourne Airport - Qantas Valet Parking,-37.669133,144.851581,N.A,3045,Melbourne,"15-25 Francis Briggs Road, Tullamarine, , Australia, VIC 3045",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,22.0,2.0,0,0,0,20,1,1
+34,Secure Parking (450 Flinders Lane),-37.818758,144.958866,N.A,3000,Melbourne,"450 Flinders Ln, Melbourne VIC 3000, Australia",10.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,10.0,20,4,16,20,20,20
+35,Lakeside Villas at Crittenden Estate,-38.335276,145.018981,N.A,3936,Melbourne,"25 Harrisons Rd, Dromana VIC 3936, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,1,0,0,2,0,1
+36,Ampol Dandenong Stud Road,-37.97134,145.223814,N.A,3177,Melbourne,"Corner Stud And, Heatherton Rd, Dandenong VIC 3175, Australia",0.0,0.0,4.0,4.0,0.0,0,0.0,0.0,350.0,8.0,2,5,5,11,2,1
+37,Lorbek Luxury Cars,-37.833209,144.919764,N.A,3207,Melbourne,"327 Plummer St, Port Melbourne VIC 3207, Australia",3.0,0.0,0.0,0.0,0.0,0,0.0,0.0,22.0,3.0,5,0,13,13,0,1
+38,McDonald’s Melton South,-37.722801,144.572251,N.A,3338,Melbourne,"179-253 Exford Rd, Weir Views VIC 3338, Australia",0.0,0.0,4.0,4.0,0.0,0,0.0,0.0,50.0,8.0,1,0,4,10,1,4
+39,Huberts Estate,-37.697017,145.415698,N.A,3770,Melbourne,"10 St Huberts Rd, Coldstream VIC 3770, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,1,0,0,4,0,0
+40,Swinburne University - TC Building,-37.820819,145.039887,N.A,3122,Melbourne,"20 William St, Hawthorn VIC 3122, Australia",0.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50.0,2.0,2,1,9,20,2,12
+41,Donato Cafe,-38.256559,145.037439,N.A,3934,Melbourne,"88 Craigie Rd, Mount Martha VIC 3934, Australia",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,5.0,2.0,0,0,4,8,1,2
+42,Hyatt Centric Melbourne,-37.820407,144.955802,N.A,3000,Melbourne,"25 Downie St, Melbourne VIC 3000, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,20,3,17,20,20,20
+43,Park Hyatt Melbourne,-37.811933,144.976125,N.A,3002,Melbourne,"1 Parliament Square Off, Parliament Pl, Melbourne VIC 3002, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,19,16,18,20,20,20
+44,Westfield Airport West,-37.713651,144.885527,N.A,3042,Melbourne,"29-35 Louis St, Airport West VIC 3042, Australia",0.0,0.0,2.0,6.0,0.0,0,0.0,0.0,50.0,8.0,2,0,2,20,1,6
+45,Northern Motor Group - Pre Delivery Dept,-37.704572,145.072077,N.A,3083,Melbourne,"55 Clements Avenue, Bundoora‎ VIC‎ 3083, Australia",0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,N.A,1.0,1,1,8,20,2,7
+46,Laverton Community Hub,-37.865302,144.76925,N.A,3028,Melbourne,"Cohealth Clinic, Laverton Community Hub Corner Donald St &, Railway Ave, Laverton VIC 3028, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,1,0,9,20,1,11
+47,BP Caroline Springs (Coming Soon),-37.75577,144.741077,N.A,3023,Melbourne,"1324-1332 Western Hwy, Caroline Springs VIC 3023, Australia",0.0,0.0,0.0,1.0,0.0,0,0.0,0.0,N.A,1.0,0,0,7,20,3,6
+48,Wunggurrwil Dhurrung Centre,-37.876378,144.62706,N.A,3024,Melbourne,"Wunggurrwil Dhurrung Centre 19 Communal Road, Wyndham Vale VIC 3024, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,2,0,10,14,2,4
+49,District Docklands Shopping - West Carpark,-37.812855,144.93695,N.A,3008,Melbourne,"8-9 Star Circus, Docklands VIC 3008, Australia",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,22.0,1.0,12,0,18,20,3,12
+50,Darebin Civic Centre Precinct,-37.740102,145.005114,N.A,3072,Melbourne,"274 Gower Street, Preston VIC 3072, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,2,1,10,20,0,18
+51,CB Smith Reserve,-37.702614,144.969502,N.A,3060,Melbourne,99 Jukes Road Fawkner VIC 3060 AU,0.0,0.0,1.0,1.0,0.0,0,0.0,0.0,25.0,2.0,2,0,2,19,1,11
+52,Docklands,-37.81279364,144.9373902,N.A,3008,Melbourne,"8-9 Star Circus, Docklands VIC 3008, Australia",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,N.A,1.0,12,0,18,20,3,14
+53,Hobsons Bay Civic Centre,-37.86361164,144.8310105,N.A,3018,Melbourne,"115 Civic Parade, Altona VIC 3018, Australia",,,1.0,1.0,,,,,,,2,0,9,20,1,5
+54,Melbourne Richmond Supercharger,-37.831997,144.995807,N.A,3121,Melbourne,"650 Church St, Cremorne VIC 3121, Australia",0.0,0.0,0.0,0.0,4.0,0,0.0,0.0,120.0,4.0,15,0,17,20,5,0
+55,Wilson Parking,-37.811294,144.967823,N.A,3000,Melbourne,"222 Russell St, Melbourne VIC 3000, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,11.0,2.0,17,7,20,20,20,20
+56,Evie Charging Station,-36.75541430968068, 144.28700075602384,Bendigo,3550,Bendigo,Gaol Rd,0.0,,1.0,1.0,0.0,,,,,,6,8,13,20,20,11
+57,Childers,-25.23560702,152.2788755,Childers,4660,N.A,"1-3 Crescent St, Childers QLD 4660, Australia",1.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,4.0,1,1,7,9,0,5
+58,Foreshore Camping,-38.359707,144.888748,N.A,3940,Melbourne,"1380 Point Nepean Rd, Rosebud VIC 3939, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,1,8,20,2,7
+59,Kingston Village Square (DC Fast Charger),-38.246677,144.540122,N.A,3226,N.A,"Kingston Village Square, Grubb Rd, Ocean Grove VIC 3226, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50.0,4.0,1,0,5,15,1,2
+60,Springvale MEGA Centre,-37.94168,145.167746,N.A,3171,Melbourne,"754-769 Princes Hwy, Springvale VIC 3171, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,4,0,6,20,1,7
+61,Greensborough Plaza,-37.702301,145.102344,N.A,3088,Melbourne,"25 Main St, Greensborough VIC 3088, Australia",4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,4.0,2,2,14,20,6,7
+62,Miriam Vale,-24.32778446,151.5601492,Miriam Vale,N.A,N.A,"39 Blomfield St, Miriam Vale QLD 4677, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,1,0,4,4,0,1
+63,Tooronga Village,-37.845907,145.046669,N.A,3123,Melbourne,"766 Toorak Rd, Glen Iris VIC 3146",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,22.0,2.0,4,1,14,20,3,5
+64,Collingwood Library,-37.804471,144.99327,N.A,3067,Melbourne,"13 Stanton St, Abbotsford VIC 3067, Australia",0.0,0.0,4.0,4.0,0.0,0,0.0,0.0,50.065,8.0,12,4,14,20,1,20
+65,Bollygum Park,-37.529366,145.339116,N.A,3763,N.A,"Bollygum Park, 40 Whittlesea-Kinglake Rd, Kinglake VIC 3763, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,1,0,2,3,0,1
+66,Woolworths Heidelberg,-37.758997,145.068632,N.A,3084,Melbourne,"451 Lower Heidelberg Rd, Heidelberg VIC 3084, Australia",16.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,16.0,2,4,17,20,2,7
+67,QESH - Port Douglas,-16.5271215, 145.4631622,N.A,4877,N.A,143 - 145 Port Douglas Road Port Douglas QLD 4877 AU,1.0,,1.0,1.0,, ,,,50,,1,0,4,5,0,1
+68,Corsair Solutions,-37.76693229,145.0308257,N.A,3078,Melbourne,"370 Darebin Rd, Thornbury VIC 3071, Australia",,,,2.0,,,,,,,2,0,15,20,2,11
+69,Wilson’s Carpark,-37.835734,144.973525,N.A,3004,Melbourne,"1-3 Queens Road, Melbourne VIC 3004, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,19,3,19,20,2,12
+70,Phillip Island Visitor Information Centre,-38.515001,145.348261,N.A,3925,N.A,"895 Phillip Island Road, Newhaven‎ VIC‎ 3925, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,0,7,10,2,3
+71,Alto Hotel,-37.816254,144.954636,N.A,3000,Melbourne,"636 Bourke St, Melbourne VIC 3000, Australia",0.0,1.0,0.0,0.0,3.0,1,0.0,2.0,N.A,7.0,20,2,20,20,20,20
+72,Oakleigh South,-37.932688,145.097119,N.A,3167,Melbourne,"23-25 Bunney Road, Oakleigh South VIC 3167, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,7.0,1.0,3,0,11,13,2,2
+73,Queen Victoria Market - Underground Carpark,-37.807804,144.958282,N.A,3000,Melbourne,"460 Queen St, Melbourne VIC 3000, Australia",12.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,12.0,19,9,15,20,20,20
+74,Quest Mont Albert,-37.815833,145.10738,N.A,3131,Melbourne,"741-745 Whitehorse Road, Mont Albert VIC 3127, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,3.0,N.A,3.0,1,4,14,20,1,7
+75,Collins St,-37.81496609,144.9700935,N.A,3000,Melbourne,"123 Collins St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,N.A,1.0,18,11,17,20,20,20
+76,IKEA Richmond,-37.812895,145.010271,N.A,3121,Melbourne,"630 Victoria St, Richmond VIC 3121, Australia",4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,4.0,6,2,16,20,2,11
+77,Melbourne Richmond Supercharger,-37.83170783,144.9965223,N.A,3121,Melbourne,"650 Church St, Cremorne VIC 3121, Australia",,,,,4.0,,,,,,16,0,15,20,5,11
+78,Nelson Place Parking/Charging,-37.863107,144.904614,N.A,3016,Melbourne,"Commonwealth Reserve, Williamstown VIC 3016, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,1,1,13,20,0,2
+79,Dandenong Market - Southern Car Park (Coming Soon),-37.984494,145.216329,N.A,3175,Melbourne,"40 Cleeland St, Dandenong VIC 3175, Australia",0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,N.A,1.0,2,6,10,20,11,20
+80,Monash University Clayton - Car Park N1,-37.908137,145.131936,N.A,3800,Melbourne,"10 Research Way, Clayton VIC 3168, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50.0,4.0,5,2,4,20,0,6
+81,Bru4U Geelong,-38.172122,144.367288,N.A,3220,Geelong,"4/100 Barwon Terrace, South Geelong VIC 3220, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,0,0,3,12,0,1
+82,Evie Charging Station,-35.9404835358816, 144.72551622376017,Echuca,2731,N.A,438 High St,0.0,,1.0,1.0,0.0,,,,,,0,0,0,0,0,0
+83,Brunswick EV Hub,-37.773851,144.961886,N.A,3056,Melbourne,"15 Edward St, Brunswick VIC 3056, Australia",2.0,0.0,2.0,2.0,0.0,0,0.0,0.0,50.0,6.0,2,1,18,20,3,15
+84,Richmond Traders Coles,-37.817041,144.998664,N.A,3121,Melbourne,"46 Cameron St, Richmond VIC 3121, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,8,2,10,20,3,20
+85,Queen St,-37.80782358,144.9581717,N.A,3000,Melbourne,"460 Queen St, Melbourne VIC 3000, Australia",12.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,12.0,19,9,15,20,20,20
+86,Tesla Destination Charger,-37.33350334365738, 144.14262090141872,Daylesford,3460,N.A,4 King St,0.0,,0.0,0.0,1.0,,,,,,3,2,8,20,2,10
+87,Tesla Destination Charger,-36.02622585254252, 146.4590454574334,Rutherglen,3685,N.A,217 Main St,0.0,,0.0,0.0,1.0,,,,,,0,0,1,0,0,0
+88,David Street Car Park,-37.771404,144.962021,N.A,3056,Melbourne,"1 David St, Brunswick, Victoria, Australia, 3056",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,2,1,17,20,4,19
+89,Port Melbourne,-37.82377034,144.9265125,N.A,3207,Melbourne,"2 Thackray Rd, Port Melbourne VIC 3207, Australia",0.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,2.0,6,0,6,10,2,2
+90,Lonsdale St,-37.81005952,144.9696999,N.A,3000,Melbourne,"Corner Exhibition & Lonsdale St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,N.A,1.0,17,10,19,20,20,20
+91,Rosebud Beach,-38.355584,144.901769,N.A,3940,Melbourne,"980 Point Nepean Road, Rosebud VIC 3939, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,3.0,N.A,3.0,0,1,10,20,1,9
+92,Holiday Inn Express Melbourne Little Collins,-37.817852,144.955291,N.A,3000,Melbourne,"589-599 Little Collins St, Melbourne VIC 3000, Australia",3.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,3.0,20,2,19,20,20,20
+93,South Melbourne,-37.83103692,144.961768,N.A,3205,Melbourne,"214 Coventry street, south Melbourne",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,50,1.0,18,1,20,20,5,20
+94,St Kilda,-37.86223596,144.9739984,N.A,3182,Melbourne,"2 Acland St, St Kilda VIC 3182, Australia",2.0,0.0,0.0,0.0,2.0,0,0.0,0.0,N.A,4.0,7,1,15,20,4,6
+95,Flinders Hotel,-38.474449,145.019202,N.A,N.A,Melbourne,"23-31 Cook Street, Flinders, Victoria, Australia, VIC 3929",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,8.0,2.0,2,0,8,10,0,2
+96,Rex Gorell Nissan,-38.16275,144.350693,N.A,3220,Geelong,"481 Latrobe Terrace Geelong VIC 3220, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,2,2,10,20,3,6
+97,Penguin Parade Visitor's Centre,-38.505496,145.148488,Summerlands,3922,N.A,"995 Ventnor Road Summerlands VIC 3922, Australia",0.0,0.0,1.0,1.0,0.0,0,0.0,0.0,25.0,2.0,1,0,4,2,0,0
+98,300 Latrobe Street - Wilson Car Park,-37.810021,144.960653,N.A,3000,Melbourne,300 Latrobe Street Melbourne ,0.0,0.0,0.0,0.0,0.0,0,0.0,3.0,N.A,3.0,20,5,19,20,20,20
+99,Bob Morell Reserve,-38.163586,144.352507,N.A,3220,Geelong,"514 Moorabool St, South Geelong VIC 3220, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,4.0,N.A,4.0,1,1,14,20,3,9
+100,Boundary Rd Parking Lot,-37.71912127,144.9615062,N.A,3058,Melbourne,"11 Boundary Rd, Coburg North VIC 3058, Australia",,,1.0,1.0,,,,,,,2,0,7,17,0,3
+101,Stony point caravan park,-38.374257,145.221478,N.A,3919,Melbourne,"5 Stony Point Road, Crib Point VIC 3919, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,4.0,N.A,4.0,0,0,3,0,0,0
+102,Camberwell Supercharger,-37.828606,145.05643,N.A,3126,Melbourne,"793 Burke Road , Camberwell, VIC, Australia, 3124",0.0,0.0,0.0,0.0,6.0,0,0.0,0.0,120.0,6.0,0,0,10,20,1,11
+103,Burwood Brickworks,-37.848953,145.133898,N.A,3128,Melbourne,"70 Middleborough Road, Burwood East VIC 3151, Australia",4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,4.0,1,0,9,20,4,8
+104,Shell Taylors Lakes,-37.69657,144.78212,N.A,3038,Melbourne,"Coles Express 410 Melton Highway, Taylors Lakes VIC 3038, Australia",0.0,0.0,4.0,4.0,0.0,0,0.0,0.0,350.0,8.0,2,0,4,20,4,6
+105,Chelsea Swansea Road Car Park,-38.054795,145.115952,N.A,3196,Melbourne,"1 Swansea Rd, Chelsea 3196, Australia",0.0,0.0,4.0,4.0,0.0,0,0.0,0.0,50.065,8.0,1,0,9,20,1,3
+106,Lonsdale St,-37.81137439,144.9633783,N.A,3000,Melbourne,"300 Lonsdale St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,17,6,20,20,20,20
+107,Cooroy,-26.418047,152.911429,Cooroy,4563,N.A,"Cooroy Railway Station, Cooroy QLD 4563, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,1,1,5,14,0,3
+108,Springvale Library,-37.957007,145.153146,N.A,3171,Melbourne,"9 Hillcrest Grove, Springvale VIC 3171, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,0,0,7,20,6,20
+109,Lonsdale St,-37.8130787,144.9582143,N.A,3000,Melbourne,"460 Lonsdale St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,20,3,18,20,20,20
+110,Chargefox Charging Station,-36.63115799635183, 142.22291915619667,Horsham,3402,N.A,126 Baillie St,0.0,,1.0,1.0,0.0,,,,,,0,0,0,0,0,0
+111,Hartley's Crocodile Adventures,-16.6597114, 145.5663743,Wangetti,N.A,N.A,"Captain Cook Hwy, Wangetti QLD 4871, Australia",2.0,,,,,,,,7,,1,0,1,0,0,0
+112,Chelsea Swansea Road Car Park,-38.05485257,145.1166042,N.A,3196,Melbourne,"1 Swansea Rd, Chelsea 3196, Australia",,,2.0,2.0,,,,,,,1,0,9,20,1,3
+113,Flinders Ln,-37.81861176,144.9586537,N.A,3000,Melbourne,"450 Flinders Ln, Melbourne VIC 3000, Australia",10.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,10.0,20,3,15,20,20,20
+114,AWM Greentech Geelong,-38.163929,144.411376,N.A,3224,N.A,"252-256 Portarlington Rd, Moolap, Victoria 3224",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,0,0,0,11,0,1
+115,Bayside City Council,-37.959394,145.017704,N.A,3191,Melbourne,"76 Royal Ave, Sandringham VIC 3191, Australia",0.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50.0,2.0,2,1,13,20,0,3
+116,North Drive Office Complex,-37.909599,145.062347,N.A,3165,Melbourne,"236 E Boundary Rd, Bentleigh East VIC 3165, Australia",0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,N.A,1.0,0,1,13,20,0,4
+117,Holiday Inn Express Melbourne Southbank,-37.821895,144.966652,N.A,3006,Melbourne,"35-47 City Rd, Southbank VIC 3006, Australia",9.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,9.0,16,4,16,20,20,20
+118,Carlton,-37.80216073,144.9671638,N.A,3053,Melbourne,204-218 Lygon St Carlton Victoria 3053 Australia,1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,15,13,17,20,15,20
+119,Sundowner Rockbank Caravan Park,-37.730067,144.659873,N.A,3335,Melbourne,"Rockbank VIC 3335, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,0,14,8,1,5
+120,Club Delaray,-38.110037,145.336394,N.A,3978,Melbourne,"20 Alphey Road, Clyde North VIC 3978, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,1,0,20,7,1,2
+121,Evie Charging Station,-36.372030681103425, 143.61095264121334,Wedderburn,3518,N.A,Chapel St,0.0,,1.0,1.0,0.0,,,,,,0,0,0,0,0,0
+122,Watergardens Shopping Centre,-37.699043,144.775876,N.A,3038,Melbourne,"399 Melton Highway, Taylors Lakes VIC 3038",0.0,0.0,0.0,0.0,3.0,0,0.0,0.0,22.0,3.0,2,0,4,20,4,7
+123,Hume Villa Motor Inn,-37.696652,144.959707,N.A,3060,Melbourne,"1324 Sydney Rd, Fawkner VIC 3060, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,1,0,4,20,1,12
+124,Tesla Destination Charger,-36.67605388090019, 144.24504896808813,Golden Square,N.A,Bendigo,371 High St,0.0,,0.0,0.0,1.0,,,,,,0,0,0,0,0,0
+125,Rialto Car Park,-37.8191,144.957613,N.A,3000,Melbourne,"476 Flinders Ln, Melbourne VIC 3000, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,3.0,20,4,17,20,20,20
+126,Evie Charging Station,-37.05060230278171, 143.74185155695164,Maryborough,3465,N.A,Station St,0.0,,1.0,1.0,0.0,,,,,,1,4,13,20,1,13
+127,Harrow Street Car Park,-37.821964,145.124448,N.A,3128,Melbourne,"3 John St, Box Hill VIC 3128, Australia",5.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,5.0,1,7,17,20,4,20
+128,Docklands,-37.81209916,144.9392454,N.A,3008,Melbourne,"90 Waterfront Way, Docklands VIC 3008, Australia",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,N.A,1.0,14,0,20,20,5,16
+129,Common Ground Project,-38.259646,144.276227,N.A,3217,N.A,"675 Anglesea Rd, Freshwater Creek VIC 3217, Australia",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,22.0,2.0,2,0,1,1,0,0
+130,QESH Ayr,-19.5740619, 147.4056813,N.A,4807,N.A,"133 Edwards St, Ayr QLD 4807, Australia",1.0,,1.0,1.0,,,,,50,,1,2,10,20,3,20
+131,Moonee Ponds Supercharger,-37.76556152,144.9236774,N.A,3039,Melbourne,"665 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",,,,,6.0,,,,,,4,0,7,20,2,12
+132,Park Rises Residences,-37.797009,144.926387,N.A,3031,Melbourne,"72 Altona Street, Kensington VIC 3031",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,3,0,16,20,1,8
+133,Russell St,-37.81180407,144.9677026,N.A,3000,Melbourne,"Russell St, Melbourne, Victoria, 3000 Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,17,7,20,20,20,20
+134,Waverley Nissan,-37.906157,145.159718,N.A,3150,Melbourne,"565-577 Springvale Rd, Mulgrave VIC 3170, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,4,0,4,20,2,5
+135,hacyclon caravan park ,-38.317144,144.988947,N.A,3936,Melbourne,"106 Marine Drive, Safety Beach VIC 3936, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,0,3,2,0,1
+136,Russell St,-37.81129305,144.967822,N.A,3000,Melbourne,"222 Russell St, Melbourne VIC 3000, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,17,7,17,20,20,20
+137,Tesla Destination Charger,-37.23502198834094, 144.42290778775285,Kyneton,3444,N.A,72 Piper St,0.0,,0.0,0.0,1.0,,,,,,0,0,0,0,0,0
+138,Monash University Caulfield Car Park,-37.876073,145.043688,N.A,3145,Melbourne,"880 Princes Hwy Service Rd, Caulfield East VIC 3145, Australia",0.0,0.0,1.0,1.0,0.0,0,0.0,1.0,50.0,3.0,3,0,17,20,2,7
+139,Essendon Nissan,-37.720262,144.895849,N.A,3041,Melbourne,"288 Wirraway Rd, Essendon Fields, VIC, 3041",0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,N.A,1.0,3,0,6,20,2,9
+140,Hungry Jack’s Sunbury,-37.580985,144.724278,N.A,3429,Melbourne,"27 Gap Rd, Sunbury VIC 3429, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,0,1,14,20,4,11
+141,CTR Whittlesea,-37.51043222,145.11856,N.A,3757,Melbourne,"74A Church St, Whittlesea VIC 3757, Australia",,,1.0,1.0,,,,,,,1,0,9,20,0,1
+142,Forest Hill Chase Shopping Centre,-37.835382,145.163537,N.A,3131,Melbourne,"270 Canterbury Rd, Forest Hill VIC 3131, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,1,1,15,20,2,8
+143,Greenvale Woolworths,-37.616294,144.914873,N.A,3064,Melbourne,"200 James Mirams Dr, Roxburgh Park VIC 3064, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,1,0,3,4,0,2
+144,Melbourne Convention Exhibition Centre,-37.82613,144.953107,N.A,3005,Melbourne,"16 Normanby Road, South Wharf VIC 3006, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,3.0,N.A,3.0,18,2,20,20,13,20
+145,AAkonsult,-37.818982,144.896722,N.A,3013,Melbourne,"2/209 Hyde St, Yarraville VIC 3013",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,N.A,1.0,1,0,8,20,1,4
+146,Hyatt Place Caribbean Park (Coming Soon),-37.915767,145.216905,N.A,3179,Melbourne,"38 Dalmore Dr, Scoresby VIC 3179, Australia",2.0,0.0,0.0,1.0,0.0,0,0.0,0.0,N.A,3.0,1,0,5,9,0,0
+147,Camberwell Supercharger,-37.82867623,145.0564007,N.A,3126,Melbourne,"793 Burke Road , Camberwell, VIC, Australia, 3124",,,,,6.0,,,,,,4,0,10,20,1,11
+148,Evie Charging Station,-37.35588720430584, 144.52822745569281,Woodend,3442,N.A,124 High St,0.0,,1.0,1.0,0.0,,,,,,1,0,13,20,2,6
+149,Stockland Point Cook,-37.884254,144.736465,N.A,3030,Melbourne,"Main St & Murnong St, Point Cook VIC 3030, Australia",0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,N.A,1.0,2,0,8,20,3,10
+150,Grow Energy,-37.955662,145.038605,N.A,3190,Melbourne,"325A Bay Road, Cheltenham VIC 3192",4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,4.0,4,0,20,20,0,6
+151,Quest Burwood East,-37.853643,145.162436,N.A,3151,Melbourne,"317 Burwood Hwy, Burwood East VIC 3151, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,1,1,10,20,1,5
+152,Tesla Destination Charger,-36.74595006493532, 145.55907729236358,Euroa,3666,N.A,53 Clifton St,0.0,,0.0,0.0,1.0,,,,,,2,0,7,9,2,5
+153,Springvale Homemaker Centre,-37.927929,145.143552,N.A,3168,Melbourne,"Springvale Homemaker Centre, 917 Princes Highway, Springvale VIC 3171, Australia",7.0,0.0,0.0,0.0,3.0,0,0.0,0.0,N.A,10.0,5,0,1,20,3,10
+154,Mercure Townsville,-19.2714721, 146.7858734,Currajong,4812,Townsville,"166 Woolcock St, Currajong, Australia, QLD 4812",,,,,2.0,,,,22,,1,2,2,20,3,7
+155,Lorbek Luxury Cars,-37.832093,144.919335,N.A,3207,Melbourne,"30 Prohasky St, Port Melbourne VIC 3207, Australia",7.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,7.0,6,0,11,12,0,1
+156,Chadstone Shopping Centre Carpark A,-37.886337,145.07958,N.A,3148,Melbourne,"1341 Dandenong Rd, Chadstone VIC 3148",5.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,5.0,3,1,18,20,5,9
+157,Hamilton,-27.44449167,153.0836111,Hamilton,4007,Brisbane City,"North Shore Hamilton
+281 MacArthur Ave, Hamilton QLD 4007",2.0,0.0,2.0,2.0,0.0,0,0.0,0.0,50,5.0,2,0,6,14,0,2
+158,Evie Charging Station,-37.1722796148393, 144.47576185606715,Kyneton,N.A,N.A,1 Hutton St,0.0,,1.0,1.0,0.0,,,,,,0,0,0,0,0,0
+159,Paint Spot Niddrie,-37.735219,144.887807,N.A,3042,Melbourne,"1 Elstone Ct, Niddrie VIC 3042, Australia",0.0,1.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,1,0,9,20,2,6
+160,Edward St Parking Lot,-37.77360197,144.9618831,N.A,3056,Melbourne,"15 Edward St, Brunswick VIC 3056, Australia",2.0,,2.0,2.0,,,,,,,2,1,17,20,3,16
+161,Stokehouse St Kilda,-37.86758,144.974352,N.A,3182,Melbourne,"30 Jacka Blvd, St Kilda VIC 3182, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,7,1,14,20,4,7
+162,Paronella Park,-17.6524637, 145.9570688,Germantown,N.A,N.A,"1671 Innisfail Japoon Rd, Mena Creek QLD 4871, Australia",2.0,,,,,,,,7,,0,0,4,1,0,1
+163,Evie Charging Station,-36.531930768600965, 143.86155158027182,Inglewood,3517,N.A,Storm Lne,0.0,,1.0,1.0,0.0,,,,,,0,0,0,0,0,0
+164,Midlander Motor Inn,-23.5236365, 148.1593512,Emerald,4720,N.A,"12 School Lane, Emerald, Australia, QLD 4720",,,,,2.0,,,,22,,1,2,16,20,3,16
+165,The Fashion Capital - Tesla,-37.884862,145.082357,N.A,3148,Melbourne,"1341 Dandenong Rd, Malvern East VIC 3145, Australia",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,N.A,2.0,3,1,15,20,5,9
+166,Westfield Doncaster,-37.78342,145.126058,N.A,3108,Melbourne,"619 Doncaster Rd, Doncaster VIC 3108, Australia",0.0,0.0,0.0,0.0,2.0,4,0.0,0.0,6.6,6.0,2,1,17,20,3,8
+167,Chargefox Charging Station,-37.469333979755596, 143.8550343241236,Ballarat,N.A,Ballarat,61 Curtis St,0.0,,1.0,1.0,0.0,,,,,,0,0,0,0,0,0
+168,Latrobe Street,-37.81241851,144.95362,N.A,3003,Melbourne,300 Latrobe Street Melbourne,0.0,0.0,0.0,0.0,0.0,0,0.0,3.0,N.A,3.0,20,2,20,20,20,20
+169,Baptcare Strathalan,-37.728819,145.077998,N.A,3084,Melbourne,"2-34 Erskine Rd, Macleod VIC 3085, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,1,0,3,12,1,1
+170,Eltham Leisure Centre,-37.722925,145.142426,N.A,3094,Melbourne,"40 Brougham St, Eltham VIC 3095, Australia",4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,7.0,4.0,1,0,9,20,3,3
+171,The Fashion Capital - Parking Block F,-37.887286,145.0824,N.A,3148,Melbourne,"1341 Dandenong Road, Malvern East VIC 3145, Australia",0.0,0.0,0.0,0.0,4.0,0,0.0,0.0,10.0,4.0,3,1,16,20,6,7
+172,South Melbourne,-37.83189437,144.9690271,N.A,3205,Melbourne,"15-29 Bank Street, South Melbourne VIC 3205, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,21.0,N.A,21.0,15,1,18,20,4,20
+173,South Melbourne Market Rooftop Parking,-37.83203,144.956791,N.A,3205,Melbourne,"322 Coventry St, South Melbourne VIC 3205",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,19,1,20,20,4,20
+174,Port Melbourne,-37.83163355,144.9194251,N.A,3207,Melbourne,"30 Prohasky St, Port Melbourne VIC 3207, Australia",7.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,7.0,6,0,11,13,0,1
+175,Stud Park Shopping Centre,-37.9214,145.237553,N.A,3178,Melbourne,"Corner Stud & Fullham Rd, Rowville 3178, Australia",0.0,0.0,4.0,4.0,0.0,0,0.0,0.0,50.065,8.0,1,0,9,20,1,8
+176,Monash University Clayton - Car Park N1,-37.90797166,145.1312195,N.A,3800,Melbourne,"10 Research Way, Clayton VIC 3168, Australia",2.0,,1.0,1.0,,,,,,,4,2,4,20,0,4
+177,Holmesglen Private Hospital,-37.93704,145.050288,N.A,3189,Melbourne,"490 South Rd, Moorabbin VIC 3189, Australia",4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,4.0,2,1,11,20,0,8
+178,McDonald’s Melton South,-37.72198498,144.5729271,N.A,3338,Melbourne,"179-253 Exford Rd, Weir Views VIC 3338, Australia",,,2.0,2.0,,,,,,,1,0,4,10,1,4
+179,BMW South Yarra,-37.849295,145.00279,N.A,3181,Melbourne,"145 Williams Rd, Prahran VIC 3181, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,2.0,N.A,4.0,8,3,16,20,7,17
+180,Springfield,-27.68194444,152.8997222,Springfield Central,4300,N.A,"4 David Henry Way, Springfield Central QLD 4300, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,4,1,10,20,3,4
+181,Crown Metropol Melbourne,-37.825511,144.957692,N.A,3005,Melbourne,"8 Whiteman Street, Southbank, Victoria, Australia, VIC 3006",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,22.0,1.0,19,3,18,20,17,20
+182,EVolution HQ,-37.94260024,145.1197763,N.A,3169,Melbourne,"Unit 32, 231 Osborne Avenue, Clayton South VIC 3169, Australia",2.0,,1.0,1.0,,,,,,,3,0,6,6,0,0
+183,Mornington Supercharger,-38.23425677,145.0514638,N.A,3931,Melbourne,"75 Mornington-Tyabb Rd, Mornington VIC 3931, Australia",,,,,6.0,,,,,,2,3,3,19,4,6
+184,Rockhampton,-23.38227211,150.5134619,Rockhampton City,4700,Rockhampton,"172-189 Alma St, Rockhampton City QLD 4700, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,3,7,7,20,9,10
+185,Dan Murphy’s Armstrong Creek,-38.225361,144.337345,N.A,3217,N.A,"458 Torquay Road, Armstrong Creek 3217, Australia",3.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,3.0,0,0,6,15,2,5
+186,Flinders General Store rear car park,-38.473287,145.016892,N.A,N.A,Melbourne,"48 Cook Street, Flinders VIC 3929, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,2,0,8,10,0,2
+187,Belgrave Heights Convention Centre,-37.923605,145.348486,N.A,3160,Melbourne,"23 Lockwood Rd, Belgrave Heights VIC 3160, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,0,8,3,0,1
+188,Morris Moor (Coming Soon),-37.941172,145.061402,N.A,3189,Melbourne,"282/284 Chesterville Rd, Moorabbin VIC 3189, Australia",6.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,6.0,4,1,4,20,0,9
+189,Good Guys,-38.148237,145.138689,N.A,3199,Melbourne,"1 Gertrude St, Frankston VIC 3199, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,2,5,6,20,4,11
+190,Wilson Parking Eureka,-37.821726,144.965184,N.A,3006,Melbourne,"70 City Rd, Southbank VIC 3006, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,11.0,2.0,17,4,16,20,20,20
+191,Cobblebank Stadium,-37.716016,144.599558,N.A,3338,Melbourne,"Astley Dr, Bridge Rd, Strathtulloh VIC 3338, Australia",0.0,0.0,1.0,1.0,0.0,0,0.0,0.0,N.A,2.0,2,0,7,7,1,3
+192,Myuna Farm,-37.985484,145.232704,N.A,3177,Melbourne,"182 Kidds Rd, Doveton VIC 3177, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,3,2,4,16,0,7
+193,EVolution HQ,-37.942988,145.11844,N.A,3169,Melbourne,"Unit 32, 231 Osborne Avenue, Clayton South VIC 3169, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,20.0,4.0,3,0,5,7,0,0
+194,Eldridge Estate Winery,-38.372182,145.018678,N.A,3937,Melbourne,"120 Arthurs Seat Road, Red Hill VIC 3937, Australia",1.0,0.0,0.0,0.0,1.0,0,0.0,0.0,N.A,2.0,1,0,3,6,1,2
+195,Queens Road,-37.83477276,144.9737461,N.A,3004,Melbourne,"1-3 Queens Road, Melbourne VIC 3004, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,17,1,19,20,2,13
+196,QESH - Cardwell,-18.2625592, 146.0249012,Cardwell,4849,N.A,"144 Victoria St, Cardwell QLD 4849, Australia",1.0,,1.0,1.0,,,,,50,,1,0,9,10,0,5
+197,Pullman Melbourne Albert Park,-37.849977,144.97831,N.A,3004,Melbourne,"67 Queens Rd, Melbourne VIC 3004, Australia",0.0,0.0,0.0,0.0,3.0,0,0.0,0.0,11.0,3.0,9,2,17,20,0,7
+198,Kinglake Library (rear of the Police Station),-37.531509,145.339577,N.A,3763,N.A,"19 Whittlesea-Kinglake Rd, Kinglake VIC 3763, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,22.0,2.0,1,0,2,3,0,1
+199,Pullman Reef Hotel Casino,-16.923837, 145.7796679,Cairns City,4870,Cairns,"1/35/41 Wharf St, Cairns City QLD 4870, Australia",3.0,,,,2.0,,,,11,,5,7,10,20,14,20
+200,Southbank,-37.82123242,144.9673592,N.A,3006,Melbourne,2 Kavanagh St Southbank VIC 3006 Australia,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,N.A,2.0,16,4,15,20,20,20
+201,QESH - Innisfail,-17.5209629, 146.0261103,Innisfail,4860,N.A,"Glady Street Innisfail QLD 4860, Australia",1.0,,1.0,1.0,,,,,50,,1,5,13,20,3,13
+202,Flinders St,-37.81621089,144.9709391,N.A,3000,Melbourne,"114-128 Flinders St, Melbourne VIC 3000, Australia",2.0,0.0,0.0,0.0,3.0,0,0.0,0.0,N.A,5.0,18,12,20,20,20,20
+203,Diamond Valley Sports and Fitness Centre,-37.689194,145.110764,N.A,3088,Melbourne,"44 Civic Dr, Greensborough VIC 3088, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,3,0,9,9,1,2
+204,West Melbourne,-37.81010363,144.9510094,N.A,3003,Melbourne,"45 Dudley St, West Melbourne VIC 3003, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,20,2,20,20,20,20
+205,Wilson Parking,-37.814781,144.956451,N.A,3000,Melbourne,"542 Little Bourke St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,20,3,20,20,20,20
+206,De Bortoli Wines Dixons Creek,-37.596809,145.412205,Steels Creek,3775,Melbourne,"58 Pinnacle Ln, Dixons Creek VIC 3775, Australia",1.0,0.0,0.0,0.0,2.0,0,0.0,1.0,N.A,4.0,1,0,0,2,0,0
+207,Waverley Gardens Shopping Centre,-37.935556,145.189902,N.A,3170,Melbourne,"271 Police Rd, Mulgrave VIC 3170, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,2,0,13,16,2,7
+208,Southbank,-37.82076345,144.9663122,N.A,N.A,Melbourne,"35-47 City Rd, Southbank VIC 3006, Australia",9.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,9.0,16,4,16,20,20,20
+209,Port Melbourne,-37.83316274,144.9197754,N.A,3207,Melbourne,"327 Plummer St, Port Melbourne VIC 3207, Australia",3.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,3.0,5,0,11,12,0,1
+210,Sorrento Community Centre,-38.33811816,144.7372775,N.A,3943,Melbourne,"860 Melbourne Rd, Sorrento VIC 3943, Australia",,,2.0,2.0,,,,,,,1,0,5,20,0,6
+211,Yarra Valley Nissan,-37.754859,145.363238,N.A,3140,Melbourne,"460-462 Maroondah Highway, Lilydale VIC 3140, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,1,2,6,20,1,2
+212,Cairns,-16.92045651,145.7788731,Cairns City,4870,Cairns,"1 Pier Point Rd, Cairns City QLD 4870, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,5,9,10,20,14,20
+213,Mantra Epping,-37.649756,145.008102,N.A,3076,Melbourne,"250 Cooper St, Epping VIC 3076, Australia",2.0,0.0,0.0,0.0,2.0,0,0.0,0.0,5.0,4.0,2,6,1,20,5,10
+214,Secure Parking - 460 Lonsdale Street Car Park,-37.813049,144.958347,N.A,3000,Melbourne,"460 Lonsdale St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,20,3,17,20,20,20
+215,Port Melbourne,-37.8297164,144.9311229,N.A,3207,Melbourne,"525 Graham St, Port Melbourne VIC 3207, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,8,0,17,20,0,4
+216,CB Smith Reserve,-37.70191464,144.9681533,N.A,3060,Melbourne,99 Jukes Road Fawkner VIC 3060 AU,,,1.0,1.0,,,,,,,2,0,2,19,1,11
+217,Uni Hill Town Centre,-37.68247053,145.0710002,N.A,3082,Melbourne,"Shop 17/5 Janefield Dr, Bundoora VIC 3083, Australia",,,2.0,2.0,,,,,,,3,1,12,20,4,2
+218,Tarneit Park Hub (BYO Type 2),-37.833989,144.69899,N.A,3029,Melbourne,"83 Leakes Rd, Tarneit VIC 3029, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,2,0,8,17,3,4
+219,Secure Parking (Southern Cross),-37.812452,144.969535,N.A,3000,Melbourne,"129 Bourke St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,N.A,2.0,17,9,18,20,20,20
+220,RACV Head Office (Service Centre Car Park),-37.952893,145.180067,N.A,3174,Melbourne,"Browns Road, Noble Park North‎ VIC‎ 3174, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,2,0,11,18,1,2
+221,Mossman Gorge Centre,-16.4742541, 145.3483542,Mossman Gorge,N.A,N.A,"212r Mossman Gorge Rd, Mossman Gorge QLD 4873, Australia",2.0,,,,,,,,7,,1,0,2,3,0,0
+222,Docklands,-37.81254895,144.939394,N.A,3008,Melbourne,"78 Waterfront Way, Docklands VIC 3008, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,14,0,19,20,5,16
+223,Prahran Square,-37.847695,144.99266,N.A,3181,Melbourne,"Prahran Square, 30-40 Izett Street, Prahran VIC 3181, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,10.0,N.A,12.0,9,3,19,20,7,18
+224,Schnapper Point Dr Parking/Charging,-38.215455,145.035453,N.A,3931,Melbourne,"Schnapper Point Dr, Mornington VIC 3931, Australia",0.0,1.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,2,2,8,20,4,9
+225,Botanic Ridge Village,-38.150115,145.290458,N.A,N.A,Melbourne,"10 Hummingbird Dr, Botanic Ridge VIC 3977, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,0,0,4,2,1,2
+226,Yarraville,-37.81899541,144.8964976,N.A,3013,Melbourne,"2/209 Hyde St, Yarraville VIC 3013",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,N.A,1.0,1,0,8,20,1,4
+227,Downie St,-37.82020302,144.9555652,N.A,3000,Melbourne,"25 Downie St, Melbourne VIC 3000, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,20,3,18,20,20,20
+228,Solargain Hastings,-38.314125,145.184157,N.A,3915,Melbourne,"2161 Frankston - Flinders Rd, Hastings VIC 3915, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,2,0,7,20,1,8
+229,Priority One Trade Services,-38.231677,145.056367,N.A,3931,Melbourne,"65 Watt Road, Mornington‎ VIC‎ 3931, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,22.0,1.0,2,1,4,17,3,3
+230,"Footscray town hall, Maribyrnong city council",-37.804868,144.900362,N.A,3011,Melbourne,"61 Napier St, Footscray VIC 3011, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,0,0,9,20,5,17
+231,Geelong Supercharger,-38.065192,144.382451,N.A,3214,N.A,"470-510 Princes Hwy, Geelong, VIC, Australia, 3214",0.0,0.0,0.0,0.0,6.0,0,0.0,0.0,250.0,6.0,1,0,2,6,1,2
+232,Marlborough,-22.82764427,149.9327796,Marlborough,N.A,N.A,"71209 Kunwarara Rd, Marlborough QLD 4705, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,1,0,1,0,0,0
+233,Bayside City Council,-37.95950238,145.0169255,N.A,3191,Melbourne,"76 Royal Ave, Sandringham VIC 3191, Australia",,,1.0,1.0,,,,,,,2,1,14,20,0,4
+234,Brooklands of Mornington,-38.221655,145.045807,N.A,3931,Melbourne,"99 Tanti Ave, Mornington, VIC, Australia, 3931",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,22.0,2.0,2,3,10,20,7,10
+235,Club Armstrong,-38.225341,144.328361,N.A,3217,N.A,"101 Unity Drive, Mount Duneed VIC 3217, Australia",0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,N.A,2.0,0,0,7,15,2,4
+236,Altona Gate Shopping Centre,-37.827587,144.848241,N.A,3025,Melbourne,"124-134 Millers Rd, Altona North VIC 3025, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,0,2,20,2,9
+237,Clifftop Accommodation Phillip Island,-38.504564,145.259653,N.A,3923,N.A,"1 Marlin Street, Smiths Beach, VIC 3922",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,22.0,2.0,1,0,1,1,0,1
+238,Kinglake Reserve (beside public toilets),-37.53009,145.340696,N.A,3763,N.A,"1 Kinglake-Glenburn Rd, Kinglake VIC 3763, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,22.0,2.0,1,0,4,3,0,1
+239,Griffith,-17.9347544, 145.9253729,Tully,4854,N.A,"Morris St, Tully QLD 4854, Australia",2.0,,1.0,1.0,,,,,50,,1,2,6,9,0,5
+240,Pullman Melbourne on the Park,-37.815994,144.983228,N.A,3002,Melbourne,"192 Wellington Parade, Melbourne VIC 3002",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,N.A,2.0,18,15,19,20,5,15
+241,Queens Road,-37.84977063,144.9784513,N.A,3004,Melbourne,"67 Queens Rd, Melbourne VIC 3004",0.0,0.0,0.0,0.0,3.0,0,0.0,0.0,N.A,3.0,9,2,17,20,1,8
+242,Porsche Centre Brighton,-37.92549673,145.0278825,N.A,3187,Melbourne,"855 Nepean Hwy, Bentleigh VIC 3204, Australia",,,1.0,,,,,,,,1,1,16,20,2,13
+243,(No Longer In Use) DHL Melbourne Gateway,-37.684086,144.863519,N.A,3045,Melbourne,"4 mace Wy, Melbourne Airport VIC 3045, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,0,0,2,6,0,1
+244,WaterMarc Car Park,-37.704042,145.10525,N.A,3088,Melbourne,"1 Flintoff St, Greensborough VIC 3088, Australia",3.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,3.0,2,2,15,20,6,7
+245,Southbank,-37.81609341,144.9584272,N.A,3000,Melbourne,"8 Whiteman Street, Southbank, Victoria, Australia, VIC 3006",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,N.A,1.0,20,3,19,20,20,20
+246,Eastland Shopping Centre,-37.81425,145.229003,N.A,3134,Melbourne,"175 Maroondah Hwy, Ringwood VIC 3134, Australia",0.0,0.0,0.0,0.0,4.0,0,0.0,0.0,11.0,4.0,2,0,18,20,6,19
+247,Tully,-17.93486278,145.9244323,Tully,4858,N.A,"Morris St, Tully QLD 4854, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,1,2,6,9,0,5
+248,Coburg Town Hall / Moreland City,-37.74058156,144.9694655,N.A,3058,Melbourne,"90 Bell St, Coburg VIC 3058, Australia",1.0,,1.0,1.0,,,,,,,1,0,14,20,7,11
+249,BP Northpoint,-37.648097,144.994195,N.A,3076,Melbourne,"1 Scanlon Drive, Epping VIC 3076, Australia",0.0,0.0,4.0,4.0,0.0,0,0.0,0.0,350.0,8.0,2,0,1,10,0,6
+250,Ampol Foodary Altona North (Coming Soon),-37.84667,144.809201,N.A,3025,Melbourne,"1 Horsburgh Drive, Altona North, VIC, 3025, Australia",0.0,0.0,2.0,2.0,0.0,0,0.0,0.0,150.0,4.0,2,0,0,3,0,0
+251,Frosty Mango,-18.949778, 146.2768679,Mutarnee,N.A,N.A,"1 Bruce Hwy, Mutarnee, Queensland, Australia, QLD 4816",,,,,2.0,,,,22,,1,0,1,1,0,0
+252,Bayside Entertainment Centre,-38.140408,145.125184,N.A,3199,Melbourne,"28 Beach St, Frankston VIC 3199, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,7.0,2.0,2,3,10,20,17,12
+253,RACV Torquay Resort,-38.34035,144.310815,N.A,3228,N.A,"1 Great Ocean Road, Jan Juc, Victoria, Australia, VIC 3228",0.0,0.0,4.0,4.0,2.0,1,0.0,0.0,350.0,11.0,1,0,13,20,0,7
+254,Ramada Resort by Wyndham Phillip Island,-38.471698,145.242237,N.A,3922,N.A,"2128 Phillip Island Road, Cowes, VIC, Australia, VIC 3922",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,5.0,2.0,1,0,3,2,0,0
+255,Evie Charging Station,-36.90919906327723, 144.26702162408614,Harcourt,3453,N.A,High St,0.0,,1.0,1.0,0.0,,,,,,0,0,0,0,0,0
+256,QESH The Pier Cairns,-16.9198193, 145.7805076,Cairns City,4870,Cairns,"1 Pier Point Rd, Cairns City QLD 4870, Australia",2.0,,1.0,1.0,,,,,50,,5,7,10,20,14,20
+257,Parliament PI,-37.8110789,144.9764385,N.A,3002,Melbourne,"1 Parliament Square Off, Parliament Pl, Melbourne VIC 3002, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,18,16,19,20,20,20
+258,Ivanhoe Gardens (Coming Soon),-37.754954,145.054043,N.A,3079,Melbourne,"45 Linden Ave, Ivanhoe VIC 3079, Australia, Ivanhoe 3079",3.0,0.0,0.0,0.0,0.0,0,0.0,0.0,22.0,3.0,3,8,4,20,6,9
+259,Cairns Central,-16.9245893, 145.7716095,Cairns City,4870,Cairns,"21 Mcleod Street, Cairns QLD 4870, Australia",,,,,2.0,,,,22,,5,7,13,20,15,20
+260,Carmila,-21.90865281,149.4090921,Carmila,N.A,N.A,"8 Music St, Carmila QLD 4739, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,1,0,2,0,0,0
+261,Collingwood Library,-37.80425886,144.9932374,N.A,3067,Melbourne,"13 Stanton St, Abbotsford VIC 3067, Australia",,,2.0,2.0,,,,,,,13,4,14,20,1,20
+262,Ivanhoe Library,-37.766356,145.044964,N.A,3079,Melbourne,"233 Upper Heidelberg Road, Ivanhoe VIC 3079, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,3,2,11,20,2,6
+263,Red Rooster Vermont,-37.83192,145.213897,N.A,3134,Melbourne,"401 Canterbury Rd, Vermont 3134, Australia",0.0,0.0,2.0,2.0,0.0,0,0.0,0.0,50.065,4.0,2,0,11,8,1,1
+264,Gatton,-27.55140366,152.3350726,Lawes,4343,N.A,"Building 8156, The University of Queensland, Main Drive & Outer Ring Road, Gatton QLD 4343",0.0,0.0,1.0,1.0,1.0,0,0.0,1.0,50,4.0,2,0,3,1,0,0
+265,Middy’s Port Melbourne,-37.828073,144.925718,N.A,3207,Melbourne,"2 Thackray Rd, Port Melbourne VIC 3207, Australia",0.0,0.0,1.0,1.0,0.0,0,0.0,0.0,25.0,2.0,6,0,10,9,0,1
+266,Shell Taylors Lakes,-37.69671193,144.7823411,N.A,3038,Melbourne,"Coles Express 410 Melton Highway, Taylors Lakes VIC 3038, Australia",,,2.0,2.0,,,,,,,2,0,4,20,4,6
+267,Silverwater Resorts Phillip Island,-38.522528,145.392082,N.A,3925,N.A,"17 Potters HIll Rd, Phillip Island, , Australia, VIC 3925",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,22.0,2.0,1,0,0,1,0,0
+268,Tesla Destination Charger,-36.671648098042496, 144.30547377208265,Kennington,N.A,N.A,150 Condon St,0.0,,0.0,0.0,1.0,,,,,,0,0,1,0,0,0
+269,Woolworths Fishermans Bend,-37.830671,144.931658,N.A,3207,Melbourne,"525 Graham St, Port Melbourne VIC 3207, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,8,0,18,20,0,5
+270,Uni Hill Town Centre,-37.683069,145.071032,N.A,3082,Melbourne,"Shop 17/5 Janefield Dr, Bundoora VIC 3083, Australia",0.0,0.0,4.0,4.0,0.0,0,0.0,0.0,50.0,8.0,3,1,12,20,4,3
+271,Armstrong Creek Town Centre,-38.22808,144.339931,N.A,3217,N.A,"540 Torquay Rd, Armstrong Creek VIC 3217, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,7.0,2.0,1,1,6,13,2,4
+272,Stockland Point Cook - Below Woolworths,-37.884233,144.734115,N.A,3030,Melbourne,"1A Main Street, Point Cook VIC 3030, Australia",0.0,0.0,0.0,0.0,1.0,1,0.0,0.0,N.A,2.0,2,0,10,20,3,10
+273,The Glen,-37.875269,145.16523,N.A,3150,Melbourne,"235 Springvale Road, Glen Waverley VIC 3150, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,1,0,12,20,7,16
+274,St Kilda,-37.86765039,144.9742931,N.A,3182,Melbourne,"30 Jacka Blvd, St Kilda VIC 3182, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,7,1,14,20,4,7
+275,Queenscliff Brewhouse,-38.265713,144.663211,N.A,3225,N.A,"2 Gellibrand St, Queenscliff, Australia, VIC 3225",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,7.0,1.0,0,0,6,20,0,4
+276,Southbank,-37.82082443,144.9649806,N.A,3006,Melbourne,"70 City Rd, Southbank VIC 3006, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,17,4,17,20,20,20
+277,Coburg Town Hall / Moreland City,-37.74111,144.970149,N.A,3058,Melbourne,"90 Bell St, Coburg VIC 3058, Australia",1.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50.0,3.0,1,0,12,20,7,10
+278,Westfield Southland - Icon Car Wash,-37.959294,145.056598,N.A,3192,Melbourne,"40 Chesterville Rd, Cheltenham VIC 3192, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,3,2,11,20,6,7
+279,South Melbourne,-37.83248694,144.9564174,N.A,3205,Melbourne,"322 Coventry St, South Melbourne VIC 3205",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,19,0,20,20,4,20
+280,Amberlee Holiday Homes & Accommodation,-38.380923,144.912544,N.A,3938,Melbourne,"306 Jetty Rd, Rosebud VIC 3939, Australia",1.0,0.0,0.0,0.0,2.0,0,0.0,0.0,N.A,3.0,1,0,3,2,0,2
+281,Wanzl / Rectifier Technologies,-37.85392974,145.1043512,N.A,3125,Melbourne,"97 Highbury Rd, Burwood VIC 3125, Australia",,,,1.0,,,,,,,2,0,8,20,2,3
+282,Cobblebank Stadium,-37.71596946,144.5972922,N.A,3338,Melbourne,"Astley Dr, Bridge Rd, Strathtulloh VIC 3338, Australia",,,1.0,1.0,,,,,,,3,0,9,7,1,3
+283,Bowen,-20.01660114,148.2480204,N.A,N.A,N.A,"80 Santa Barbara Parade, Bowen QLD 4805, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,1,2,10,15,0,3
+284,ACDC Garage,-37.816185,144.97077,N.A,3000,Melbourne,"114-128 Flinders St, Melbourne VIC 3000, Australia",2.0,0.0,0.0,0.0,3.0,0,0.0,0.0,3.0,5.0,18,11,18,20,20,20
+285,Middy's Lilydale,-37.761942,145.346082,N.A,3140,Melbourne,"34 Melba Ave, Lilydale VIC 3140, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,1,2,8,20,3,3
+286,Bourke St,-37.81638627,144.9547755,N.A,3000,Melbourne,"636 Bourke St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,3.0,1,0.0,2.0,N.A,7.0,20,2,20,20,20,20
+287,dingley reserve ,-37.984056,145.137319,N.A,3172,Melbourne,"Dingley Reserve, Dingley Village VIC 3172, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,0,7,16,3,2
+288,Vaclift,-37.709632,144.871383,N.A,3043,Melbourne,"39 Tullamarine Park Road, Tullamarine VIC 3043, Australia",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,N.A,1.0,2,1,3,20,1,4
+289,Townsville,-19.32382549,146.7587996,Douglas,4811,Townsville,"4 James Cook Dr, Douglas QLD 4814, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,1,11,5,9,2,1
+290,Melbourne Central Carpark,-37.811734,144.963518,N.A,3000,Melbourne,"300 Lonsdale St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,17,6,20,20,20,20
+291,Flagstaff City Inn,-37.810116,144.951048,N.A,3003,Melbourne,"45 Dudley St, West Melbourne VIC 3003, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,20,1,20,20,20,20
+292,Pullman Melbourne,-37.81581134,144.9832392,N.A,3002,Melbourne,"192 Wellington Parade, Melbourne VIC 3002",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,N.A,2.0,18,15,20,20,4,16
+293,Historic Village Herberton,-17.3723917, 145.385589,Herberton,4887,N.A,"6 Broadway, Herberton QLD 4887, Australia",2.0,,,,,,,,7,,0,1,2,0,0,0
+294,Berwick Nissan,-38.040047,145.343384,N.A,3806,Melbourne,"6-10 Kangan Dr, Berwick VIC 3806",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,0,3,4,20,1,5
+295,Lonsdale St,-37.81067877,144.9666047,N.A,3000,Melbourne,"180 Lonsdale Street, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,3.0,N.A,3.0,16,7,17,20,20,20
+296,Corsair Solutions,-37.767107,145.03066,N.A,3078,Melbourne,"370 Darebin Rd, Alphington VIC 3078, Australia",0.0,0.0,0.0,2.0,0.0,0,0.0,0.0,80.0,2.0,2,0,15,20,2,8
+297,Highpoint Shopping Centre - Basement Carpark,-37.772002,144.887869,N.A,3034,Melbourne,"Rosamond Road, Maribyrnong VIC 3032, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,0,16,20,7,4
+298,Secure Parking (300 Flinders St),-37.818268,144.96402,N.A,3000,Melbourne,"300 Flinders St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,3.0,2.0,17,7,20,20,20,20
+299,Sandown Raceway Carpark,-37.950836,145.162663,N.A,3174,Melbourne,"37 Davis Way, Springvale VIC 3171, Australia",0.0,3.0,0.0,0.0,0.0,0,0.0,0.0,8.0,3.0,1,0,7,20,5,20
+300,Cranbourne West Community Hub (Coming Soon),-38.106929,145.250522,N.A,3977,Melbourne,"75 Evans Rd, Cranbourne West VIC 3977, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,1,0,10,20,1,5
+301,Middy’s Port Melbourne,-37.82788423,144.9262572,N.A,3207,Melbourne,"2 Thackray Rd, Port Melbourne VIC 3207, Australia",,,1.0,1.0,,,,,,,6,0,10,9,0,1
+302,Maryborough,-25.53982619,152.6991534,N.A,4650,Maryborough,"102 Lennox St, Maryborough 4650",1.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,1,5,11,20,5,15
+303,Monash University Clayton - Car Park S2,-37.914282,145.1338,N.A,3800,Melbourne,"20 Ancora Imparo Way, Clayton VIC 3800, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,3.0,5,9,4,20,2,11
+304,Leisurelink Aquatic & Recreation Centre (Coming Soon),-38.197536,144.321073,N.A,3216,N.A,"240 Pioneer Rd, Waurn Ponds VIC 3216, Australia",0.0,0.0,2.0,2.0,0.0,0,0.0,0.0,50.0,4.0,1,1,5,20,3,6
+305,Port Melbourne,-37.82992222,144.9171103,N.A,3207,Melbourne,"46 Cook St, Port Melbourne VIC 3207, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,6,0,9,10,0,1
+306,Collins St,-37.81780946,144.9552413,N.A,3000,Melbourne,"589-599 Little Collins St, Melbourne VIC 3000, Australia",3.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,3.0,20,2,20,20,20,20
+307,Bourke St,-37.81211268,144.9709222,N.A,3000,Melbourne,"129 Bourke St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,N.A,1.0,18,11,18,20,20,20
+308,Cranbourne Home (Out Of Service),-38.087041,145.279599,N.A,3977,Melbourne,"2 Lesdon Ave, Cranbourne VIC 3977, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,22.0,2.0,1,0,4,20,3,5
+309,Barwon Valley Lodge,-38.166789,144.341445,N.A,3216,Geelong,"99 Barrabool Rd, Belmont VIC 3216, Australia",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,22.0,2.0,1,0,14,20,4,11
+310,The Prince Hotel,-37.862284,144.973965,N.A,3182,Melbourne,"2 Acland St, St Kilda VIC 3182, Australia",2.0,0.0,0.0,0.0,2.0,0,0.0,0.0,N.A,4.0,7,1,14,20,4,6
+311,Leopold Library,-38.186249,144.46436,N.A,3224,N.A,"31 Kensington Rd, Leopold VIC 3224",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,1,0,9,20,1,8
+312,Glen Eira City Council,-37.880835,145.022852,N.A,3162,Melbourne,"256 Hawthorn Road, Caulfield VIC 3162, Australia",4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,4.0,4,5,16,20,0,2
+313,Oak Park Sports & Aquatic Centre,-37.723715,144.920974,N.A,3046,Melbourne,"Oak Park Reserve, 563 Pascoe Vale Rd, Oak Park VIC 3046, Australia",2.0,0.0,0.0,0.0,0.0,1,0.0,0.0,N.A,3.0,2,0,11,19,1,4
+314,Dromana Drive-in,-38.329727,144.996685,N.A,3936,Melbourne,"133 Nepean Hwy, Dromana VIC 3936, Australia",6.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,6.0,1,0,3,8,0,2
+315,Bunnings Sunshine,-37.776275,144.83008,N.A,3020,Melbourne,"Bunnings Warehouse Sunshine, 480 Ballarat Rd, Sunshine North VIC 3020, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,3,5,20,5,20
+316,Ventia Head Office Carpark,-37.950648,145.080488,N.A,3202,Melbourne,"20 Corporate Drive, Heatherton‎ VIC‎ 3202, Australia",0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,6.6,2.0,3,0,6,18,1,3
+317,Queens & Collins,-37.81594,144.961493,N.A,3000,Melbourne,"Level 6/93-95 Queen St, Melbourne VIC 3000, Australia",4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,4.0,18,5,20,20,20,20
+318,Coles Express with co-located Hungry Jacks,-37.829682,144.917185,N.A,3207,Melbourne,"46 Cook St, Port Melbourne VIC 3207, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,6,0,8,10,0,1
+319,Clayton M City,-37.922053,145.140054,N.A,3168,Melbourne,"2145 Dandenong Road, Clayton VIC 3168, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,6,2,2,20,3,10
+320,Lonsdale St,-37.81017999,144.9705189,N.A,3000,Melbourne,"59 Lonsdale St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,2.0,0,0.0,1.0,N.A,3.0,17,11,19,20,20,20
+321,Hebco Industrial,-37.833743,145.18642,N.A,3132,Melbourne,"19-25 Trade Place Vermont VIC 3133, Australia",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,N.A,1.0,1,0,12,20,1,5
+322,Evie Charging Station,-37.005767768827994, 144.21758314809065,Castlemaine,N.A,N.A,3450/33 Forest St,0.0,,1.0,1.0,0.0,,,,,,0,0,1,0,0,0
+323,Mackay,-21.13971112,149.1852379,Mackay,4740,Mackay,"3 Gregory St, Mackay QLD 4740, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,2,4,5,20,4,13
+324,Coburg North EV Fast Charge (Currently Out of Order),-37.718952,144.961498,N.A,3058,Melbourne,"11 Boundary Rd, Coburg North VIC 3058, Australia",0.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50.0,2.0,2,0,7,17,0,3
+325,Tooradin Airfield / Wings & Fins Seafood Restaurant,-38.214809,145.422459,N.A,N.A,Melbourne,"3260 S Gippsland Hwy, Tooradin VIC 3980, Australia",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,5.0,1.0,0,0,0,1,0,0
+326,Whittlesea Motel,-37.511926,145.119479,N.A,3757,Melbourne,"36 Walnut St, Whittlesea VIC 3757, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,1,0,9,20,0,1
+327,Ampol Dandenong Stud Road,-37.97092578,145.2235052,N.A,3177,Melbourne,"Corner Stud And, Heatherton Rd, Dandenong VIC 3175, Australia",,,2.0,2.0,,,,,,,2,5,5,13,2,1
+328,RACV Cape Schanck Resort,-38.461847,144.893721,N.A,N.A,Melbourne,"6 Presnell Ct, Cape Schanck VIC 3939, Australia",4.0,0.0,0.0,0.0,2.0,0,0.0,1.0,4.0,7.0,2,0,0,4,0,0
+329,South Wharf,-37.82586889,144.9552364,N.A,3005,Melbourne,"16 Normanby Road, South Wharf VIC 3006, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,3.0,N.A,3.0,19,2,19,20,15,20
+330,Westfield Southland,-37.958461,145.053615,N.A,3192,Melbourne,"1239 Nepean Hwy, Cheltenham VIC 3192, Australia",0.0,0.0,0.0,0.0,0.0,4,0.0,0.0,N.A,4.0,2,2,10,20,8,8
+331,Moonah Links,-38.406624,144.853314,N.A,3940,Melbourne,"65 Peter Thomson Dr, Fingal VIC 3939, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,2,0,0,2,0,0
+332,Grand Hyatt Melbourne,-37.814844,144.969685,N.A,3000,Melbourne,"123 Collins St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,22.0,1.0,17,9,18,20,20,20
+333,Peninsula Home Shopping Centre,-38.220693,145.061207,N.A,3931,Melbourne,"1130-1134 Nepean Highway, Mornington VIC 3931, Australia",4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,22.0,4.0,2,1,3,8,3,2
+334,Pullman Palm Cove Sea Temple Resort and Spa,-16.7527799, 145.6706987,Palm Cove,4879,N.A,"5 Triton St, Palm Cove QLD 4879, Australia",1.0,,,,,,,,11,,1,0,7,20,1,3
+335,Evie Charging Station,-36.88827855862675, 145.24742547223372,Avenel,3664,N.A,Jones St,0.0,,1.0,1.0,0.0,,,,,,1,0,0,0,0,0
+336,Federation Square Car Park,-37.817739,144.971282,N.A,3000,Melbourne,"Russell St, Melbourne, Victoria, 3000 Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,19,11,19,20,20,20
+337,Flagstaff Car Park,-37.813111,144.955756,N.A,3000,Melbourne,"535 Little Lonsdale St, Melbourne VIC 3004, Australia",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,22.0,2.0,20,2,18,20,20,20
+338,Toowoomba,-27.5202159,151.8501711,Charlton,N.A,Toowoomba,"10783 Warrego Hwy, Charlton QLD 4350, Australia",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,1,0,0,3,0,0
+339,Chargefox Charging Station,-36.762084961158926, 144.2828010465611,Bendigo,3550,Bendigo,7 Railway Pl,1.0,,0.0,0.0,0.0,,,,,,6,7,13,20,20,10
+340,Cunningham Pier,-38.143296,144.361213,N.A,3218,Geelong,"10 Western Foreshore Rd, Geelong VIC 3220, Australia",4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,4.0,2,12,11,0,7,11
+341,Pentridge Shopping Centre,-37.736669,144.969336,N.A,3058,Melbourne,"1 Champ St, Coburg VIC 3058, Australia",3.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,3.0,2,0,11,20,7,10
+342,Evie Charging Station,-36.36984769872202, 145.36189904857804,Mooroopna,3629,Shepparton,77 Midland Hwy,0.0,,1.0,1.0,0.0,,,,,,0,0,1,2,0,0
+343,Knox Civic Centre,-37.871723,145.245056,N.A,3152,Melbourne,"511 Burwood Hwy, Wantirna South VIC 3152, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,1,0,11,20,4,7
+344,Tesla Destination Charger,-37.28599785037582, 144.1736378360946,Hepburn,N.A,N.A,219 Main Rd,0.0,,0.0,0.0,1.0,,,,,,0,0,0,0,0,0
+345,Bitternfields Shopping Centre,-38.336376,145.177183,N.A,3915,Melbourne,"2432 Frankston - Flinders Rd, Bittern VIC 3918, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,0,1,5,1,1
+346,BIG4 Phillip Island Caravan Park,-38.516829,145.35646,N.A,3925,N.A,"24 Old Bridge Drive, Newhaven VIC 3925, Australia",0.0,0.0,0.0,0.0,0.0,0,1.0,1.0,N.A,2.0,0,0,8,14,2,3
+347,Victoria Gardens Shopping Centre,-37.812603,145.011729,N.A,3121,Melbourne,"Unit 41 B/620 Victoria St, Richmond VIC 3121, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,6,2,18,20,2,11
+348,Coles Lilydale,-37.756189,145.354065,N.A,3140,Melbourne,"51-59 Anderson St, Lilydale VIC 3140, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,3.0,N.A,3.0,1,2,9,20,3,4
+349,Ten Minutes by Tractor,-38.394641,144.994231,N.A,3928,Melbourne,"1333 Mornington-Flinders Rd, Main Ridge VIC 3928, Australia",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,22.0,2.0,0,0,1,4,0,0
+350,BM Autowerks,-37.90326,145.095351,N.A,3617,Melbourne,"28-34 Westminster Street, Oakleigh‎ VIC‎ 3166, Australia",0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,7.6,1.0,3,0,9,20,2,11
+351,Flinders Ln,-37.81890714,144.9577073,N.A,3000,Melbourne,"476 Flinders Ln, Melbourne VIC 3000, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,3.0,20,5,17,20,20,20
+352,Hungry Fox Café,-37.719767,144.89451,N.A,3041,Melbourne,"Essendon Fields Airport, Wirraway Road, Essendon Fields VIC 3041, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,2,0,5,20,2,11
+353,The Arts Centre,-37.822715,144.96767,N.A,3006,Melbourne,2 Kavanagh St Southbank VIC 3006 Australia,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,N.A,2.0,17,4,16,20,20,20
+354,Clubs Assist,-38.022421,145.213927,N.A,3175,Melbourne,"237 243 Frankston Dandenong Rd, Dandenong South, VIC, 3175",0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,N.A,1.0,2,0,0,12,1,2
+355,Collingwood Library,-37.82022948,145.0402257,N.A,3122,Melbourne,"20 William St, Hawthorn VIC 3122, Australia",,,1.0,1.0,,,,,,,2,2,8,20,2,12
+356,Porsche Centre Brighton,-37.925691,145.027893,N.A,3187,Melbourne,"855 Nepean Hwy, Bentleigh VIC 3204, Australia",0.0,0.0,1.0,0.0,0.0,0,0.0,0.0,N.A,1.0,1,1,16,20,2,13
+357,Coolangatta,-28.16419699,153.5152736,Bilinga,4225,Gold Coast City,"1 Eastern Ave, Bilinga 4225",2.0,0.0,1.0,1.0,0.0,0,0.0,0.0,50,3.0,3,0,4,18,0,0
+358,King Henry Arts Cafe,-37.868948,145.351181,N.A,3787,Melbourne,"320 Mount Dandenong Tourist Rd Sassafras VIC 3787, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,1,0,6,6,2,0
+359,Kelly Racing,-38.010174,145.110226,N.A,3195,Melbourne,"45 Canterbury Rd Braeside VIC 3195, Australia",0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,N.A,1.0,0,0,4,13,0,0
+360,Westfield Airport West,-37.71395622,144.8860831,N.A,3042,Melbourne,"29-35 Louis St, Airport West VIC 3042, Australia",,,2.0,6.0,,,,,,,2,0,2,20,1,7
+361,Lockelec Rolling Stock,-37.995328,145.109648,N.A,3195,Melbourne,"14 Capital Ct, Braeside VIC 3195, Australia",0.0,0.0,0.0,0.0,1.0,0,0.0,0.0,N.A,1.0,0,0,4,17,0,2
+362,Marlborough South,-22.8276466, 149.9327812,Marlborough,N.A,N.A,"71209 Kunwarara Rd, Marlborough QLD 4705, Australia",2.0,,1.0,1.0,,,,,50,,1,0,1,0,0,0
+363,Pacific Werribee Shopping Centre,-37.875247,144.679638,N.A,3029,Melbourne,"Derrimut Rd & Heaths Rd, Werribee, VIC, Australia, VIC 3030",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,22.0,2.0,1,0,3,20,2,12
+364,Cairns Beach Volleyball Court,-16.9036743, 145.7617551,Cairns North,4870,Cairns,"285-291 Esplanade, Cairns North QLD 4870, Australia",,1.0,,,,,,,,,3,5,8,20,0,4
+365,Bourke St,-37.81581182,144.9595123,N.A,3000,Melbourne,"501 Bourke Street, Melbourne? VIC? 3000, Australia",2.0,0.0,0.0,0.0,2.0,1,0.0,0.0,N.A,5.0,20,3,19,20,20,20
+366,Just Honk Used Cars,-37.843884,144.782596,N.A,3026,Melbourne,"4-6 Fitzgerald Rd, Laverton North VIC 3026, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,1,1,3,12,0,1
+367,Croydon Train Station Multi Level Car Park,-37.796959,145.280091,N.A,3136,Melbourne,"Devon Street, Croydon, Victoria",6.0,0.0,0.0,0.0,0.0,0,0.0,0.0,7.0,6.0,1,3,13,20,3,9
+368,Church St,-37.83218295,144.996426,N.A,3121,Melbourne,"650 Church St, Cremorne VIC 3121, Australia",0.0,0.0,0.0,0.0,4.0,0,0.0,0.0,50,4.0,14,0,15,20,5,11
+369,The Pines Shopping Centre,-37.762252,145.16823,N.A,3109,Melbourne,"181 Reynolds Rd, Doncaster East VIC 3109, Australia",0.0,0.0,0.0,0.0,2.0,2,0.0,0.0,6.6,4.0,2,0,20,13,1,5
+370,Electric Vehicle Charging Station,-36.38578464084992, 145.39696529030473,Shepparton,3630,Shepparton,530 Wyndham St,1.0,,0.0,0.0,0.0,,,,,,2,5,13,20,18,17
+371,Monash University Caulfield Car Park,-37.87579762,145.0436391,N.A,3145,Melbourne,"880 Princes Hwy Service Rd, Caulfield East VIC 3145, Australia",,,1.0,1.0,,,,1.0,,,3,0,17,20,2,7
+372,Element Melbourne Richmond,-37.826921,145.020707,N.A,3121,Melbourne,"588 Swan St, Richmond VIC 3121, Australia",4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,22.0,4.0,9,0,20,19,0,4
+373,Hotel 115 Guest Carpark,-37.807448,145.039021,N.A,3101,Melbourne,"115 Cotham Rd, Kew VIC 3101, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,1,1,11,20,0,8
+374,Coles South Melbourne,-37.832375,144.960369,N.A,3205,Melbourne,"229 Coventry St, South Melbourne VIC 3205, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,19,1,19,20,4,20
+375,Coles - Cobblebank Village,-37.713815,144.601847,N.A,3338,Melbourne,"211 Ferris Rd, Melton South VIC 3338, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,2,0,5,6,1,2
+376,Community Bank Stadium,-37.673703,145.166098,N.A,3089,Melbourne,"129-163 Main Hurstbridge Rd, Diamond Creek VIC 3089, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,1.0,1,0,10,20,1,3
+377,Cellarbrations,-37.809802,144.948932,N.A,3003,Melbourne,"185a Rosslyn St, West Melbourne VIC 3003, Australia",4.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,4.0,20,6,18,20,12,20
+378,Kensington,-37.79687512,144.926417,N.A,3031,Melbourne,"72 Altona Street, Kensington VIC 3031",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,3,0,17,20,1,8
+379,Manor Lakes Central Shopping Centre,-37.875049,144.612648,N.A,3024,Melbourne,"455 Ballan Rd, Manor Lakes VIC 3024, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,2,0,9,17,2,4
+380,Berwick BMW,-38.026209,145.311511,N.A,3805,Melbourne,"6 Coventry Rd, Narre Warren VIC 3805",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,0,0,11,20,3,18
+381,Flinders St,-37.8180318,144.9640101,N.A,3000,Melbourne,"300 Flinders St, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,2.0,0,0.0,0.0,N.A,2.0,17,7,20,20,20,20
+382,Malvern Central (Coming Soon),-37.862909,145.027303,N.A,3144,Melbourne,"K10, Malvern Central Shopping Centre, 110-122 Wattletree Rd, Armadale VIC 3143, Australia",0.0,0.0,0.0,1.0,0.0,0,0.0,0.0,N.A,1.0,5,1,16,20,2,10
+383,Centennial Park Charters Towers QESH,-20.0658342, 146.2617747,Richmond Hill,4820,N.A,"72 Hackett Terrace, Richmond Hill QLD 4820, Australia",2.0,,1.0,1.0,,,,,50,,1,1,10,18,1,7
+384,Moonee Ponds Supercharger,-37.765834,144.923586,N.A,3039,Melbourne,"665 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",0.0,0.0,0.0,0.0,6.0,0,0.0,0.0,120.0,6.0,4,0,7,20,2,11
+385,BIG4 Mornington Peninsula Holiday Park,-38.174557,145.141541,N.A,3911,Melbourne,"2 Robinsons Rd, Frankston VIC 3199, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,0,2,10,15,0,0
+386,Brimbank Shopping Centre,-37.751827,144.775257,N.A,3023,Melbourne,"Brimbank Central Shopping Centre shop 81t, 28-72 Neale Rd, Deer Park VIC 3023, Australia",2.0,0.0,0.0,0.0,0.0,0,0.0,0.0,N.A,2.0,1,0,10,20,1,7
+387,QV Melbourne - Car Park,-37.810679,144.966601,N.A,3000,Melbourne,"180 Lonsdale Street, Melbourne VIC 3000, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,3.0,N.A,3.0,16,7,17,20,20,20
+388,Carlton,-37.80320151,144.9717566,N.A,3053,Melbourne,"11 Nicholson St, Carlton VIC 3053, Australia",0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,N.A,2.0,16,11,18,20,20,20
+389,RACV Solar,-38.197552,144.344603,N.A,3216,Geelong,"Units 5 & 6, 8 Lewalan St, Grovedale VIC 3216, Australia",1.0,0.0,0.0,0.0,0.0,0,0.0,0.0,22.0,1.0,2,0,5,15,0,3
+390,Sorrento Hotel,-38.338316,144.743447,N.A,3943,Melbourne,"1 Esplanade, Sorrento VIC 3943, Australia",0.0,0.0,0.0,0.0,0.0,0,0.0,1.0,N.A,1.0,1,0,7,20,0,6
