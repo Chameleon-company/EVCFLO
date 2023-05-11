@@ -2,18 +2,6 @@
   text-align: center;
 }
 
-.Apph3 {
-  text-align: left;
-}
-
-.Apph4 {
-  text-align: left;
-}
-
-.react-form {
-  text-align: left;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -38,6 +26,17 @@
 
 .App-link {
   color: #61dafb;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  background: #ffffff;
+  height: 100vh;
 }
 
 @keyframes App-logo-spin {
