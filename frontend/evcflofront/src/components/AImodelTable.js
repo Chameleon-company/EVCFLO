@@ -1,12 +1,12 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import Title from "../components/Title";
+import SubTitle from "../components/SubTitle";
 
 const AImodelTable = () => {
     return (
     <section className="section" id="model">
         <div className="aiModels">
-        <Title title="AI/ML EVCS applications" />
+        <SubTitle title="AI/ML EVCS applications" />
         <p className="centerText">
             This page contains all Artificial Intelligence/Machine Learning Model
             application that generated from our researchs to help promote EV
