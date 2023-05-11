@@ -23,8 +23,19 @@ const AImodelTable = () => {
                 </tr>
                 {/* 1st model */}
                 <tr>
-                    <td>EVCS density clustering model map</td>
-                    <td>Reserve</td>
+                    <td>EVCS VIC & QLD area density clustering map</td>
+                    <td>
+                    <a
+                        target="_blank"
+                        rel="noreferrer"
+                        href={
+                        process.env.PUBLIC_URL +
+                        "https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T32022/Australian_EV_charging_stations_prediction.html"
+                        }
+                    >
+                        Notebook: Australian_EV_charging_stations_prediction
+                    </a>
+                    </td>
                     <td>
                     VIC and QLD EVCS locations display on the map with colours showing
                     their density in selected area
@@ -53,7 +64,7 @@ const AImodelTable = () => {
                         rel="noreferrer"
                         href={
                         process.env.PUBLIC_URL +
-                        "https://storage.googleapis.com/evcflo_static_frontend/notebooks/EVCS%20Interactive%20Map-melbourne%20and%20geelong.html"
+                        "https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/EVCS%20Interactive%20Maps/EVCS%20Interactive%20Map-melbourne%20and%20geelong.html"
                         }
                     >
                         Notebook: EVCS - Interactive Map Development Melbourne and
@@ -84,11 +95,33 @@ const AImodelTable = () => {
                 </tr>
                 {/* 3rd model */}
                 <tr>
-                    <td>EVCS clustering prediction model</td>
-                    <td>Reserve</td>
+                    <td>EVCS VIC & QLD area clustering prediction model</td>
+                    <td>
+                    <a
+                        target="_blank"
+                        rel="noreferrer"
+                        href={
+                        process.env.PUBLIC_URL +
+                        "https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T12023/Australian_VIC%26QLD_EVCS_clustering_T12023update.html"
+                        }
+                    >
+                        Notebook: Australian_VIC&QLD_EVCS_clustering_T12023update.html
+                    </a>
+                    </td>
                     <td>
                     Applied Machine learning models to predict EVCS clustering based
-                    on input data
+                    on the following feature data:
+                        <ur>
+                            <li>Postal Code</li>	
+                            <li>Parks</li>	
+                            <li>Restaurants</li>	
+                            <li>Nearby EVStations</li>	
+                            <li>Supermarkets</li>	
+                            <li>Power</li>	
+                            <li>Malls</li>	
+                            <li>charging_stations</li>	
+                            <li>Hospitals</li>
+                        </ur>
                     </td>
                     <td>
                     <Link to="/densityclustering">Click me</Link>
