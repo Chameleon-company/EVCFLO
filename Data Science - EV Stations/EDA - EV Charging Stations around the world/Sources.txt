@@ -1,0 +1,5 @@
+Data Sources: 
+Global EV Outlook 2022, https://www.iea.org/data-and-statistics/data-product/global-ev-outlook-2022#global-ev-data-explorer
+
+Electric & Alternative Fuel Charging Stations 2023, Kaggle 2023,
+https://www.kaggle.com/datasets/saketpradhan/electric-and-alternative-fuel-charging-stations
