@@ -1,5 +1,6 @@
 export const pageLinks = [
   { id: 1, href: "/home", text: "home " },
+  { id: 7, href: "/datapage", text: "data " },
   { id: 2, href: "/research", text: "research " },
   { id: 3, href: "/aimodels", text: "AI models " },
 ];
@@ -20,7 +21,6 @@ export const notAuthenticatedLinks = [
 
 // These show if the user is authenticated
 export const authenticatedLinks = [
-  { id: 7, href: "/datapage", text: "data " },
   { id: 6, href: "/user", text: "User " },
   { id: 8, href: "/logout", text: "Logout " },
 ];
