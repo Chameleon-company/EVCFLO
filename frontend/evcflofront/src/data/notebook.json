@@ -21,7 +21,7 @@
         "id":4,
         "topic":"EV_Registered_Data",
         "detail":"Studies the volume of Electric Vehicles that have been registered globally, with focused interest in Australia and the US.",
-        "//comment":"HTML file in Github not display properly, need fixing the future",
+        "//comment":"HTML file on the Github cannot render data graph properly, using the one on the Google drive instead",
         "link":"https://storage.googleapis.com/evcflo_static_frontend/notebooks/EV_Registered_Data.html"
     },
     {
@@ -76,13 +76,42 @@
         "id":13,
         "topic":"UK EV Charging Locations",
         "detail":"Analysis of UK EV Charging Stations.",
-        "//comment":"missing html file in Github, need fixing the future",
-        "link":"https://storage.googleapis.com/evcflo_static_frontend/notebooks/ukEVlocations.html"
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/ukEVlocations.html"
     },
     {
         "id":14,
         "topic":"EVCS - Interactive Map Development - Melbourne and Geelong Region",
         "detail":"In this analysis, we will built an Interactive Map that provides indications of exisiting EVCS locations, as well as the possible future charging sites. Techniques used in this analysis is based on the EVCS location datasets of Melbourne and Geelong, and Melbourne off street parking lot location dataset.",
         "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/EVCS%20Interactive%20Maps/EVCS%20Interactive%20Map-melbourne%20and%20geelong.html"
+    },
+    {
+        "id":15,
+        "topic":"Melbourn and Queensland EVCS density clustering prediciton",
+        "detail":"Visualize EVCS density around Mel and QLD area, built and predict EVCS density using Random Forest, KNN, XgBoost, SVM and logistic regression models",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T32022/Australian_EV_charging_stations_prediction.html"
+    },
+    {
+        "id":16,
+        "topic":"EVCS route optimization",
+        "detail":"Route optimization to EVCS based on the distance between each EVCS",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T32022/Route_Optimization.html"
+    },
+    {
+        "id":17,
+        "topic":"EV sales forecast",
+        "detail":"Aus EV sales forecasting using Linear regression model and time series model using data from Aus EV sales between 2011 to 2021",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T32022/EV_Sales_Forecast.html"
+    },
+    {
+        "id":18,
+        "topic":"US and Canada EVCS data analysis",
+        "detail":"EVCS data analysis on the US and Canada, show EVCS distributions between 2 countries",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T32022/EVCS_location_US_Canada_final_cleaned_data_ipynb.html"
+    },
+    {
+        "id":19,
+        "topic":"EVCS in Greater Melbourne based on POI with Map",
+        "detail":"EVCS Melb point of interest clustering to recommend new EV charging station",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T32022/modelPOI.html"
     }
 ]
