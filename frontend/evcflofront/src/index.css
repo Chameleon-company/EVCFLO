@@ -490,6 +490,86 @@ NewBoundary, NewStation and SuggestStation forms
 }
 
 /*
+AI Page
+*/
+
+.aiModels {
+  margin-top: 100px;
+}
+
+/*
+NewBoundary, NewStation and SuggestStation forms
+*/
+
+.datapage {
+  height: 1900px;
+}
+
+@media screen and (min-width: 1025px) {
+  .datapage {
+    margin-top: 90px;
+    height: 1000px;
+    width: 100%;
+  }
+}
+
+#suggest {
+  float: left;
+  width: 30%;
+  margin-right: 10px;
+  box-shadow: 0 50px 50px rgb(0 0 0 / 0.2);
+  border-radius: 25px;
+  background: #a4cfec49;
+  padding: 20px;
+}
+#boundary {
+  float: left;
+  width: 30%;
+  box-shadow: 0 50px 50px rgb(0 0 0 / 0.2);
+  border-radius: 25px;
+  background: #a4cfec49;
+  padding: 20px;
+}
+#newstation {
+  float: left;
+  width: 30%;
+  margin-right: 10px;
+  box-shadow: 0 50px 50px rgb(0 0 0 / 0.2);
+  border-radius: 25px;
+  background: #2144ad1a;
+  padding: 20px;
+}
+
+/*
+Questions Component
+*/
+
+.faq {
+  margin-top: 90px;
+}
+
+.collapsible .content {
+  padding: 6px;
+  background-color: rgb(240, 240, 240);
+  font-size: 14px;
+}
+.collapsible .header {
+  background-color: rgb(200, 200, 200);
+  padding: 6px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid rgb(220, 220, 220);
+}
+.collapsible .header .title {
+  font-weight: 400;
+}
+.preferences label {
+  display: block;
+  padding-bottom: 4px;
+}
+
+/*
 Login Page
 */
 
