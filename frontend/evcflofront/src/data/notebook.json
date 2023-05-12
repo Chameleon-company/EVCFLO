@@ -113,5 +113,23 @@
         "topic":"EVCS in Greater Melbourne based on POI with Map",
         "detail":"EVCS Melb point of interest clustering to recommend new EV charging station",
         "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T32022/modelPOI.html"
+    },
+    {
+        "id":20,
+        "topic":"Improved density clustering model on the Melbourn and Queensland EVCS data",
+        "detail":"Improved version of the Melb & Qld EVCS density clustering notebook, reduced No. of preditor features from 17 to 9, mainly focus on which cluster the EVCS belongs based on features like Postcode, park, restaurant, nearby EVCS, supermarkets, charging power, malls, hospitals surrouding the existing EVCS.",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T12023/Australian_VIC%26QLD_EVCS_clustering_T12023update.html"
+    },
+    {
+        "id":21,
+        "topic":"EVCS wait time optimization",
+        "detail":"Show the relationship between EVCS charging wait time and the EVCS charging power and their locations",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T12023/Charging-station-wait-optimization.html"
+    },
+    {
+        "id":22,
+        "topic":"Exploratory Data Analysis & Visualization - EV North American Charging Stations",
+        "detail":"Data anaylsis and visualization on EVCS data from North American",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T12023/Exploratory%20Data%20Analysis%20%26%20Visualization%20-%20EV%20North%20American%20Charging%20Stations.html"
     }
-]
+] 
