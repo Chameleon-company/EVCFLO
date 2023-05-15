@@ -269,6 +269,16 @@ Navbar
   height: 45px;
 }
 
+button.nav-link {
+  background-color: transparent;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  font-size: inherit;
+  padding: 0;
+  text-align: inherit;
+  text-decoration: none; /* Add this line to remove underline */
+}
 .nav-link {
   display: block;
   padding: 1rem 2rem;
@@ -309,7 +319,8 @@ Navbar
   }
 
   .navbar {
-    position: fixed;
+    /* commented this out as it is a hinderance to other pages (the need to add margins at the top of every page)  */
+    /* position: fixed; */
     top: 0;
     left: 0;
     width: 100%;
@@ -556,4 +567,128 @@ Questions Component
 .preferences label {
   display: block;
   padding-bottom: 4px;
+}
+
+/*
+Login Page
+*/
+
+.loginpage {
+  margin-top: 0px;
+  height: 600px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login-form {
+  background-color: var(--prime-clr-4);
+  color: var(--white-clr);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  width: 30rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login-form-group {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+}
+.login-label {
+  margin-bottom: 0.5rem;
+}
+.login-form input {
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  border: none;
+  color: var(--heading-clr);
+  width: 100%;
+}
+.login-btn {
+  margin-top: 1rem;
+  background-color: var(--prime-clr-2);
+  color: var(--white-clr);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: var(--transition);
+}
+.login-btn:hover {
+  background-color: var(--prime-clr-5);
+  color: var(--prime-clr-1);
+}
+.login-error {
+  color: red;
+  margin-bottom: 1rem;
+}
+
+.login-success {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+/*
+user page
+*/
+
+.user-profile {
+  height: auto;
+  margin-top: 100px;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: var(--prime-clr-5);
+  border-radius: 1rem;
+  box-shadow: var(--dark-shadow);
+}
+
+.user-avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 4px solid var(--prime-clr-4);
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-info h2 {
+  font-size: 2rem;
+  color: var(--heading-clr);
+  margin-bottom: var(--spacing);
+}
+
+.user-info p {
+  font-size: 1.2rem;
+  color: var(--paragraph-clr);
+}
+
+.verified-badge {
+  color: var(--prime-clr-1);
+  font-size: 1.5rem;
+  margin-left: 0.5rem;
+}
+
+.loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
