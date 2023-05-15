@@ -131,5 +131,11 @@
         "topic":"Exploratory Data Analysis & Visualization - EV North American Charging Stations",
         "detail":"Data anaylsis and visualization on EVCS data from North American",
         "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T12023/Exploratory%20Data%20Analysis%20%26%20Visualization%20-%20EV%20North%20American%20Charging%20Stations.html"
+    },
+    {
+        "id":23,
+        "topic":"EVCS Compiler Location",
+        "detail":"This notebook is used to extract data for latitude and longitude from EVCS dataset",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/BarryChen_Researches_webpage/frontend/notebooks/T12023/Station_Compiler_Location.html"
     }
 ] 
