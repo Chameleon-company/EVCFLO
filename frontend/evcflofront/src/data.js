@@ -13,3 +13,15 @@ export const socialLinks = [
     bgc: "#cc9900",
   },
 ];
+
+// These show if the user isn't authenticated
+export const notAuthenticatedLinks = [
+  { id: 4, href: "/login", text: "Login " },
+  { id: 5, href: "/signup", text: "Signup " },
+];
+
+// These show if the user is authenticated
+export const authenticatedLinks = [
+  { id: 6, href: "/user", text: "User " },
+  { id: 8, href: "/logout", text: "Logout " },
+];
