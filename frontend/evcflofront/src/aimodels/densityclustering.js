@@ -1,6 +1,9 @@
 import React from "react";
 import Title from "../components/SubTitle";
 
+//The form elements below should integrate with xgboost_density_clustering pickel file 
+//in the public folder to properly deploy ML model
+
 const DensityClustering = () => {
   return (
     <section className="section" id="model">
