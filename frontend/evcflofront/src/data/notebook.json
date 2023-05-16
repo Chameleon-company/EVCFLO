@@ -136,6 +136,6 @@
         "id":23,
         "topic":"EVCS Compiler Location",
         "detail":"This notebook is used to extract data for latitude and longitude from EVCS dataset",
-        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/BarryChen_Researches_webpage/frontend/notebooks/T12023/Station_Compiler_Location.html"
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T12023/Station_Compiler_Location.html"
     }
 ] 
