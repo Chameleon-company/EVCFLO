@@ -16,11 +16,12 @@ By tracking new notebooks in this document, we can keep a record of the notebook
 
 Thank you for contributing to our notebook library! If you have any questions or suggestions for improvement, please open an issue in this repository. (or refer to readme.md)
 
-**Acknowledgement - The readme file borrowed the template of readme file contributed by Jamie Davidson
+\*\*Acknowledgement - The readme file borrowed the template of readme file contributed by Jamie Davidson
 
 Please fill out this information and add it to the end of the document:
 
 # Notebook 1
+
 Notebook Name:Charging-station-wait-optimization.ipynb
 
 Notebook Dataset:
@@ -30,6 +31,7 @@ Notebook Description:Charging-station-wait-optimization
 Contributor: violameli
 
 # Notebook 2
+
 Notebook Name:Australian_VIC&QLD_EVCS_clustering_T12023update-Copy1.ipynb
 
 Notebook Folder: EV density clustering model T1 2023
@@ -41,11 +43,13 @@ Notebook Description: Improve Australian_EV_charging_stations_prediction ML mode
 Contributor: Barry Chen
 
 # Notebook 3
-Notebook Name:
 
-Notebook Dataset:
+Notebook Name: Station_Compiler_Location
 
-Notebook Description:
+Notebook Folder: /T1 2023
 
-Contributor:
+Notebook Dataset: various datasets appended to Station_Compiler_Location.csv
 
+Notebook Description: A python notebook that prompts the user to enter the infomation from a dataset to extract latitude and longitude from that dataset
+
+Contributor: Jamie Davidson

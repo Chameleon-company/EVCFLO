@@ -20,13 +20,13 @@ Thank you for contributing to our visualisations library! If you have any questi
 
 # Visualisation 1
 
-Visualisation Name:
+Visualisation Name: Station_Compiler_Location
 
-Visualisation Source:
+Visualisation Source:Station_Compiler_Location.csv
 
-Visualisation Reference:
+Visualisation Reference: A Map of station locations based on latitude and longitude
 
-Contributor:
+Contributor: Jamie Davidson
 
 # Visualisation 2
 
