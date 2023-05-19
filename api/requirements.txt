@@ -1,0 +1,5 @@
+flask==2.2.3
+python-dotenv
+flask_mongoengine
+flask_cors
+gunicorn
