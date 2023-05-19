@@ -124,7 +124,7 @@
         "id":21,
         "topic":"EVCS wait time optimization",
         "detail":"Show the relationship between EVCS charging wait time and the EVCS charging power and their locations",
-        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T12023/Charging-station-wait-optimization.html"
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/BarryChen_Researches_webpage/frontend/notebooks/T12023/Charging-station-wait-optimization.html"
     },
     {
         "id":22,
@@ -134,8 +134,26 @@
     },
     {
         "id":23,
+        "topic":"EVCS Dataset report complier",
+        "detail":"This notebook is to compile and analyze a dataset, and generate a report based on the findings. The notebook aim is to contain code for importing and cleaning the data, as well as performing any necessary transformations or manipulations. if applicable, perform various analyses, such as descriptive statistics, data visualization, and modelling.",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/BarryChen_Researches_webpage/frontend/notebooks/T12023/Dataset-report-compiler.html"
+    },
+    {
+        "id":24,
+        "topic":"Exploratory data analysis - World EV Charging Stations",
+        "detail":"World EVCS Exploratory data analysis",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/BarryChen_Researches_webpage/frontend/notebooks/T12023/EDA%20-%20World%20EV%20Charging%20Stations%20.html"
+    },
+    {
+        "id":25,
         "topic":"EVCS Compiler Location",
         "detail":"This notebook is used to extract data for latitude and longitude from EVCS dataset",
         "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T12023/Station_Compiler_Location.html"
+    },
+    {
+        "id":26,
+        "topic":"US EV Station EDA",
+        "detail":"US EVCS exploratory data analysis ",
+        "link":"https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/BarryChen_Researches_webpage/frontend/notebooks/T12023/US_EV_Station_EDA.html"
     }
 ] 
