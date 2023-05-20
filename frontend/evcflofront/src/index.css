@@ -472,6 +472,16 @@ NewBoundary, NewStation and SuggestStation forms
   padding: 20px;
   margin-left: 6%;
 }
+#ev_news {
+  float: left;
+  width: 90%;
+  margin-right: 10px;
+  box-shadow: 0 50px 50px rgb(0 0 0 / 0.2);
+  border-radius: 25px;
+  background: #a4cfec49;
+  padding: 20px;
+  margin-left: 6%;
+}
 #suggest {
   float: left;
   width: 30%;

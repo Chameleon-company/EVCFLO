@@ -9,7 +9,7 @@ import Title from "../components/Title";
 
 const EVCharge = () => {
 	return (
-		<div className="faq" style={{ marginBottom: "40%" }}>
+		<div className="faq" style={{ marginBottom: "60%" }}>
 			<Title title="Distributors for EVCharging Stations" />
 			<section class="section" id="evcontentleft">
 				<div
