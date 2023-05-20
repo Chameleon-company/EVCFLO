@@ -345,7 +345,7 @@ button.nav-link {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
   }
   .nav-header {
     padding: 0 0;
@@ -360,6 +360,7 @@ button.nav-link {
   }
   .nav-icons {
     display: flex;
+    margin-right: -50px;
   }
 
   .links-container {
@@ -461,7 +462,16 @@ NewBoundary, NewStation and SuggestStation forms
     width: 100%;
   }
 }
-
+#evcontentleft {
+  float: left;
+  width: 55%;
+  margin-right: 10px;
+  box-shadow: 0 50px 50px rgb(0 0 0 / 0.2);
+  border-radius: 25px;
+  background: #a4cfec49;
+  padding: 20px;
+  margin-left: 6%;
+}
 #suggest {
   float: left;
   width: 30%;
@@ -488,7 +498,15 @@ NewBoundary, NewStation and SuggestStation forms
   background: #2144ad1a;
   padding: 20px;
 }
-
+#evcontentright {
+  float: left;
+  width: 30%;
+  margin-right: 10px;
+  box-shadow: 0 50px 50px rgb(0 0 0 / 0.2);
+  border-radius: 25px;
+  background: #2144ad1a;
+  padding: 20px;
+}
 /*
 AI Page
 */

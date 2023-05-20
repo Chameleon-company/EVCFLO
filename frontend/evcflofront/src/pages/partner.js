@@ -1,20 +1,7 @@
-import PartnerPage from "../pages/PartnerPage";
-import Footer from "../pages/Footer";
-import heroPartners from "./img/hero_partners.webp";
-
+import heroPartners from "../images/hero_partners.webp";
 const Partner = () => {
 	return (
 		<div>
-			<header id="header" className="d-flex align-items-center ">
-				<i className="bi bi-list" id="headerli"></i>
-
-				<div className="container-fluid d-flex align-items-center justify-content-lg-between">
-					<h1 className="logo me-auto me-lg-0">
-						<a href="#">Chameleon</a>
-					</h1>
-				</div>
-			</header>
-
 			<section
 				id="faq"
 				className="faq section-bg"
@@ -63,16 +50,6 @@ const Partner = () => {
 					</div>
 				</div>
 			</section>
-
-			<PartnerPage />
-			<Footer />
-
-			<a
-				href="#"
-				className="back-to-top d-flex align-items-center justify-content-center active"
-			>
-				<i className="bi bi-arrow-up-short"></i>
-			</a>
 		</div>
 	);
 };

@@ -448,24 +448,24 @@ h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-#hero {
+/* #hero {
   width: 100%;
   height: 100vh;
   background: url("../img/Desktop.bee90025.home_hero_big_6447e1ed1a0bd.jpg") top center;
   background-size: cover;
   position: relative;
   margin-bottom: -70px;
-}
+} */
 
 
-.heroimg {
+/* .heroimg {
   width: 100%;
   height: 100vh;
   background: url("../img/Desktop.5f776dba.business_charging_lifestyle_troniq_modular_parking_lot.webp") top center !important;
   background-size: cover;
   position: relative;
   margin-bottom: -70px;
-}
+} */
 
 @media (max-width: 992px) {
   #hero {
@@ -1547,12 +1547,12 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
-#footer {
+/* #footer {
   background: url("../img/footer-bg.jpg") center center no-repeat;
   color: #fff;
   font-size: 14px;
   position: relative;
-}
+} */
 
 #footer::before {
   content: "";
@@ -1689,24 +1689,24 @@ section {
   display: none;
 }
 
-.Businessheroimg1 {
+/* .Businessheroimg1 {
   width: 100%;
   height: 100vh;
   background: url("../img/Desktop.71829379.cta_lifestyle_car_roadtrip_v2.webp") top center !important;
   background-size: cover;
   position: relative;
   margin-bottom: -70px;
-}
+} */
 
-.Businessheroimg2 {
+/* .Businessheroimg2 {
   width: 100%;
   height: 100vh;
   background: url("../img/Desktop.a21ce93e.business_charging_plp_hero_liviqo_mirrored.webp") top center !important;
   background-size: cover;
   position: relative;
   margin-bottom: -70px;
-}
-.EvHomeheroimg{
+} */
+/* .EvHomeheroimg{
   width: 100%;
     height: 100vh;
     background: url("../img/Desktop.a21ce93e.hero_plp_home.webp") top center !important;
@@ -1714,7 +1714,7 @@ section {
     position: relative;
     margin-bottom: -70px;
 
-}
+} */
 .new-line{
   content: "\a";
   white-space: pre;
