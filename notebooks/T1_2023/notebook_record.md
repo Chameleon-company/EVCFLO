@@ -53,3 +53,16 @@ Notebook Dataset: various datasets appended to Station_Compiler_Location.csv
 Notebook Description: A python notebook that prompts the user to enter the infomation from a dataset to extract latitude and longitude from that dataset
 
 Contributor: Jamie Davidson
+
+# Notebook 4
+
+Notebook Name: US_EV_Station_EDA.ipynb
+
+Notebook Folder: /T1 2023
+
+Notebook Dataset: US_Alternative_Fueling_Stations
+
+Notebook Description: A python notebook about the EDA of US EV station.
+
+Contributor: Shoyo Chen
+
