@@ -5,8 +5,6 @@ import Home from "./pages/home";
 import Data from "./pages/datapage";
 import Research from "./pages/research";
 import AImodels from "./pages/aimodels";
-import EVCharge from "./pages/evcharge";
-import ContactUs from "./pages/contactus";
 import News from "./pages/news";
 //import AI models
 import DensityClustering from "./aimodels/densityclustering";
@@ -16,45 +14,40 @@ import Logout from "./pages/logout";
 import User from "./pages/user";
 
 function App() {
-	return (
-		<Router>
-			<Navbar />
-			<Routes>
-				<Route path="/home" element={<Home />} />
-				<Route path="/" element={<Home />} />
-				<Route path="/datapage" element={<Data />} />
-				<Route path="/research" element={<Research />} />
-				<Route path="/aimodels" element={<AImodels />} />
-				<Route path="/contactus" element={<ContactUs />} />
-				<Route path="/EVCharge" element={<EVCharge />} />
-				<Route path="/news" element={<News />} />
+  return (
+    <Router>
+      <Navbar />
+      <Routes>
+        <Route path="/home" element={<Home />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/datapage" element={<Data />} />
+        <Route path="/research" element={<Research />} />
+        <Route path="/aimodels" element={<AImodels />} />
+        <Route path="/news" element={<News />} />
 
-				<Route
-					path="/densityclustering"
-					element={<DensityClustering />}
-				/>
-				<Route
-					exact
-					path="/densityclusteringmap"
-					render={() => {
-						window.location.href = "densityclusteringmap.html";
-					}}
-				/>
-				<Route
-					exact
-					path="/EVCSrecommendationsmap"
-					render={() => {
-						window.location.href = "EVCSrecommendationsmap.html";
-					}}
-				/>
-				<Route path="/faq" element={<FAQ />} />
-				<Route path="/login" element={<Login />} />
-				<Route path="/logout" element={<Logout />} />
-				<Route path="/user" element={<User />} />
-			</Routes>
-			<Footer />
-		</Router>
-	);
+        <Route path="/densityclustering" element={<DensityClustering />} />
+        <Route
+          exact
+          path="/densityclusteringmap"
+          render={() => {
+            window.location.href = "densityclusteringmap.html";
+          }}
+        />
+        <Route
+          exact
+          path="/EVCSrecommendationsmap"
+          render={() => {
+            window.location.href = "EVCSrecommendationsmap.html";
+          }}
+        />
+        <Route path="/faq" element={<FAQ />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/logout" element={<Logout />} />
+        <Route path="/user" element={<User />} />
+      </Routes>
+      <Footer />
+    </Router>
+  );
 }
 
 export default App;
