@@ -58,8 +58,5 @@ def Go_Suggested():
     return (response)
 
 # Initialize server...
-if __name__ == '__main__':
-    if (run_environment == 'LIVE'):
-        app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
-    else:
-        app.run()
+if __name__ == '__main__': 
+    app.run()
