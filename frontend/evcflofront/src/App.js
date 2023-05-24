@@ -5,6 +5,7 @@ import Home from "./pages/home";
 import Data from "./pages/datapage";
 import Research from "./pages/research";
 import AImodels from "./pages/aimodels";
+import News from "./pages/news";
 //import AI models
 import DensityClustering from "./aimodels/densityclustering";
 import FAQ from "./pages/faq";
@@ -22,6 +23,8 @@ function App() {
         <Route path="/datapage" element={<Data />} />
         <Route path="/research" element={<Research />} />
         <Route path="/aimodels" element={<AImodels />} />
+        <Route path="/news" element={<News />} />
+
         <Route path="/densityclustering" element={<DensityClustering />} />
         <Route
           exact
