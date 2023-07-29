@@ -1,4 +1,4 @@
-# Visualisation Recording Document T1_2023
+# Visualisation Recording Document T2_2023
 
 This document is intended to track new visualisations added to the library in the GitHub repository. If you have added a new visualisations to the library, please add the following information to this document:
 
@@ -20,13 +20,13 @@ Thank you for contributing to our visualisations library! If you have any questi
 
 # Visualisation 1
 
-Visualisation Name: Station_Compiler_Location
+Visualisation Name:
 
-Visualisation Source:Station_Compiler_Location.csv
+Visualisation Source:
 
-Visualisation Reference: A Map of station locations based on latitude and longitude
+Visualisation Reference:
 
-Contributor: Jamie Davidson
+Contributor:
 
 # Visualisation 2
 
