@@ -1,0 +1,1115 @@
+name,address,longitude,latitude,description,parking,pricing,contact,networks,total_plugs,renewable_power_supply,Plugs_CHAdeMO,Plugs_Tesla,Plugs_CCS_SAE,Plugs_J1772,Plugs_Type2,Plugs_Three_Phase,Plugs_Commando,Plugs_Wall_AU_NZ,Plugs_Caravan_Mains_Socket,Plugs_Other,power_outputs_kw,source,source_date
+Tesla Destination Charger,"1 Goldie St, Wynyard",145.7352566,-40.9881523,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"Spring St, Burnie",145.9062926,-41.0560619,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"North Terrace, Burnie",145.907212,-41.0499348,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,Park Grove,145.8800876,-41.0582222,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"39 Sice Ave, Heybridge",145.9890257,-41.07606699999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"Esplanade, East Devonport",146.3673277,-41.1800446,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Fenton Way, Devonport",146.3600658,-41.1775198,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3343 W Tamar Hwy, Sidmouth",146.87945,-41.239807,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"42 King St, Scottsdale",147.5146089,-41.162162,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"20 Main St, Waratah",145.526198,-41.442587,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"864 Claude Rd, Sheffield",146.2645437,-41.4320663,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"15 Paterson St, Launceston",147.1393681,-41.4359627,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"31 Elizabeth St, Launceston",147.1424769,-41.4390629,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Galvin St, South Launceston",147.1417127,-41.4500994,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Bridge Rd, Launceston",147.12888,-41.4403563,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"62B Tamar St, Launceston",147.141262,-41.433601,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"72 Basin Rd, Launceston",147.122817,-41.4463642,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"35 Guy St, Kings Meadows",147.15872,-41.46815429999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"81 Lindsay St, Invermay",147.130066,-41.4317959,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"2 Invermay Rd, Invermay",147.1393906,-41.42868259999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Bowen St, St Helens",148.2482544,-41.3230523,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3816 Cradle Mountain Rd, Cradle Mountain",145.9375169,-41.5786345,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3718 Cradle Mountain Rd, Cradle Mountain",145.93515,-41.57361,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"43 Meander Valley Rd, Westbury",146.8446887,-41.5258066,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Driffield St, Queenstown",145.5553659,-42.078841,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"3 Commonwealth Ln, Campbell Town",147.4944343,-41.9293022,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"41 Esplanade, Strahan",145.3298681,-42.1521769,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Lake St Clair Rd, Lake St Clair",146.20613,-42.105759,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"15570 Lyell Hwy, Derwent Bridge",146.22965,-42.1358042,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"7 Marlborough Hwy, Bronte Park",146.490804,-42.1433121,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"2693 Waddamana Rd, Waddamana",146.7457017,-42.1246155,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"11903 Tasman Hwy, Rocky Hills",148.0165103,-42.2328584,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Noyes St, Swansea",148.0750652,-42.1238331,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Freycinet Dr, Coles Bay",148.30221,-42.13491,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2352 Coles Bay Rd, Coles Bay",148.265949,-42.109627,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"23 Vicary St, Triabunna",147.9149259,-42.5076099,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Coles Express 146 Brighton Rd & Andrews St, Brighton",147.2509965,-42.7007103,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"152-170 Campbell St, Hobart",147.3240464,-42.8754225,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"152 Davey St, Hobart",147.3322083,-42.8813766,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"27 Hunter St, Hobart",147.3354534,-42.881695,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"154-156 Collins St, Hobart",147.3270158,-42.8839582,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"1 Dunn Pl, Hobart",147.3326273,-42.8816576,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"10 Evans St, Hobart",147.337138,-42.880614,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"38 Bligh St, Rosny Park",147.3690233,-42.8645179,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"18 Hunter St, Hobart",147.3366348,-42.8821279,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Tivoli Rd, Old Beach",147.2780893,-42.7510094,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"154-156 Collins St, Hobart",147.3272005,-42.88407249999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Rokeby Rd, Howrah",147.4269764,-42.8871254,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2064 Huon Hwy, Grove",147.0855022,-42.9876384,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"380 Pirates Bay Dr, Eaglehawk Neck",147.9285579,-43.0097359,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"15 Church St, Geeveston",146.9268247,-43.1634306,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3 Oxleys Rd, Kettering",147.2466391,-43.1291971,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"229 Radnor Rd, Port Arthur",147.8054148,-43.1556443,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"6955 Arthur Hwy, Port Arthur",147.8549926,-43.1389891,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"6957 Huon Hwy, Dover",147.0145969,-43.3109428,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"712 Adventure Bay Rd, Adventure Bay",147.3283702,-43.3609394,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"3959 Bruny Island Main Rd, Alonnah",147.2425011,-43.3218536,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Albert St, Kerang",143.921462,-35.7344144,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Gateway Visitor Centre, King George St, Cohuna",144.2212972,-35.8083922,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"154 Campbell Rd, Cobram",145.6598459,-35.9308017,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"40 Silverwoods Blvd, Yarrawonga",146.0378155,-36.0021995,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"315 All Saints Rd, Wahgunyah",146.410299,-35.993453,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"217 Main St, Rutherglen",146.4560172,-36.0520568,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"186 Golf Club Dr, Howlong",146.6443868,-35.9847369,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"565 Mudge St, Hamilton Valley",146.8958712,-36.0284963,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"63 Commercial St, Walla Walla",146.9008004,-35.7647808,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Fairview St, Wycheproof",143.226469,-36.078895,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"438 High St, Echuca",144.74814,-36.12731,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"54 Meninya St, Moama",144.754078,-36.110906,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"74 Slaughterhouse Rd, Rutherglen",146.452289,-36.069344,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,Barnawartha North,146.7269279,-36.073955,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"13-May, Havelock St, Wodonga",146.8899666,-36.1238894,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"441 Kiewa St, Albury",146.9143513,-36.0837322,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"648 Dean St, Albury",146.9122336,-36.0795202,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Chapel St, Wedderburn",143.613889,-36.418021,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"8 Fraser St, Shepparton",145.40025,-36.38038,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"77 Midland Hwy, Mooroopna",145.359834,-36.394665,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"530 Wyndham St, Shepparton",145.3966079,-36.3913367,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"104 Hogan St, Tatura",145.2260557,-36.4402801,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"195 Major Plains Rd, Dookie",145.7257481,-36.3529636,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"29-37 Ryley St, Wangaratta",146.319437,-36.358166,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1143 Snow Rd, Oxley",146.381853,-36.443411,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1036 Beechworth-Wangaratta Rd, Beechworth",146.5765765,-36.3842413,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"239 Milawa-Bobinawarrah Rd, Milawa",146.4306173,-36.4543304,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"59 Havelock Rd, Beechworth",146.7046346,-36.350918,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"51 Sydney Rd, Beechworth",146.6881028,-36.3485543,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Cnr Calder Highway, Arnold Rd, Bridgewater on Loddon",143.9378733,-36.6000707,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Storm Ln, Inglewood",143.8676573,-36.5758333,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"4994 Great Alpine Rd, Ovens",146.759301,-36.587007,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3897 Great Alpine Rd, Myrtleford",146.6841698,-36.5206719,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Cnr Burke St &, Wimmera Hwy, Newbridge",143.900148,-36.74062410000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Gaol Rd, Bendigo",144.2766253,-36.7568946,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"200 McCrae St, Bendigo",144.2869918,-36.7541005,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"156-158 Strickland Rd, East Bendigo",144.3179465,-36.7509918,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"371 High St, Golden Square",144.2568245,-36.7742523,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"177/183 High St, Bendigo",144.2697374,-36.7643739,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"7 Railway Pl, Bendigo",144.2824656,-36.7646664,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"761 McIvor Hwy, Bendigo",144.347151,-36.769321,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"26 Forest St, Bendigo",144.2765051,-36.7591711,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"150/158 Condon St, Kennington",144.3059484,-36.7749175,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"470 Mitchellstown Rd, Mitchellstown",145.0903886,-36.8490331,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"142 Mulberry Dr, Tabilk",145.0868538,-36.8269443,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"167 Tarcombe St, Euroa",145.5910904,-36.7429647,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"46 Kirkland Ave, Euroa",145.573418,-36.752887,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"53 Clifton St, Euroa",145.5650846,-36.7592122,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"4861 Wangaratta-Whitfield Rd, Whitfield",146.4147205,-36.7617975,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"6619 Great Alpine Rd, Porepunkah",146.888984,-36.675301,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"402 Morses Creek Rd, Wandiligong",146.982338,-36.762554,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"5 Wood St, Bright",146.9574988,-36.7293022,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Station St, Maryborough",143.7420771,-37.051343,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1846 Maryborough-Dunolly Rd, Dunolly",143.73737,-36.866815,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"High St, Harcourt",144.2609073,-36.99866,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Jones St, Avenel",145.239889,-36.907472,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"IGA car park, 3450/33 Forest St, Castlemaine",144.217785,-37.066762,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"49, B180, Newstead",144.066461,-37.1051679,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"1 Hutton St, Kyneton",144.4522666,-37.2471431,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"72 Piper St, Kyneton",144.4488839,-37.2436709,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"10 High St, Yea",145.426132,-37.210038,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"36 Killingworth Rd, Killingworth",145.4354379,-37.2076799,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"6572 Maroondah Hwy, Yarck",145.6161547,-37.1033217,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Sugarloaf Rd, Eildon",145.9076273,-37.2119398,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Cnr Pollards Rd and, Stoneys Rd, Mansfield",146.1675482,-37.0882425,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Mimosa Dr, Merrijig",146.3370767,-37.1088261,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,Ararat,142.9339505,-37.2833511,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,Creswick,143.8905449,-37.4444528,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Midland Hwy, Creswick",143.8905812,-37.4435051,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"4 King St, Daylesford",144.141044,-37.3491039,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"76 Vincent St, Daylesford",144.1421979,-37.3429734,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"219 Main Rd, Hepburn",144.129039,-37.302791,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"13 King St, Daylesford",144.1414939,-37.3502343,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"23A King St, Daylesford",144.1411099,-37.3510269,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 High St, Lyonville",144.260118,-37.39029,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"124 High St, Woodend",144.528206,-37.3560919,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"333 Gillies St N, Wendouree",143.822503,-37.53460099999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Stockland Wendouree EV charger,Wendouree,143.8237232,-37.5351446,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Gillies St N, Wendouree",143.8238583,-37.53277629999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"61 Curtis St, Ballarat Central",143.8622922,-37.5613141,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"39 Magpie St, Golden Point",143.8664281,-37.5747274,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"508 Warrenheip St, Buninyong",143.8841324,-37.6492047,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"10 Lydiard St N, Ballarat",143.8573958,-37.5627663,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"571-583 High St, Epping",145.0160005,-37.6532174,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"1 Scanlon Dr, Epping",144.9943204,-37.6480322,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"200 James Mirams Dr, Roxburgh Park",144.9147733,-37.6163148,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"74 Church St (cnr, Beech St, Whittlesea",145.118383,-37.510589,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"111 Regent St, Mernda",145.069128,-37.605057,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+EVUp Charging Station,"19 Whittlesea-Kinglake Rd, Kinglake",145.3395768,-37.531386,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"58 Pinnacle Ln, Dixons Creek",145.4123501,-37.5970266,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"122 Healesville-Kinglake Rd, Healesville",145.5034082,-37.650204,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"436 Maroondah Hwy, Narbethong",145.6550466,-37.5645956,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"32/42 Murchison St, Marysville",145.745079,-37.510167,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"179/253 Exford Rd, Weir Views",144.5721244,-37.7227737,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Bridge Rd, Cobblebank",144.5993911,-37.71582900000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"201 Ferris Rd, Melton South",144.6035927,-37.7139873,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Coles Express, 410 Melton Hwy, Taylors Lakes",144.78212,-37.69657,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"399 Melton Hwy, Taylors Lakes",144.7760853,-37.6991726,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"11 Neale Rd, Cairnlea",144.7761135,-37.7519664,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"83 Leakes Rd, Tarneit",144.6976544,-37.8336837,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"88 Leakes Rd, Truganina",144.7640497,-37.8401973,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+JET Charge,"10/350 Bridge St, Port Melbourne",144.9354423,-37.828786,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"650 Church St, Cremorne",144.995688,-37.83214299999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"13 Stanton St, Abbotsford",144.9932696,-37.8044708,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"90 Bell St, Coburg",144.9697091,-37.7407488,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"99 Jukes Rd, Fawkner",144.9695005,-37.70247639999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,Prahran,144.9925299,-37.8486608,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"637-641 Chapel St, South Yarra",144.9954705,-37.8377242,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"485 Bourke St, Melbourne",144.9595931,-37.8158872,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Level Ground & Lower Parking, p1/25 Collins St, Melbourne",144.973402,-37.8143033,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"123 Collins St, Melbourne",144.9697022,-37.81482680000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"59 Lonsdale St, Melbourne",144.9705139,-37.8100234,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"Car Park, 620 Victoria St, Richmond",145.0123035,-37.811869,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"8 Whiteman St, Southbank",144.957692,-37.825511,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Porsche Destination Charging Station,"474 Flinders St, Melbourne",144.9583003,-37.8198211,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"65 Queens Rd, Albert Park",144.9781768,-37.8493627,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"Moonee Ponds Central Kmart Mall, Moonee Ponds Central - Level P2, 14-16 Hall St, Moonee Ponds",144.922798,-37.765595,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,Hangar 131 Lionel Essendon Airport,144.8929353,-37.7198886,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"20 William St, Hawthorn",145.0398254,-37.8208618,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Janefield Dr, Bundoora",145.0710002,-37.6830604,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"619 Doncaster Rd, Doncaster",145.1257933,-37.7852548,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"755 Toorak Rd, Hawthorn East",145.0420954,-37.8448741,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"181 Reynolds Rd, Doncaster East",145.168488,-37.7621431,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"175 Maroondah Hwy, Ringwood",145.2295859,-37.8147452,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"114 Flinders St, Melbourne",144.970955,-37.816238,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"649 Bridge Rd, Richmond",145.0130928,-37.8197106,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"793 Burke Rd, Camberwell",145.0563957,-37.8286488,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Better Place Australia Pty Ltd,"114 Balmain St, Richmond",144.9962023,-37.830378,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Cato St, Prahran",144.9923793,-37.8481433,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Russell St Ext, Melbourne",144.9712506,-37.8177027,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"401 Canterbury Rd, Vermont",145.2138971,-37.83192,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"4/16 Devon St, Croydon",145.2798645,-37.7969198,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"109 Moora Rd, Mount Toolebewong",145.5676924,-37.7213514,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"460-462 Maroondah Hwy, Lilydale",145.3633891,-37.7548427,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"30 Woods Point Rd, Warburton",145.7053618,-37.7533643,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"455 Ballan Rd, Wyndham Vale",144.61406,-37.87543420000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"57 Cortland St, Wyndham Vale",144.6274167,-37.8769927,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Derrimut Rd, Heaths Rd, Werribee",144.679638,-37.875247,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"Dunnings Rd, Point Cook",144.7361376,-37.8843257,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Donald St, Laverton",144.7692184,-37.865406,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"411 Dunnings Rd, Point Cook",144.7341883,-37.8842556,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Corner Main &, Murnong St, Point Cook",144.735883,-37.883862,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+EVup Charging Station,"Unit 32/536 Clayton Rd, Clayton South",145.117778,-37.9427717,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1341 Dandenong Rd, Chadstone",145.081194,-37.886676,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"1239-1241 Nepean Hwy, Cheltenham",145.0548509,-37.9584609,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"783 Springvale Rd, Mulgrave",145.1575352,-37.9219276,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"235 Springvale Rd, Glen Waverley",145.1651138,-37.8754685,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"20 Corporate Dr, Heatherton",145.0803496,-37.9509025,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+EVolution Electric Car Charger,"28 Westminster St, Oakleigh",145.0954823,-37.90318450000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Ampol Dandenong, CNR STUD RD AND, Heatherton Rd, Dandenong",145.2237479,-37.9716443,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Corner Stud &, Fulham Rd, Rowville",145.2375523,-37.9214041,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"1 Chelsea Rd, Chelsea",145.1159521,-38.0547951,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"260-284 Frankston - Dandenong Rd, Dandenong South",145.2116802,-38.0270921,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"550 Princes Hwy, Noble Park North",145.1800715,-37.9528594,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"5-17 Doveton Ave, Eumemmerring",145.250432,-38.002297,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"388-404 Frankston - Dandenong Rd, Bangholme",145.209861,-38.041583,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Knox City Council Civic Centre, 511 Burwood Hwy, Wantirna South",145.244814,-37.8717032,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"361 Mount Dandenong Tourist Rd, Sassafras",145.353055,-37.863358,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Waverley Gardens, 271 Police Rd, Mulgrave",145.1898176,-37.9357283,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"182 Kidds Rd, Doveton",145.2327025,-37.9854814,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evo,"10 Henderson Rd, Knoxfield",145.2478032,-37.899758,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"181 Reynolds Rd, Doncaster East",145.1678517,-37.7620701,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"675 Anglesea Rd, Freshwater Creek",144.2761518,-38.2597312,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"10 Cunningham St, Geelong",144.3611524,-38.1432386,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"99 Barrabool Rd, Belmont",144.341445,-38.166789,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Units 5 & 6, 8 Lewalan St, Grovedale",144.3446038,-38.1975468,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"470-510 Princes Hwy, Corio",144.3824016,-38.0651738,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"46 Central Bvd, Armstrong Creek",144.3690613,-38.231627,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Weddell Rd, North Geelong",144.3453241,-38.1293411,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"122-160 Grubb Rd, Ocean Grove",144.5401692,-38.2466497,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"31-39 Kensington Rd, Leopold",144.4644131,-38.1862205,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"76 Royal Ave, Sandringham",145.0177174,-37.95937610000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"325A Bay Rd, Cheltenham",145.0385755,-37.95567320000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"10 Research Way, Clayton",145.1311389,-37.9078295,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,Mornington,145.0612025,-38.2207233,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evolution Universal Charging Station,"23-25 Bunney Rd, Oakleigh South",145.0977292,-37.9326298,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,Mornington,145.0510339,-38.2344065,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"565-577 Springvale Rd, Mulgrave",145.1595382,-37.9061272,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"917 Princes Hwy, Springvale",145.1437915,-37.9280757,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Scenic Blvd, Clayton",145.1349813,-37.9121995,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"66 Deoro Parade, Clyde North",145.336415,-38.1099888,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"1063 S Gippsland Hwy, Cranbourne",145.2795685,-38.0870087,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"4 Flicka Blvd, Cranbourne West",145.2488922,-38.1018166,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"211 Lloyd St, Moe",146.2378956,-38.1843918,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"13 Bell St, Moe",146.2589928,-38.1730031,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"166-188 Franklin St, Traralgon",146.5396692,-38.1938585,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"8 Stratton Dr, Traralgon East",146.5644802,-38.1890123,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"10 Hoveys Rd, Barongarook",143.5642972,-38.4440516,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"52/56 Murray St E East, Murray St E, Colac",143.597914,-38.3380949,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"66 Queen St, Colac",143.5929589,-38.3409955,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Great Ocean Rd, Torquay",144.3108252,-38.3403529,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1280 Blackgate Rd, Freshwater Creek",144.2529007,-38.2776991,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"860 Melbourne Rd, Sorrento",144.7370428,-38.3385599,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"14 Nelson St, Rye",144.8209683,-38.37097680000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Porsche Destination Charger,"70 Sandy Rd, Fingal",144.8593966,-38.4188315,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"306 Jetty Rd, Rosebud",144.911133,-38.3809342,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"120 Arthurs Seat Rd, Red Hill",145.018648,-38.3720972,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Level B1 Trent Jones Dr, Cape Schanck",144.893372,-38.4613003,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Trent Jones Dr, Cape Schanck",144.8935702,-38.4618792,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"26 Merricks Rd, Merricks",145.0862108,-38.3859126,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"28 Beach St, Frankston",145.1251614,-38.1404264,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"65 Chapel St, Cowes",145.2401507,-38.4513472,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Balfour Pl, Churchill",146.4196464,-38.3154996,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"23-31 Cook St, Flinders",145.019202,-38.474449,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"Shop 3/48 Cook St, Flinders",145.0169587,-38.4732656,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"995 Ventnor Rd, Summerlands",145.1484845,-38.5054786,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"17 Potters Hill Rd, San Remo",145.3923672,-38.5226633,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Marlin Phillip Island, 1 Marlin St, Smiths Beach",145.260004,-38.504561,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"3529 Bass Hwy, Kilcunda",145.4761368,-38.5492496,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Cuttriss St, Inverloch",145.7417371,-38.6338565,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"70 Cape Paterson-Inverloch Rd, Inverloch",145.6860431,-38.6490211,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"156 Grant St, Yarram",146.6743971,-38.5644854,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"32 Rodgers St, Yarram",146.6740184,-38.5607634,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"29/35 Great Ocean Rd, Apollo Bay",143.6699175,-38.75884,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Moore St, Apollo Bay",143.6685635,-38.7569719,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"4 Periwinkle Pl, Cape Paterson",145.6056856,-38.668067,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Old Waratah Rd, Fish Creek",146.0827312,-38.6943748,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"13125 Hume Hwy, Sutton Forest",150.2250857,-34.6077194,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3020 Old Hume Hwy, Berrima",150.3606112,-34.4691351,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"901 Penrose Rd, Penrose",150.2122387,-34.6725839,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"32A Penrose Rd, Bundanoon",150.2940768,-34.6598753,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"27 Arthur St, Moss Vale",150.3711343,-34.5543207,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"RSL, 9 Bessemer St, Mittagong",150.4424426,-34.4500891,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Ferguson Cres, Mittagong",150.4615802,-34.4472988,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"51 Burradoo Rd, Burradoo",150.416673,-34.496986,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Horderns Rd, Milton Park",150.481303,-34.499128,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"5 Norton Ln, Bowral",150.4471816,-34.4967494,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Moombara St, Dapto",150.7942065,-34.4952011,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"Building 237, Innovation Campus, 2522 Innovation Wy, Fairy Meadow",150.89972,-34.400113,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"71 Market St, Wollongong",150.8922982,-34.4233773,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"200 Crown St, Wollongong",150.8923068,-34.4236131,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Harbour Blvd, Shell Cove",150.8660341,-34.5886277,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"211 Lake Entrance Rd, Shellharbour City Centre",150.8380103,-34.5637993,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+EVlink Charging Station,"The Place @ Warrawong Plaza Shopping Centre, Warrawong",150.8878774,-34.4861758,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"Level 2 Top Carpark, Plaza, Cowper St, Warrawong",150.8908284,-34.48696109999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"19 Princes Hwy, Figtree",150.8634504,-34.4373673,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"39 Seignior St, Junee",147.5823559,-34.8710083,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Riverside Dr, Jugiong",148.3256679,-34.823443,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"81 Meehan St, Yass",148.9124838,-34.8412321,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"86 Meehan St, Yass",148.9128712,-34.8418833,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"86-88 Yass St, Gunning",149.2666719,-34.7823725,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"53 Sydney Rd, Goulburn",149.7496447,-34.7479625,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"201 Sloane St, Goulburn",149.7210045,-34.7555245,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"77 Lagoon St, Goulburn",149.7290801,-34.7471037,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Moosewood Holiday Rental, 638 Jacks Corner Rd, Kangaroo Valley",150.5340298,-34.7363075,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"320 Princes Hwy, Bomaderry",150.595536,-34.8435685,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"114 Radiata Rd, Kangaroo Valley",150.4536914,-34.7409333,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"140 Queen St, Berry",150.7010568,-34.7756058,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"B640 Princes Hwy, Berry",150.636711,-34.808254,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"30 Staples St, Shoalhaven Heads",150.7479884,-34.8503727,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"51 Andersons Ln, Jaspers Brush",150.6684361,-34.7848845,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"11 Coolangatta Rd, Coolangatta",150.734083,-34.83925,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"8/24 Cross St, Wagga Wagga",147.373713,-35.10833950000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"34 Annie Pyers Dr, Muttama",148.1098457,-35.0021213,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"34 Annie Pyers Dr, Gundagai",148.1098243,-35.0021284,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"2 Hercules St, Murrumbateman",149.0301422,-34.9693216,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"34 Isabel Dr, Murrumbateman",149.0083004,-34.9778546,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"89 Haskins Way, Gundaroo",149.2796141,-35.1078084,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"188 Fernleigh Rd, Glenfield Park",147.3415227,-35.1310466,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Don, Don Kendell Drive, Wagga Wagga",147.4595825,-35.1581436,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"32 Sydney St, Tarcutta",147.7355748,-35.2771728,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3241 Hume Hwy, Mount Adrah",147.82203,-35.1969851,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1-5 Capper St, Tumut",148.2151977,-35.2952978,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Strathnairn Electric Vehicle Charging Station,"90 Stockdill Dr, Holt",148.9942611,-35.23220209999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ActewAGL Charging Station,Canberra,149.1285266,-35.2796713,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"1 Rogan St, Canberra",149.1878151,-35.3093289,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"148 Bunda St, Canberra",149.1345,-35.2786,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"2 Dairy Rd, Fyshwick",149.1655651,-35.3224195,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"8 National Circuit, Barton",149.1342812,-35.3075962,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"18 National Circuit, Barton",149.133236,-35.312247,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 London Cct, Canberra",149.125867,-35.28388,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Binara St, Canberra",149.134363,-35.282348,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"19 Furneaux St, Forrest",149.1315182,-35.3195495,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,Nicholls,149.0849911,-35.1921089,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"12 Challis St, Dickson",149.1357939,-35.2516986,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Kendall Ln, New Acton",149.1252605,-35.2854861,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"22 Lonsdale St, Braddon",149.133187,-35.272771,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"120 Commonwealth Ave, Canberra",149.1248139,-35.299456,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Australian Capital Territory 2609, Australia",149.1903054,-35.2999075,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"Catalina Dr, Pialligo",149.1902583,-35.2943016,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Northbourne Ave &, Girrahween St, Braddon",149.130952,-35.2706024,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"57 Ellendon St, Bungendore",149.439567,-35.2577496,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"31 Berrara Rd, Berrara",150.5489583,-35.2090336,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"191 Mitchell Parade, Mollymook",150.4850878,-35.3224572,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3/722 Little River Rd, Tumut",148.3391796,-35.3327352,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Anketell St, Greenway",149.0723477,-35.4228204,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric vehicle charging station,Phillip,149.0849759,-35.34576759999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"42 Halley St, Chisholm",149.1286795,-35.4141012,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"72 South St, Ulladulla",150.4729417,-35.36069579999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Shepherd St, Mollymook",150.47273,-35.3397,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"87 Tallwood Ave, Mollymook",150.476378,-35.3250559,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"22-24 Princes Hwy, Mollymook",150.470222,-35.346201,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Unit 10/1A Mitchell Parade, Mollymook",150.4722901,-35.3351273,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Greater Hume Shire Visitor Information Centre, Prospect St, Holbrook",147.3176963,-35.7176456,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"4 Reed St N, Greenway",149.0653968,-35.4187538,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Visitor Information Centre, 2A Beach Rd, Batemans Bay",150.1754455,-35.7085417,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Beach Rd, Batemans Bay",150.1790146,-35.7088755,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"51 Orient St, Batemans Bay",150.1774486,-35.7105548,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+EVSE Charging Station,"103 Bruce Cameron Dr, Moruya",150.1374946,-35.9061213,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"18 Imlay St, Broulee",150.172222,-35.855908,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"222 Beach Rd, Batehaven",150.1974261,-35.7310074,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2352 George Bass Dr, Broulee",150.164439,-35.8427169,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Manning River Dr, Taree",152.4706169,-31.943323,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"23-25 Oxley St, Taree",152.4773699,-31.9028941,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"3F87+8X, Taree South",152.465243,-31.9343127,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"167 Kelly St, Scone",150.8666636,-32.0504269,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"205 Kelly St, Scone",150.867089,-32.051612,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"37 Nabiac St, Nabiac",152.3815741,-32.0990659,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"97 Cobra St, Dubbo",148.608648,-32.2547039,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"76 Wingewarra St, Dubbo",148.6093675,-32.2493347,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"109 Whylandra St, Dubbo",148.5897953,-32.2522592,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"76 Wingewarra St, Dubbo",148.609182,-32.24995,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"109 Cobra St, Dubbo",148.6100405,-32.2549309,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"123 Breese Parade, Forster",152.5198352,-32.1997712,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,Eurunderee,149.5842402,-32.5359818,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"22-24 Almond St, Denman",150.6818747,-32.3832017,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"3483 Golden Hwy, Jerrys Plains",150.832258,-32.4473023,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"424-426 Moonabung Rd, Vacy",151.5007259,-32.542331,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"99 Mortimer St, Mudgee",149.5862694,-32.5937353,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"433 Ulan Rd, Mudgee",149.620316,-32.563097,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"84 Market St, Mudgee",149.5852265,-32.590169,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"997 Milbrodale Rd, Broke",151.073392,-32.746398,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"CNR Hermitage Rd and Mistletow Ln, Mistletoe Ln, Pokolbin",151.2606051,-32.7277493,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"555 Hermitage Rd, Pokolbin",151.262368,-32.696471,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"22 Empire St, Branxton",151.3506407,-32.6701813,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"6 Muir St, Medowie",151.8673488,-32.7389381,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"147 Soldiers Point Rd, Soldiers Point",152.071401,-32.711458,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"403 Tarean Rd, Karuah",151.9625777,-32.6539339,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Sunset Blvd, Soldiers Point",152.0626909,-32.7013877,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3 Government Rd, Nelson Bay",152.1429829,-32.720737,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"22 Buchanan St, Kandos",149.9730966,-32.86006,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"558 Wollombi Rd, Broke",151.081558,-32.78369,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Briar Ridge Vineyard, 593 Mount View Rd, Mount View",151.2986031,-32.8394132,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"2090 Broke Rd, Pokolbin",151.2982486,-32.7734377,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1596 Broke Rd, Pokolbin",151.2519858,-32.7591131,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"336 Oakey Creek Rd, Pokolbin",151.305451,-32.8087019,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Brokenwood, 401-427 McDonalds Rd, Pokolbin",151.2992755,-32.7760383,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"430 Wine Country Dr, Lovedale",151.348559,-32.7815473,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"76 Cowper St, Wallsend",151.6697665,-32.9027147,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Cowper St & Kokera Street, Kokera S St, Wallsend",151.6677075,-32.9033648,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"389 Stockland Dr, Glendale",151.6440463,-32.9357384,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"19 Mitchell Dr, East Maitland",151.5899059,-32.7623661,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"10 Rugby Rd, New Lambton",151.7148698,-32.9207905,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Molly Morgan Dr, East Maitland",151.590355,-32.762583,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"28 Blue Gum Rd, Jesmond",151.6906478,-32.9027831,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"100 George Booth Dr, Cameron Park",151.5977719,-32.9162519,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"387 Lake Rd, Glendale",151.6443922,-32.935571,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"University Dr, Callaghan",151.7041243,-32.8955075,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"387 Lake Rd, Glendale",151.6427291,-32.9343206,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,Callaghan,151.7019667,-32.8918473,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Smith St, Newcastle West",151.7607083,-32.9303609,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"2285 Pacific Hwy, Heatherbrae",151.727704,-32.787812,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"1024 Nelson Bay Rd, Fern Bay",151.7928865,-32.8709052,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"5 King St, Newcastle",151.7848055,-32.929224,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Wharf Rd &, Merewether St, Newcastle",151.7731152,-32.9251417,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"26 William St, Mayfield",151.7444244,-32.8918249,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Laman St, Newcastle",151.7724183,-32.9291563,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"233 Wharf Rd, Newcastle",151.7789671,-32.9259083,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"260 Craft Rd, Wollombi",151.177975,-32.950657,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"228/234 Pacific Hwy, Swansea",151.6370791,-33.0921325,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"290 Pacific Hwy, Charlestown",151.7005234,-32.9569095,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"126-138 Main Rd, Speers Point",151.6240823,-32.9599169,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Orange Civic Centre Car Park, 151A Byng St, Orange",149.102683,-33.2814356,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Ross Hill Wines, 134 Wallace Ln, Orange",149.044231,-33.334088,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"49 Nile St, Orange",149.112571,-33.281965,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1034 The Escort Way, Orange",149.004161,-33.259963,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"92 Heifer Station Ln, Orange",149.0139,-33.272143,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"298 Lake Canobolas Rd, Orange",149.019219,-33.31078,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"246 Anson St, Orange",149.0994914,-33.2808937,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"4968 Mitchell Hwy, Orange",149.146614,-33.3164,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2600 Wolgan Rd, Wolgan Valley",150.195717,-33.252572,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1442 George Downes Dr, Kulnura",151.199974,-33.198621,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"Bryant Drive &, 1 Wyong Rd, Tuggerah",151.4205646,-33.3101701,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"89 Cashens Ln, Guyong",149.303722,-33.4096509,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"311 Ophir Rd, Bathurst",149.518529,-33.392689,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"1 Kendall Ave, Bathurst",149.586732,-33.419146,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"1 Kendall Ave, Bathurst",149.586756,-33.41901,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"121 Howick St, Bathurst",149.582859,-33.418442,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"3-7 Tank St, Lithgow",150.1609907,-33.4780155,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"5 Kangoo Rd, Somersby",151.2905889,-33.4279667,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"315 Central Coast Hwy, Long Jetty",151.4889353,-33.3525371,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"30 Gugandi Rd, Narara",151.3290918,-33.3934936,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"733 Pacific Hwy, Narara",151.354007,-33.392429,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"16 Charlton St, Toowoon Bay",151.4995597,-33.3608229,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"107 The Scenic Rd, Killcare Heights",151.374606,-33.520618,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"72 Cultowa Ln, Canowindra",148.5519503,-33.6464008,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"48 Ross St, Oberon",149.857995,-33.708699,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"52-88 Great Western Hwy, Medlow Bath",150.2806364,-33.6752076,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Violet St, Katoomba",150.300861,-33.727961,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"1 Sublime Point Rd, Leura",150.3498521,-33.7219673,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"43324 East Vw Ave, Leura",150.3274478,-33.7085511,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"18 Bromley Rd, Emu Heights",150.651606,-33.745284,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"227 Railway Terrace, Schofields",150.875953,-33.7057,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"61 Hawkesbury Valley Way, Windsor",150.807283,-33.609917,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Bourke St, Richmond",150.7468058,-33.6142928,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"8 Central Pl, Ropes Crossing",150.7811253,-33.7328667,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"20 Bowmans Rd, Kings Park",150.9024479,-33.7466387,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Sentry Dr, Stanhope Gardens",150.92067,-33.718791,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"227 Railway Terrace, Schofields",150.8759664,-33.7057889,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Hollinsworth Rd, Marsden Park",150.8431412,-33.7190235,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"2 Sentry Dr, Stanhope Gardens",150.9199346,-33.7190995,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"Rouse Hill Dr, Rouse Hill",150.9242209,-33.690104,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Pennant St, Castle Hill",151.006807,-33.7291979,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"18 Victoria Ave, Castle Hill",150.9755335,-33.727981,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Basement 1, Purple Carpark Windsor Rd &, White Hart Dr, Rouse Hill",150.9259813,-33.6917293,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"41/47 Shepherds Dr, Cherrybrook",151.0436239,-33.7209527,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Salisbury Rd, Castle Hill",150.973404,-33.7307375,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"133 Samantha Riley Dr, Kellyville",150.9578302,-33.6997899,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"823 Old Northern Rd, Dural",151.0314872,-33.6957135,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"11-13 Solent Cct, Baulkham Hills",150.9618149,-33.7321459,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"41-47 Shepherds Dr, Cherrybrook",151.0448983,-33.7205877,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"286-288 New Line Rd, Dural",151.0320445,-33.69582949999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+JOLT Charge Charging Station,"2 Bungan St, Mona Vale",151.303111,-33.676139,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"166 Mona Vale Rd, St Ives",151.159391,-33.7296094,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"287 Mona Vale Rd, Terrey Hills",151.2238007,-33.6890769,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Charge N Go,"62 Kitchener St, St Ives",151.1708623,-33.7134775,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"77 Darling St, Cowra",148.6943701,-33.8340897,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Lachlan Valley Way, Cowra",148.6805458,-33.8357315,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Unit 3 Cnr Mulgoa Road & Wolseley Road Tenancy D, 3 Cnr Mulgoa Road & Wolseley Road, Penrith",150.6717101,-33.7696736,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"221 Wolseley St, Jamisontown",150.6735708,-33.7702833,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"82a O'Connell St, Kingswood",150.7349891,-33.7692468,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"401 Cabramatta Rd W, Cabramatta",150.9197906,-33.8987782,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"561-583 Polding St, Wetherill Park",150.898751,-33.858861,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Ferrers Rd, Eastern Creek",150.8676851,-33.8038347,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"32 Cricketers Arms Rd, Prospect",150.9030408,-33.8059616,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Brabham and, Peter Brock Dr, Eastern Creek",150.871032,-33.801991,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Cnr Beggs Road &, Rooty Hill Rd S, Eastern Creek",150.8531417,-33.7847079,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"17 Patrick St, Blacktown",150.9042635,-33.7708949,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Station St, Rooty Hill",150.8451983,-33.7707199,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Second Ave, Kingswood",150.7292143,-33.7698922,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,Seven Hills,150.9549075,-33.7671138,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"9-49 Chapel Rd, Bankstown",151.030127,-33.9319746,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"114 Marsden St, Parramatta",151.001371,-33.8175053,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"9 Murray Rose Ave, Sydney Olympic Park",151.0698001,-33.8460275,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"McFarlane St &, Pitt St, Merrylands",150.9879864,-33.8339439,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"375 Windsor Rd, Baulkham Hills",150.9908991,-33.7587599,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"8 Greenfield Parade, Bankstown",151.0335502,-33.9200381,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1a Duck St, Auburn",151.027093,-33.8369699,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"28 Cowper St, Granville",151.0136665,-33.8323837,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+EV Charging Stations,"200/15 Rowood Rd, Prospect",150.9240073,-33.8033577,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"5 Churchill Ave, Strathfield",151.0935841,-33.8721739,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"109-129 Blaxland Rd, Ryde",151.1060479,-33.812206,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"375-383 Windsor Rd, Baulkham Hills",150.991586,-33.758966,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"Macquarie Centre, 63-71 Talavera Rd, Macquarie Park",151.1217805,-33.7762297,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"2 Rosenthal Ave, Lane Cove",151.1690999,-33.8133,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"6 Myahgah Rd, Mosman",151.241426,-33.825551,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"G17A, Broadway Shopping Centre, 1 Bay St, Glebe",151.1946798,-33.8829832,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"551-559 Pacific Hwy, Artarmon",151.1798401,-33.806858,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"Yellow P3 Car Park, Chatswood Westfield, 1 Anderson St, Chatswood",151.18383,-33.797568,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"180 Thomas St, Haymarket",151.2026787,-33.8815541,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"14 Darling Dr, Sydney",151.19857,-33.8732829,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"31 Victor St, Chatswood",151.182196,-33.797571,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Bay St, Ultimo",151.1948003,-33.8836387,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"1/5 Little St, Lane Cove",151.1710934,-33.8140674,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"145 Old Pittwater Rd, Brookvale",151.2659251,-33.767719,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"450 Miller St, Cammeray",151.2095372,-33.8230412,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"197-205 Condamine St, Balgowlah",151.2643303,-33.793173,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"818-820 George St, Sydney",151.2030511,-33.8843338,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"73 Belmore Rd, Randwick",151.2404956,-33.9148045,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"895 S Dowling St, Zetland",151.2130187,-33.9070158,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"213 Oxford St, Bondi Junction",151.2507234,-33.8923143,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"2 Central Ave, Eveleigh",151.1958161,-33.8955911,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"88 Evans St, Freshwater",151.292104,-33.779193,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Level B2, PCYC carpark, 40 Kingsway, Dee Why",151.286312,-33.750313,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"200 Gilchrist Dr, Campbelltown",150.7964113,-34.0747163,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"1985 Camden Valley Way, Prestons",150.8557609,-33.952222,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"1 Ingham Dr, Casula",150.9002696,-33.9488288,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"William Downes Ave, Campbelltown",150.7889331,-34.0677579,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"Willowdale Dr, Denham Court",150.8118533,-33.9760016,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Mount Annan Dr, Mount Annan",150.7718397,-34.0555669,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"23 Mount Erin Rd, Campbelltown",150.8020298,-34.0606021,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"52 Soldiers Parade, Edmondson Park",150.8600918,-33.9733073,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"187 Rickard Rd, Leppington",150.804346,-33.9532311,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"159 Rooty Hill Rd S, Eastern Creek",150.8543023,-33.7873325,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"111 Vanessa St, Kingsgrove",151.0940794,-33.9429765,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"600 Kingsway, Miranda",151.1003287,-34.0350751,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"19 Old Hill Link, Sydney Olympic Park",151.0608576,-33.8458686,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"21 Shakespeare St, Campsie",151.1038693,-33.907695,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Rider Blvd, Rhodes",151.0853113,-33.8348552,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"34 Victoria Rd, Marrickville",151.1714955,-33.9081238,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"Pole Ln, Crows Nest",151.1990782,-33.824327,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"Corner Bourke Road and, O'Riordan St, Mascot",151.1875396,-33.9259591,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"88 Lovell St, Young",148.2949093,-34.3119035,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"5 Walton Ln, Picton",150.610914,-34.1682799,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"600 Kingsway, Miranda",151.099574,-34.0339852,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"580 Princes Hwy, Kirrawee",151.0731044,-34.0338689,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"38 Flora St, Kirrawee",151.073412,-34.0344863,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Power Shift,"22 Chamberlain Ave, Caringbah",151.1176917,-34.03530780000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+QESH Charging Station,"39 Blomfield St, Miriam Vale",151.5605434,-24.3273227,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"115-119 Takalvan St, West Bundaberg",152.31712,-24.8865013,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"4 Somerville St, Burnett Heads",152.4063423,-24.7634472,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"247 Bourbong St, Bundaberg Central",152.3407875,-24.8676713,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"8 Dear St, Gin Gin",151.9530442,-24.9897804,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Location (3 Phase Plug),"15 Aplin Terrace, Gin Gin",151.9515019,-24.9885519,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"169 Bakers Rd, South Kolan",152.2459001,-24.9244249,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1/3 Crescent St, Childers",152.2792202,-25.2350535,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"122 Farnsfield Rd, Childers",152.2582994,-25.1594602,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"468 Esplanade, Hervey Bay",152.8802917,-25.2831529,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"6 Central Ave, Urraween",152.8348863,-25.2906327,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"6 Central Ave, Hervey Bay",152.8350005,-25.2912016,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"6 Central Ave, Pialba",152.8353303,-25.291424,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"102 Lennox St, Maryborough",152.6988697,-25.5399827,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station (3 Phase),Maryborough West,152.6646738,-25.5066207,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"42 Balkin St, Gunalda",152.5627795,-25.9943217,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"115 Tin Can Bay Rd, Tin Can Bay",153.000844,-25.920908,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"Cnr Nash and, Monkland St, Gympie",152.661613,-26.188745,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 McLeod St, Gympie",152.6656698,-26.1888269,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Cooroy Station, Elm St, Cooroy",152.9114664,-26.4170848,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"292 Pomona Kin Kin Rd, Pinbarren",152.861999,-26.331351,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"1/2 Project Ave, Noosaville",153.046142,-26.4087303,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Cnr Gibson Rd &, Mary St, Noosaville",153.0644507,-26.400482,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"90 Beach Rd, Noosa North Shore",153.050773,-26.355765,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"76 Youngman St, Kingaroy",151.835902,-26.543205,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"8/10 Alford St, Kingaroy",151.8401054,-26.5399244,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"141 Jones Rd, Buderim",153.0504332,-26.6633901,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"154/164 Horton Parade, Maroochydore",153.087171,-26.654159,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"33-45 Parkyn Parade, Mooloolaba",153.1299702,-26.6852768,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"343/347 Mons Rd, Forest Glen",153.0042594,-26.6871199,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"127 Horton Parade, Maroochydore",153.0926496,-26.6561405,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Elanga Charging Station,"23 Maple St, Maleny",152.8507965,-26.7586087,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"549 Palmwoods Montville Rd, Montville",152.90839,-26.70279,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"88 Obi Ln S, Maleny",152.8725095,-26.7612889,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Virta Charging Station,"3 Teak St, Maleny",152.8521742,-26.7578435,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"233 Maleny Stanley River Rd, Maleny",152.8339368,-26.7806619,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Elanga Charging Station,"1 Bicentenary Ln, Maleny",152.8514876,-26.7596828,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Stockland Caloundra, 47 Bowman Rd, Caloundra",153.1245659,-26.8037222,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"Kawana Way, Birtinya",153.1131808,-26.7439028,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1638 Steve Irwin Way, Beerwah",152.960783,-26.8362742,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Sippy Downs Ground Carpark P11, Sippy Downs Dr, Sippy Downs",153.063375,-26.719612,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"119 Point Cartwright Dr, Buddina",153.1305755,-26.701467,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"6 Doherty St, Birtinya",153.1127298,-26.7464559,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Charger,"Unnamed Road, Buddina",153.1316565,-26.7044007,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Quad Park Level 1 Solar Charger 3.7KW AS/NZS3112,"31 Sportsmans Parade, Bokarina",153.1252625,-26.7341671,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Wild Horse Mountain service centre, Bruce Hwy, Coochin Creek",152.9962223,-26.9182026,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"29 Bribie Island Rd, Caboolture",152.9811447,-27.0853803,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1800 Bribie Island Rd, Sandstone Point",153.1425211,-27.075649,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Roche St, Dalby",151.2690942,-27.1798645,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"N Lakes Dr, North Lakes",153.0149318,-27.2428873,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Yurika Charging Station,"Westfield Shopping Centre, North Lakes",153.0156941,-27.2435845,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Ground floor car park, 22 Lakefield Dr, North Lakes",153.0194815,-27.2365734,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Alma Rd, Dakabin",152.9909648,-27.2281461,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Skygate Shopping Centre, Brisbane Airport",153.0773203,-27.4157535,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"10 Browning St, South Brisbane",153.0134629,-27.4777459,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"189 Elliott Rd, Banyo",153.0799332,-27.3668354,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"1062 Ann St, Fortitude Valley",153.0405081,-27.4517403,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1000 Ann St, Fortitude Valley",153.039138,-27.452391,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"Corner Gympie Road and, Hamilton Rd, Chermside",153.0328617,-27.3828914,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"35 Ferry St, Kangaroo Point",153.0369469,-27.4716389,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"300 George St, Brisbane City",153.0217244,-27.4701388,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"22 Thomas St, Chermside",153.0324159,-27.38742,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"Qut Kelvin Grove Campus, 30 Victoria Park Rd, Kelvin Grove",153.0170477,-27.4531107,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Red Cross Blood Bank, 480 Queen St, Brisbane City",153.0306189,-27.4643171,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Bunya Park Dr, Brendale",152.9618438,-27.3372489,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"42 Bridge St, Fortitude Valley",153.0368895,-27.4555762,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"41 Ramsgate St, Kelvin Grove",153.014547,-27.4551895,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"249 Turbot St, Brisbane City",153.0260875,-27.4654755,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"76 Skyring Terrace, Newstead",153.0443855,-27.4504829,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Erica Ct, Brisbane Airport",153.120354,-27.382563,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Cnr Anzac Ave &, James St, Toowoomba City",151.9334387,-27.564661,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"382-390 Anzac Ave, Drayton",151.9152099,-27.5914553,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Charlton Service Centre, 10810 Warrego Hwy, Charlton",151.8494604,-27.5199621,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Annand St, Toowoomba City",151.9540812,-27.5623294,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"254 South St, South Toowoomba",151.9467284,-27.5780403,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"80/84 Neil St, Toowoomba City",151.9549014,-27.5667423,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,Lawes,152.3351487,-27.5512667,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Hawck St, Gatton",152.270802,-27.568576,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Building 8156 Corner Main Drive & Outer Ring Road, Main Dr, Gatton",152.3351672,-27.5512773,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Puma Citiswich CNR ASHBURN ROAD AND, Hawkins Cres, Bundamba",152.821956,-27.5881342,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"50 South St, Ipswich",152.7585193,-27.6162586,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Tournament Dr, Brookwater",152.8940813,-27.6628269,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Smight Charging Station,"30 The Terrace, North Ipswich",152.7639237,-27.6096355,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"2 Pound St, West Ipswich",152.7501639,-27.6222226,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"4 David Henry Way, Springfield Central",152.8998827,-27.6821563,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Main St, Springfield Central",152.9035809,-27.6768204,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"88 Limestone St, Ipswich",152.757757,-27.6158167,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Main St, Springfield Central",152.9035584,-27.6767385,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"114 Bedivere St, Carindale",153.1016552,-27.5031286,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"34 Goggs Rd, Jindalee",152.948975,-27.5338377,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Miles Platting and, Gardner Rd, Rochedale",153.1126807,-27.577858,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+VIRTA Charging Station,"662 Compton Rd, Calamvale",153.0543339,-27.6127716,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Yurika Charging Station,"3539-3565 Pacific Hwy, Slacks Creek",153.1352513,-27.6380222,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"111-115 Middle St, Cleveland",153.2690916,-27.5262799,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Cnr Pacific Hwy and, Bryants Rd, Loganholme",153.171528,-27.656361,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"850-938/850-938 Mount Cotton Rd, Mount Cotton",153.2295133,-27.5937675,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"90-91 Middle St, Cleveland",153.2686597,-27.5255512,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"617 Grandchester Mount Mort Rd, Grandchester",152.46712,-27.717116,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+VIRTA Charging Station,"358 Mains Rd, Sunnybank",153.06283,-27.5715084,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"708 Jesmond Rd, Fig Tree Pocket",152.968652,-27.533552,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,Nathan,153.0574535,-27.5524243,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"6 Darrau Ave, Yarrabilba",153.1154522,-27.8061717,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"6 Homestead Dr, Jimboomba",152.9505015,-27.8096851,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Coles Express, 487 Old Pacific Hwy, Coomera",153.3104115,-27.8553835,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Heritage Park, 139 Rifle Range Rd, Pimpama",153.2919882,-27.8248054,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"99-103 Broadwater Ave, Hope Island",153.364045,-27.877171,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"5 Greville St, Moogerah",152.552856,-28.029366,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Yurika Charging Station,"21 Town Centre Dr, Helensvale",153.3389219,-27.9235586,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"833 Southport Nerang Rd, Nerang",153.3390938,-27.9842883,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+VIRTA Charging Station,"555 Nerang Murwillumbah Rd, Advancetown",153.27562,-28.038374,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"Pacific Fair Shopping Centre Broadbeach, Hooker Blvd, Broadbeach Waters",153.4272202,-28.0355159,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+VIRTA Charging Station,"2681 Gold Coast Hwy, Broadbeach",153.430833,-28.0308333,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2807 Gold Coast Hwy, Surfers Paradise",153.4296266,-28.0177101,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"14 University Dr, Robina",153.4147248,-28.0732416,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"15-21 Via Roma, Surfers Paradise",153.424021,-28.011193,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Doug Bruhn Way, Coombabah",153.3714523,-27.9245595,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"220 The Esplanade, Burleigh Heads",153.4469907,-28.0771148,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"6 Orchid Ave, Surfers Paradise",153.4294544,-28.0009285,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"Unnamed Road, Surfers Paradise",153.415233,-28.0016148,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Ross St, Benowa",153.3761768,-28.0036985,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"94 Seaworld Dr, Main Beach",153.426133,-27.967063,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Queensland Ave, Broadbeach",153.4330495,-28.0272423,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Old Burleigh Rd, Broadbeach",153.4346009,-28.0294058,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+EGen Electrical | EV Chargers Gold Coast,"2190 Gold Coast Hwy, Miami",153.4365952,-28.0620219,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"80 Pacific Ave, Miami",153.4290937,-28.0619769,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"296 Nerang Broadbeach Rd, Carrara",153.3650102,-28.0057193,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"4 Distribution Ave, Ashmore",153.3588369,-27.9769686,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"7 Acacia Ave, Warwick",152.0308204,-28.2172618,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Yangan Rd, Warwick",152.043083,-28.206431,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Wilkinson Rd, Maryvale",152.3708059,-28.110335,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3582 Lamington National Park Rd, Canungra",153.1350625,-28.230948,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"1F Carpark, 2 Hooker Blvd, Broadbeach",153.427307,-28.0353502,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Douglas St, Coolangatta",153.527613,-28.1680633,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"149 W Burleigh Rd, Burleigh Waters",153.440912,-28.097916,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"123 Wharf St, Tweed Heads",153.541284,-28.176745,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"124 Marine Parade, Southport",153.4123095,-27.9601427,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Marine Parade, Coolangatta",153.5364089,-28.1669968,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"22 Pearl St, Kingscliff",153.5749019,-28.2560505,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"453 Tweed Valley Way, South Murwillumbah",153.4003272,-28.3428705,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+QESH Charging Station,"1 Eastern Ave, Bilinga",153.514937,-28.1640437,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"29 Duranbah Rd, Duranbah",153.5221382,-28.2833522,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"128 Bonnydoon Rd, Uki",153.348913,-28.403477,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"399 Wylie Creek Rd, Maryland",152.1040285,-28.5557344,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"90 Station St, Mullumbimby",153.5023961,-28.5548847,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"70 Station St, Mullumbimby",153.5025639,-28.5537016,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"10 Cavvanbah Ln, Byron Bay",153.6036467,-28.6391341,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"The Farm, 11 Ewingsdale Rd, Ewingsdale",153.5538586,-28.6360593,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"16 Banksia Dr, Byron Bay",153.5844379,-28.6341726,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"67 Shirley St, Byron Bay",153.6042333,-28.6404127,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"77/97 Broken Head Rd, Byron Bay",153.6104865,-28.67809209999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"91 Centennial Cct, Byron Bay",153.580333,-28.636833,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"4/31 Lawson St, Byron Bay",153.614974,-28.642241,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Basement Lv1, 108/110 Jonson St, Byron Bay",153.6121538,-28.647363,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Porter St, Byron Bay",153.582541,-28.6316009,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Wrens Ln, Wyberba",151.9198667,-28.8469746,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"311 Stabiles Rd, Glen Aplin",151.8841947,-28.7124544,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2271 Eukey Rd, Ballandean",151.8739415,-28.8066947,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"419 Hinterland Wy, Knockrow",153.534722,-28.749539,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"44 Bangalow Rd, Ballina",153.5616277,-28.8577181,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Cedar Cres, East Ballina",153.588311,-28.8678793,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"5 Snapper Dr, Lennox Head",153.5830169,-28.8073576,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Visitor Information Centre, 157 Rouse St, Tenterfield",152.0186428,-29.05722099999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"157 Manners St, Tenterfield",152.020231,-29.0555,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"120 Rouse St, Tenterfield",152.0175705,-29.0595395,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"84 Robinsons Ln, Tenterfield",152.0130794,-29.0043132,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"103 Sandy Flat Rd, Sandy Flat",152.022288,-29.234137,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"56 Morpeth St, Harwood",153.2391606,-29.42699439999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"132 Pound St, Grafton",152.9334168,-29.6880993,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Roadhouse, Tyndale, 2848 Pacific Hwy, Maclean",153.149407,-29.561181,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"152 Church St, Glen Innes",151.737704,-29.7382695,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Town Hall Carpark, Sommerlad Ln, Glen Innes",151.7362845,-29.7384675,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"27 Fitzroy St, Grafton",152.9378233,-29.6944832,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"48 Main St, Wooli",153.2658954,-29.8694473,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"277 Gorge Rd, Mossman Gorge",145.3492079,-16.4742861,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Yurika Charging Station,"143/145 Port Douglas Rd, Port Douglas",145.4628371,-16.5266908,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"State Route 44, Wangetti",145.564124,-16.6639047,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Pier Point Rd, Cairns City",145.7790504,-16.9205366,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"level p1/35-41 Wharf St, Cairns City",145.7794319,-16.9236248,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"Terminal, Smithfield",145.6956556,-16.8474406,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"17 Abbott St, Cairns City",145.778862,-16.924311,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"295 Sheridan St, Cairns City",145.7599529,-16.9076426,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"537 Mulgrave Rd, Earlville",145.740401,-16.944209,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Market Carpark, Stockland Shopping Centre, Earlville",145.7390482,-16.945477,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Draper Rd, Gordonvale",145.7738103,-17.0867638,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"85-103 Edith St, Innisfail",146.0268049,-17.5234353,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"ANZAC Park, Bruce Hwy, Innisfail",146.0268419,-17.5235462,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Writ Ln, Tully",145.9240163,-17.9348193,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"144 Victoria St, Cardwell",146.0247314,-18.2628451,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Bruce Hwy, Mutarnee",146.2795675,-18.9474924,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Henry Wrigley Dr, Eaton",130.8788,-12.40728,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"11 Kitchener Dr, Darwin City",130.8462434,-12.4666439,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"38 Gardens Rd, Darwin City",130.836662,-12.454912,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"12 Salonika St, The Gardens",130.839948,-12.440516,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"25 Cathedral Ave, Geraldton",114.609591,-28.7745415,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Hadda Way, Geraldton",114.6098745,-28.7918092,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"463 Marine Terrace, Geraldton",114.583121,-28.779778,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"131 Bashford St, Jurien Bay",115.0422434,-30.3029065,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Cadiz St, Cervantes",115.0693075,-30.5005772,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"Wangaree Park, Rock Way, Lancelin",115.3324345,-31.0203885,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Great Eastern Hwy, Boorabbin",120.0227463,-31.2639399,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"6 Duke St N, Toodyay",116.4675924,-31.5509307,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"85 Barrack St, Merredin",118.2786477,-31.482551,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"49 Great Eastern Hwy, Merredin",118.2687925,-31.4828264,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,Joondalup,115.7671354,-31.7426005,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,Alkimos,115.6869081,-31.6204847,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"270 Joondalup Dr, Joondalup",115.7702682,-31.752533,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"832 Wellington St, West Perth",115.8490282,-31.947579,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"200 Karrinyup Rd, Karrinyup",115.7804426,-31.876326,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"659 Murray St, Perth",115.845795,-31.948722,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"The Esplanade, Scarborough",115.7565333,-31.8968211,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+E-Station Charging Station,"1 Whipple St, Balcatta",115.8061925,-31.8625201,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"337 Harborne St, Osborne Park",115.8193595,-31.915619,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"707 N Beach Rd, Gwelup",115.7977097,-31.8763888,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"700 Wellington St, Perth",115.8521241,-31.9483742,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"247 Balcatta Rd, Balcatta",115.8218007,-31.8629042,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"200 Karrinyup Rd, Karrinyup",115.7764513,-31.8772744,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,City Beach,115.756084,-31.92931309999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"610 Hay St, Subiaco",115.8211575,-31.9426986,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"244 Vincent St, Leederville",115.8405501,-31.9371943,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"249-263 Great Eastern Hwy, Belmont",115.9286715,-31.9406176,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"640 Great Northern Hwy, Herne Hill",116.0162988,-31.8373143,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"57 James St, Guildford",115.9763668,-31.8995388,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"124 Lennard St, Herne Hill",116.021721,-31.835684,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1733 Gnangara Rd, Henley Brook",115.9985085,-31.7952864,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"2 Midland Square, Midland",116.0036372,-31.8864028,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Parking lot, 2 Bradford St, Mount Lawley",115.8664006,-31.9195703,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"80 Bulwer St, Perth",115.8679852,-31.9425635,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Circontrol Charging Station,"James St, Bassendean",115.9501801,-31.9036814,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"11 High St, Perth Airport",115.9490207,-31.9399538,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Motion,"1/40 Resource Way, Malaga",115.9101856,-31.8587228,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"29, Brabham",115.969452,-31.82871669999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Gemtek,"1/40 Irvine Dr, Malaga",115.886237,-31.857726,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Maffina Parade, Ellenbrook",115.9862809,-31.7652945,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"816 Beeliar Dr, Success",115.8567843,-32.1310843,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"112 Melville Parade, Como",115.8551502,-31.9909125,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargestar Charging Station,"125 Andrea Ln, Booragoon",115.8348487,-32.0346691,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"22 Junction Blvd, Cockburn Central",115.8569988,-32.1256469,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,Success,115.8538097,-32.1304149,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"9 Coleville Cres, Spearwood",115.784167,-32.1004535,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"122 Gugeri St, Claremont",115.7909307,-31.9728736,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"37-39 Reynolds Rd, Mount Pleasant",115.8431331,-32.0163794,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"112 Melville Parade, Como",115.8551299,-31.9908738,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"54 Terrace Rd, Perth",115.8718739,-31.9613136,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Yellowwood Ave, Harrisdale",115.9276858,-32.1274885,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"139 Kewdale Rd, Kewdale",115.9578743,-31.9818519,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"18 Brodie-Hall Dr, Bentley",115.8927245,-31.99557739999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"69 Jull St, Armadale",116.0191766,-32.1499131,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"20 Settlers Ave, Baldivis",115.8154474,-32.3319963,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"19 Kent St, Rockingham",115.7320591,-32.2762243,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,East Rockingham,115.7677316,-32.2521437,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Southern River Rd, Southern River",115.9641343,-32.1013019,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,Parkwood,115.904454,-32.0396889,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"2 Brodie-Hall Dr, Bentley",115.8902404,-31.99744489999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Thomas Rd and, Kardan Blvd, Byford",115.9786917,-32.2078811,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Corner Ranford Rd and, Tesla Way, Forrestdale",115.9737908,-32.1439788,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Curtin ev charging station,"220 Brand Dr, Bentley",115.8940227,-32.0104829,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"Millars Rd, Jarrahdale",116.0660842,-32.3305928,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"75 Mandurah Terrace, Mandurah",115.7212364,-32.527613,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"Arnold St, Mandurah",115.7417799,-32.5350769,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"330 Pinjarra Rd, Mandurah",115.7422362,-32.5354646,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"52 Mandurah Terrace, Mandurah",115.7203535,-32.5312084,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,North Dandalup,115.9702939,-32.5223284,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"49 Johnston St, Kulin",118.1556226,-32.6700844,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"56 Mitchell Rd, Preston Beach",115.6569809,-32.8819583,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"56 Williams Rd, Narrogin",117.1673589,-32.9360215,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Myalup Beach Rd, Myalup",115.6888426,-33.1031199,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Hayward St, Harvey",115.8967915,-33.0791987,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"101 Albany Hwy, Williams",116.8789229,-33.0251354,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"50 Albany Hwy, Williams",116.8788313,-33.0245034,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"96 Stubbs St, Lake Grace",118.4705141,-33.1010197,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"29 Stubbs St, Lake Grace",118.4623177,-33.1006045,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"31 Symmons St, Bunbury",115.637702,-33.3235243,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"10 The Promenade, Australind",115.7418325,-33.2831877,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"2 Recreation Dr, Eaton",115.7176779,-33.3196361,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Forrest St, Collie",116.1528324,-33.3588741,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"3503 Caves Rd, Wilyabrup",115.0322687,-33.7469802,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"5 Quininup Rd, Yallingup",115.0312446,-33.7212775,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"57 Brash Rd, Yallingup",115.0460461,-33.71678680000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+RAC Electric Highway Charging Station,"38 Dunn Bay Rd, Dunsborough",115.1070107,-33.6158331,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"97 Caves Rd, Abbey",115.2489724,-33.6608458,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+RAC Electric Highway,"880 Geographe Bay Rd, West Busselton",115.3419775,-33.6458155,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"30 Kent St, Busselton",115.3417667,-33.6506791,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"652 Geographe Bay Rd, Broadwater",115.2963878,-33.6571005,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"National Route 1, Donnybrook",115.824444,-33.5747402,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"9 Forrest St, Katanning",117.5587883,-33.686119,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"42 Austral Terrace, Katanning",117.5556637,-33.69142230000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Elston St, Ravensthorpe",120.053985,-33.578512,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"45 Morgans St, Ravensthorpe",120.0443723,-33.5816836,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3 Old Ellen Brook Rd, Gracetown",115.023147,-33.91536,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"13 Wallcliffe Rd, Margaret River",115.070955,-33.9536349,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"49 Town View Terrace, Margaret River",115.0754576,-33.9506534,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"9 Mann St, Margaret River",115.0684364,-33.9505246,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"47 Newstead Rd, Kojonup",117.1651668,-33.8307157,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"143 Albany Hwy, Kojonup",117.1605955,-33.8381493,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"113 Albany Hwy, Kojonup",117.1598078,-33.8341244,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Moorshead St, Jerramungup",118.9209583,-33.94246220000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"279 Hopetoun-Ravensthorpe Rd, Hopetoun",120.135887,-33.918176,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"6 Marmaduke Point Dr, Gnarabup",114.9962554,-33.9948037,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"41 Stevens Rd, Margaret River",115.0533499,-33.9951622,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"44 Station Rd, Margaret River",115.069178,-33.95918,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"16 Phillips St, Bridgetown",116.138321,-33.96422039999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Spencer St, Bridgetown",116.1386089,-33.9590177,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"72 Blackwood Ave, Augusta",115.1588071,-34.3151018,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"9793 Chester Pass Rd, Amelup",118.2158895,-34.2237556,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Vasse Hwy, Beedelup",115.850881,-34.42057339999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Vasse Hwy, Pemberton",116.0356235,-34.444098,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Frantom Way, Bremer Bay",119.382016,-34.398115,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"7 Wheatley Coast Rd, Northcliffe",116.1236954,-34.6309337,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Down Rd, Drome",117.7905118,-34.924136,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"14A Nockolds St, Walpole",116.730739,-34.976839,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Rest Point Rd, Walpole",116.7196508,-34.9872495,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"467 Mount Shadforth Rd, Denmark",117.308439,-34.9628313,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"475 Albany Hwy, Orana",117.8559174,-34.9928606,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"234 Albany Hwy, Albany",117.871299,-35.011156,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"221 York St, Albany",117.8825058,-35.0231916,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"8 Festing St, Albany",117.8790369,-35.0279911,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"12 Frederick St, Albany",117.889646,-35.0273195,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"26 Middleton Rd, Middleton Beach",117.9120269,-35.0224391,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"5 Daw St, Port Augusta West",137.7495903,-32.4804572,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"47 First St, Quorn",138.042843,-32.346086,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Marryatt St, Port August",137.7630253,-32.4889817,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"9/11 (Enter via Whitby St), 9/11 (Enter via Whitby St) Jacka St, Melrose",138.19019,-32.8253769,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"99 Playford Ave, Whyalla",137.5627832,-33.0347594,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"32-34 Alexandra Terrace, Jamestown",138.6065446,-33.1993796,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"94 Ayr St, Jamestown",138.6022734,-33.204727,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"20 Harvey St, Port Broughton",137.931781,-33.599994,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"7 Dominic St, Clare",138.618497,-33.837948,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"74A Main N Rd, Clare",138.6181898,-33.8484977,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"White Hut Rd, Clare",138.614121,-33.821008,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"22 Creek Rd, Arno Bay",136.5729203,-33.9165666,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"11 Heritage Dr, Wallaroo",137.630977,-33.924017,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Pamir Ct, Wallaroo",137.633463,-33.9199783,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"92 Riverboat Rd, Cadell",139.838445,-34.066104,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"22 Dunlop Rd, Sunlands",139.895514,-34.154597,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Strangman Rd, Waikerie",139.9865713,-34.181837,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"4 Peake Terrace, Waikerie",139.985533,-34.1782217,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"160 Murray Ave, Renmark",140.7505821,-34.1726807,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"159 Lizard Park Dr, Maitland",137.632112,-34.4664,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Adelaide Rd, Greenock",138.9208324,-34.4640919,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"4 Crase St, Kapunda",138.916167,-34.340972,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"49 Murray St, Nuriootpa",138.9967614,-34.4701812,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"14-22 Murray St, Nuriootpa",138.995783,-34.47298,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3 Penrice Rd, Nuriootpa",139.0019617,-34.4676936,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3 Tanunda Rd, Nuriootpa",139.0017472,-34.4768937,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Ahern St, Berri",140.6037046,-34.285623,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"2 Lyndoch Rd, Gawler",138.7497865,-34.5965387,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Gawler Council Administration,"41 High St, Gawler East",138.7503098,-34.5974446,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"3 John St, Tanunda",138.9582421,-34.5247319,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"375 Seppeltsfield Rd, Marananga",138.9464577,-34.4877744,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"221 Yaldara Dr, Lyndoch",138.8696305,-34.5762021,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"159 Hermann Thumm Dr, Lyndoch",138.874809,-34.574733,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"55 Long Gully Rd, Angaston",139.0356029,-34.514434,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"662 Flaxmans Valley Rd, Flaxman Valley",139.03455,-34.582048,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"34 Nile St, Port Adelaide",138.5044154,-34.8437674,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+JOLT Charge Charging Station,"Port Rd & Sussex St - Southbound, Queenstown",138.5136873,-34.8608257,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+JOLT Charge Charging Station,"34.856444, 138.510722, Webber St, Queenstown",138.510812,-34.8564622,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+JOLT Charge Charging Station,"809-811 Port Rd, Woodville South",138.538285,-34.8829108,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+JOLT Charge Charging Station,"Port Rd & Sussex St - Southbound, Queenstown",138.515964,-34.8670537,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Esplanade, Largs Bay",138.4863344,-34.8252075,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"314, A10, Klemzig",138.6372155,-34.8709703,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+JOLT Charge Charging Station,"240-244 North East Road, Klemzig",138.6320225,-34.8764148,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+JOLT Charge Charging Station,"Newton Road &, Hambledon Rd, Newton",138.6734387,-34.8791813,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"5 Corio St, Modbury",138.6951479,-34.8311275,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Shannon St, Birdwood",138.954992,-34.819793,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"24 Victoria St, Gumeracha",138.886042,-34.8285475,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Bayview Rd, Point Turton",137.3511,-34.9343,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Jetty Rd, Glenelg",138.5115255,-34.9810625,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+JOLT Charge Charging Station,"672 Marion Rd, Park Holme",138.556694,-34.993222,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+JOLT Charge Charging Station,"Diagonal Rd &, 310 Finniss St, Marion",138.549667,-35.017361,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Andy Thomas Circuit S, Adelaide Airport",138.536369,-34.939172,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"85 Franklin St, Adelaide",138.5952388,-34.9275808,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"284/288 Unley Rd, Hyde Park",138.6076085,-34.9560446,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"109 Franklin St, Adelaide",138.5952969,-34.9277441,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"451 Portrush Rd, Glenside",138.6423305,-34.9413448,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+JOLT Charge Charging Station,"Port Road and South Road (Northbound, West Hindmarsh",138.5680294,-34.9027312,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"150/150 Glen Osmond Rd, Fullarton",138.6260323,-34.947272,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"65 Hindley St, Adelaide",138.5969059,-34.9234891,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"31-34 North Terrace, Adelaide",138.5897576,-34.922671,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"level 1/25-29 Grote St, Adelaide",138.5972443,-34.9298055,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"163/185 Rundle St, Adelaide",138.6065692,-34.922872,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"154 Fullarton Rd, Rose Park",138.6243424,-34.9316447,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"70 Light Square, Adelaide",138.5944377,-34.9255868,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"77 Rundle Mall, Adelaide",138.6025761,-34.9234159,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+JOLT Charge Charging Station,"278-270 Montacute Rd, Rostrevor",138.688898,-34.8877492,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"82 Onkaparinga Valley Rd, Woodside",138.8768205,-34.949495,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"85 Wellington Rd, Mount Barker",138.8688637,-35.0811119,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"5 Druid Ave, Stirling",138.7160653,-35.0055163,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"90 Malpas Rd, McLaren Vale",138.542909,-35.2509798,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"197-203 Old Coach Rd, Aldinga",138.4824585,-35.266984,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"874 Chapel Hill Rd, McLaren Vale",138.5538116,-35.1702266,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"267 Main Rd, McLaren Vale",138.5291678,-35.2101966,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"19 Olivers Rd, McLaren Vale",138.5422705,-35.20765980000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"Stop 23 South Rd - West side, Tonsley",138.5750223,-35.0081287,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"2C Bennet Ave, Melrose Park",138.5756241,-34.9910016,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"20 South Terrace, Strathalbyn",138.8918839,-35.2611609,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"cnr Mary Tce and, Seventh St",139.2771176,-35.1204726,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"2 Seventh St, Murray Bridge",139.2761687,-35.1206657,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Princes Hwy, Tailem Bend",139.440419,-35.24028,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Charles St, Yankalilla",138.350694,-35.457056,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"10 Edwards Ave, Normanville",138.3195417,-35.4466913,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Public Car Park,"Edwards Ave, Normanville",138.3188684,-35.4470616,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Hansen St, Myponga",138.4632872,-35.3914314,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"14 Kent Town Rd, Langhorne Creek",139.025171,-35.294507,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"5 Daranda Terrace, Milang",138.9699856,-35.4095938,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"OTR Motorsport Park, Tailem Bend",139.5014136,-35.30396229999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Snelling Beach North Coast Road Via, 5995 N Coast Rd, Middle River",137.0725824,-35.670319,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"43 Murray St, Kingscote",137.6381341,-35.6556924,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"30 Osmond St, Kingscote",137.6395996,-35.6540249,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"172 Paradise Dr, Wirrina Cove",138.253319,-35.502601,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Grosvenor Gardens, Stuart St, Victor Harbor",138.6219753,-35.5537461,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"&, Coral St & Stuart St, Victor Harbor",138.6219755,-35.5537564,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"George Main Rd, Victor Harbor",138.6122957,-35.5575094,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"McCracken Dr, Victor Harbor",138.634016,-35.534346,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Lot 4 Goolwa Terrace, Goolwa",138.78418,-35.502955,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"LOT 85 Wedgewood Rd, Parndana",137.2637991,-35.7914699,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"85 Wedgewood Rd, Seddon",137.2651118,-35.7845288,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"LOT 105 Arronmore Rd, Cygnet River",137.5233355,-35.7091954,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"106 Borda Rd, Island Beach",137.8039285,-35.7979193,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"12 Middle Terrace, Penneshaw",137.9385136,-35.7182974,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Cnr Ross, 39 Memorial Ave, Keith",140.3494309,-36.0933214,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"14 Dukes Hwy, Keith",140.3616064,-36.1049489,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"Heritage St, Keith",140.3556544,-36.0989723,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"10/26 Palmer St, South Townsville",146.8209028,-19.2600766,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Puma Cluden, 38011 Bruce Hwy, Cluden",146.828213,-19.319503,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"166-194 Woolcock St, Currajong",146.7858936,-19.271341,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+ChargePoint Charging Station,"The Strand, North Ward",146.8091631,-19.2438666,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"4 James Cook Dr, Douglas",146.7584255,-19.3233212,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+SuperGreen Solutions,"161 Ingham Rd, West End",146.7909888,-19.2669449,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"133 Edwards St, Ayr",147.4054242,-19.5739324,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+QESH Charging Station,Bowen,148.2485209,-20.0168173,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"13/17 Dobbins Ln, Proserpine",148.5816943,-20.4024881,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"25 Ocean View Ave, Airlie Beach",148.715945,-20.263893,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"23 Oak St, Andergrove",149.1847807,-21.0975578,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2C E, 2 C E Gordon St, East Mackay",149.2024985,-21.1478523,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"3 Gregory St, Mackay",149.1850619,-21.139263,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"07/37 Connors Rd, Paget",149.1617894,-21.1718366,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"8 Music St, Carmila",149.4105295,-21.9085731,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"71209 Kunwarara Rd, Marlborough",149.9325535,-22.8279028,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"28 Albert St, Rockhampton",150.5031325,-23.3743853,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"RRC, 189 Alma St, Rockhampton",150.5132633,-23.3820539,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"car park beside old Bulletin building, 164 Quay St, Rockhampton",150.5134375,-23.3763906,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"120 - 331 Yaamba Rd, North Rockhampton",150.5215822,-23.356229,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"984 Yaamba Rd, Parkhurst",150.5117632,-23.2884516,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Raglan St, Mount Larcom",150.9800664,-23.8108582,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Yurika Charging Station,Mount Larcom,150.9801252,-23.8109937,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"195 Philip St, West Gladstone",151.2414395,-23.8694687,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"13 Webster Ct, Agnes Water",151.9079274,-24.2147389,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"253 Pacific Hwy, Coffs Harbour",153.131666,-30.281439,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"380 Pacific Hwy, North Boambee Valley",153.0898181,-30.3177456,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"30-36 Camperdown St, Coffs Harbour",153.137202,-30.306104,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"111 Park Beach Rd, Coffs Harbour",153.1365548,-30.2858962,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Visitor's Information Centre, 82 Marsh St, Armidale",151.669408,-30.51181159999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"31 Marsh St, Armidale",151.6720672,-30.5060548,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"66 Glen Innes Rd, Armidale",151.6696528,-30.4951125,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Caltex, 22 Cooper St, Macksville",152.91979,-30.71021,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"24 Princess St, Macksville",152.9188948,-30.7085518,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2191 Giinagay Way, Nambucca Heads",152.986996,-30.654316,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"179 Gordon St, Port Macquarie",152.897942,-31.435,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"10 Winery Dr, Port Macquarie",152.8236306,-31.4361203,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"528 John Oxley Dr, Thrumster",152.8274162,-31.4580989,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Murray St, Port Macquarie",152.9109691,-31.42829519999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"20 Park St, Port Macquarie",152.8975119,-31.4274017,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"15 Mort St, Port Macquarie",152.8969974,-31.4312126,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"152 Settlement Point Rd, Port Macquarie",152.9010879,-31.406964,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1063 Oxley Hwy, Thrumster",152.8219262,-31.4639505,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"85/91 Commissioner St, Cooma",149.1267632,-36.2355364,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Yulin Ave, Cooma",149.1332249,-36.2192833,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"5 Tilba St, Narooma",150.13339,-36.21966099999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"185 Princes Hwy, Narooma",150.1283473,-36.2230996,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"52 Princes Hwy, Bodalla",150.0494256,-36.0865048,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"9914 Kosciuszko Rd, Perisher Valley",148.4124187,-36.405881,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Corner of Snowy River Avenue and, Kalkite St, Jindabyne",148.6197808,-36.4160735,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"16 Nettin Cct, Jindabyne",148.6076095,-36.4173144,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 West St, Bermagui",150.063471,-36.4259119,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Mowamba Pl, Thredbo",148.304697,-36.50483,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"3 Crackenback Dr, Thredbo",148.298857,-36.506169,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1650 Alpine Way, Crackenback",148.4515589,-36.4459905,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"81 Gipps St, Bega",149.8431415,-36.6732705,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Great Alpine Rd, Mt Hotham",147.1535058,-36.9935401,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"169 Great Alpine Rd, Harrietville",147.0650076,-36.8882638,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Slalom St, Falls Creek",147.2772431,-36.8616135,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"12 Big Muster Dr, Dinner Plain",147.2405442,-37.0226507,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Pambula Beach Rd, Pambula Beach",149.9074361,-36.9408856,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Market St, Merimbula",149.908982,-36.8926433,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"261 Gipsy Point Rd, Gipsy Point",149.6818879,-37.478211,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Nicholson St, Bairnsdale",147.6336897,-37.8245984,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"35 Payne St, Bairnsdale",147.6066009,-37.8337531,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"355 Main St, Bairnsdale",147.61603,-37.82960000000001,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"19 Argyle Parade, Marlo",148.5304626,-37.7966978,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"64 Kurnai Ave, Metung",147.8541468,-37.8919669,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"321 Esplanade, Lakes Entrance",147.9849127,-37.8811709,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"Canal Rd, Port of Sale",147.0634241,-38.1121035,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"90 MacAlister St, Sale",147.0677737,-38.1096457,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"474 Raymond St, Sale",147.065422,-38.10178399999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,Nhill,141.6497436,-36.3328799,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"75 Beeamma-Parsons Rd, Padthaway",140.5029293,-36.5997174,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"126 Baillie St, Horsham",142.2020619,-36.7112377,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"118 Baillie St, Horsham",142.203015,-36.711207,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"36 Darlot St, Horsham",142.196501,-36.715834,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"459 Limestone Coast Rd, Mount Benson",139.7574759,-36.9690738,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"40-44 Victoria St, Robe",139.7617411,-37.1657615,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Victoria St, Robe",139.7581456,-37.1633538,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"11 Racecourse Rd, Penola",140.8429093,-37.3548826,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"98 Parker St, Dunkeld",142.3403358,-37.6489045,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"96 Jubilee Hwy E, Mount Gambier",140.7945798,-37.8323242,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"The Commodore, Jubilee Hwy E, Mount Gambier",140.7839574,-37.8231574,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"17 Lake Terrace W, Mount Gambier",140.7686,-37.8362,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"66 Julia St, Portland",141.602287,-38.348253,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"56 Sackville St, Port Fairy",142.2367563,-38.3841297,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"165 Liebig St, Warrnambool",142.4849182,-38.3821059,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Worm Bay Rd, Warrnambool",142.4732774,-38.3969538,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"14 King St, Warrnambool",142.4813985,-38.3757499,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"21-23 Gateway Rd, Warrnambool",142.5191773,-38.381142,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"430 Hannan St, Kalgoorlie",121.466985,-30.752057,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"577 Hannan St, Kalgoorlie",121.4553226,-30.7642298,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Smith St, West Beach",121.8922502,-33.8714671,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"143 Sims St, Esperance",121.8832975,-33.8440003,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"32 The Esplanade, Esperance",121.8956246,-33.859061,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"Goldfields Rd, Castletown",121.9017562,-33.8448715,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Yaringa Ave, Tumby Bay",136.105306,-34.386844,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"28 London St, Port Lincoln",135.869564,-34.724821,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"24 Lincoln Hwy, Port Lincoln",135.8532789,-34.715192,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"18 Tramway Terrace, Broken Hill",141.445383,-31.960247,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"51 Bromide St, Broken Hill",141.4599722,-31.95998639999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"100 Orange Ave, Mildura",142.162872,-34.1887274,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"120 Eighth St, Mildura",142.1636629,-34.1857146,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"42 George St, Robinvale",142.774566,-34.584654,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"89 Market St, Balranald",143.5647023,-34.6395331,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"406 Moppett St, Hay",144.8428638,-34.5087824,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"31 Twynam St, Narrandera",146.5501999,-34.7465165,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"11 Oke St, Ouyen",142.3153681,-35.0710658,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"135 Curlewis St, Swan Hill",143.5617643,-35.3409876,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"33 Powell St, Jerilderie",145.7278158,-35.3558361,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"93 Railway Ave, Sea Lake",142.8542779,-35.5118086,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Evie Charging Station,"111 Best St, Sea Lake",142.851724,-35.50412,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"2 Ween St, Peak Hill",148.190814,-32.721249,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Carpark of Parkes Swimming Pool, 27-29 Dalton St, Parkes",148.1726235,-33.1372098,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"14 Cross St, Forbes",148.010084,-33.383476,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"13-15 Shire St, West Wyalong",147.2036694,-33.923758,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Box St, Barcaldine",145.284118,-23.552782,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"12 Hospital Rd, Emerald",148.1581579,-23.522791,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"44778 Warrego Hwy, Roma",148.807733,-26.575267,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"70 Bathurst St, Brewarrina",146.8576742,-29.96079469999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Neilly St, Walgett",148.1177478,-30.020713,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Skillmans Ln, Coonamble",148.387905,-30.9527772,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Kepreotes Carpark, 73 Little Barber St, Gunnedah",150.250986,-30.9781306,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"342 Conadilly St, Gunnedah",150.257659,-30.980048,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"Visitor’s Centre, Newell Hwy, Coonabarabran",149.2791598,-31.27869549999999,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+NRMA Charging Station,"2 Kable Ave, Tamworth",150.9274788,-31.0904343,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Supercharger,"58 Phillip St, West Tamworth",150.917126,-31.101649,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"248 Armidale Rd, Tamworth",150.940591,-31.098492,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Olivia Terrace, Carnarvon",113.6550701,-24.884132,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"34 David Brand Dr, Brockman",113.6530501,-24.8801725,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Monkey Mia Rd, Monkey Mia",113.7175314,-25.7940324,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Lot 3 N W Coastal Hwy, Meadow",114.614277,-26.8172989,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"72 Grey St, Kalbarri",114.166323,-27.7089329,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Lot 1090 De Witt Rd, Karratha",116.8485293,-20.7522212,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Cable Beach Rd E, Broome",122.2128879,-17.9285731,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"McDaniel Rd, Minyirr",122.2047402,-17.9825923,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"1 Hamersley St, Broome",122.2412406,-17.9535534,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Chargefox Charging Station,"8 Short St, Broome",122.2434468,-17.9525009,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"323 Great Northern Hwy, Broome",122.082736,-18.33008,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"93 Barrett Dr, Alice Springs",133.8774259,-23.7189634,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"65 Bath St, Alice Springs",133.879082,-23.701045,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Electric Vehicle Charging Station,"28 Railway Terrace, Alice Springs",133.8787629,-23.6976058,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+OutbackEV,"28 Railway Terrace, Alice Springs",133.878552,-23.6982978,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"1 Hutchison St, Coober Pedy",134.7543206,-29.0106166,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"Lot 1603 Hutchison St, Coober Pedy",134.7585,-29.02227,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022
+Tesla Destination Charger,"66/76 McKenzie St, Ceduna",133.6846947,-32.1229775,,,,,,0,,0,0,0,0,0,0,0,0,0,0,,Google_API,22/08/2022

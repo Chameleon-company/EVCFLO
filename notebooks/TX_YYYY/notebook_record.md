@@ -16,7 +16,7 @@ By tracking new notebooks in this document, we can keep a record of the notebook
 
 Thank you for contributing to our notebook library! If you have any questions or suggestions for improvement, please open an issue in this repository. (or refer to readme.md)
 
-**Acknowledgement - The readme file borrowed the template of readme file contributed by Jamie Davidson
+\*\*Acknowledgement - The readme file borrowed the template of readme file contributed by Jamie Davidson
 
 Please fill out this information and add it to the end of the document:
 
@@ -49,4 +49,3 @@ Notebook Dataset:
 Notebook Description:
 
 Contributor:
-

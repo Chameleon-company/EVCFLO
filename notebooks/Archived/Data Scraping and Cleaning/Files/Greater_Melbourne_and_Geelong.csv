@@ -1,0 +1,251 @@
+name,address,longitude,latitude,description,parking,pricing,contact,networks,total_plugs,renewable_power_supply,Plugs_CCS_SAE,Plugs_CHAdeMO,Plugs_Caravan_Mains_Socket,Plugs_J1772,Plugs_Tesla,Plugs_Three_Phase,Plugs_Commando,Plugs_Type2,Plugs_Wall_AU_NZ,Plugs_Other,power_outputs_kw,source,source_date
+Geelong Supercharger,"470-510 Princes Hwy, Geelong, VIC, Australia, 3214",144.382451,-38.065192,,,,61280152834,['Supercharger'],6,,0,0,0,0,6,0,,0,0,,[250.0],PlugShare_Scrape,20/08/2022
+Penguin Parade Visitor's Centre,"995 Ventnor Road Summerlands VIC 3922, Australia",145.148488,-38.505496,,,,,['Non-networked'],2,,1,1,0,0,0,0,,0,0,,[25.0],PlugShare_Scrape,20/08/2022
+Mornington Supercharger,"75 Mornington-Tyabb Rd, Mornington VIC 3931, Australia",145.051085,-38.234305,,,,61280152834,['Supercharger'],6,,0,0,0,0,6,0,,0,0,,[250.0],PlugShare_Scrape,20/08/2022
+Kingston Village Square (DC Fast Charger),"Kingston Village Square, Grubb Rd, Ocean Grove VIC 3226, Australia",144.540122,-38.246677,,,,1300518038,['Chargefox'],4,,1,1,0,0,0,0,,2,0,,"[50.0, 'unknown']",PlugShare_Scrape,20/08/2022
+BIG4 Phillip Island Caravan Park,"24 Old Bridge Drive, Newhaven VIC 3925, Australia",145.35646,-38.516829,,,,0359567227,['Non-networked'],2,,0,0,1,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Sorrento Community Centre,"860 Melbourne Rd, Sorrento VIC 3943, Australia",144.737043,-38.33856,,,,,['Evie Networks'],8,,4,4,0,0,0,0,,0,0,,[50.065],PlugShare_Scrape,20/08/2022
+CTR Whittlesea,"74A Church St, Whittlesea VIC 3757, Australia",145.118412,-37.51059,,,,611300463843,['Evie Networks'],4,,2,2,0,0,0,0,,0,0,,[50.065],PlugShare_Scrape,20/08/2022
+Rye & Sorrento Camping,"1380 Point Nepean Rd Portsea VIC 3944, Australia",144.718201,-38.320637,,,,1300850600,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+McDonald’s Melton South,"179-253 Exford Rd, Weir Views VIC 3338, Australia",144.572251,-37.722801,,,,1300463843,['Evie Networks'],8,,4,4,0,0,0,0,,0,0,,[50.0],PlugShare_Scrape,20/08/2022
+RACV Torquay Resort,"1 Great Ocean Road, Jan Juc, Victoria, Australia, VIC 3228",144.310815,-38.34035,,,,61352611600,"['Tesla Destination', 'Chargefox', 'Non-networked']",11,,4,4,0,1,2,0,,0,0,,"[350.0, 50.0, 'unknown', 6.0]",PlugShare_Scrape,20/08/2022
+Leisurelink Aquatic & Recreation Centre (Coming Soon),"240 Pioneer Rd, Waurn Ponds VIC 3216, Australia",144.321073,-38.197536,,,,,['Non-networked'],4,,2,2,0,0,0,0,,0,0,,[50.0],PlugShare_Scrape,20/08/2022
+Club Trillium (gym/pool) carpark,"Trillium Boulevard, Mickleham VIC 3064, Australia",144.893834,-37.565285,,,,1300300885,['Non-networked'],1,,0,0,0,1,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Chelsea Swansea Road Car Park,"1 Swansea Rd, Chelsea 3196, Australia",145.115952,-38.054795,,,,1300463843,['Evie Networks'],8,,4,4,0,0,0,0,,0,0,,[50.065],PlugShare_Scrape,20/08/2022
+Ampol Dandenong Stud Road,"Corner Stud And, Heatherton Rd, Dandenong VIC 3175, Australia",145.223814,-37.97134,,,,,['Evie Networks'],8,,4,4,0,0,0,0,,0,0,,[350.0],PlugShare_Scrape,20/08/2022
+Uni Hill Town Centre,"Shop 17/5 Janefield Dr, Bundoora VIC 3083, Australia",145.071032,-37.683069,,,,,['Evie Networks'],8,,4,4,0,0,0,0,,0,0,,[50.0],PlugShare_Scrape,20/08/2022
+De Bortoli Wines Dixons Creek,"58 Pinnacle Ln, Dixons Creek VIC 3775, Australia",145.412205,-37.596809,,,,,"['Tesla Destination', 'Non-networked']",4,,0,0,0,0,2,0,,1,1,,"['unknown', 22.0]",PlugShare_Scrape,20/08/2022
+Bollygum Park,"Bollygum Park, 40 Whittlesea-Kinglake Rd, Kinglake VIC 3763, Australia",145.339116,-37.529366,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Moonee Ponds Supercharger,"665 Mt Alexander Rd, Moonee Ponds VIC 3039, Australia",144.923586,-37.765834,,,,,['Supercharger'],6,,0,0,0,0,6,0,,0,0,,[120.0],PlugShare_Scrape,20/08/2022
+Sundowner Rockbank Caravan Park,"Rockbank VIC 3335, Australia",144.659873,-37.730067,,,,03 9747 1340,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Red Rooster Vermont,"401 Canterbury Rd, Vermont 3134, Australia",145.213897,-37.83192,,,,,['Evie Networks'],4,,2,2,0,0,0,0,,0,0,,[50.065],PlugShare_Scrape,20/08/2022
+Queenscliff Brewhouse,"2 Gellibrand St, Queenscliff, Australia, VIC 3225",144.663211,-38.265713,,,,,['Non-networked'],1,,0,0,0,0,1,0,,0,0,,[7.0],PlugShare_Scrape,20/08/2022
+Westfield Airport West,"29-35 Louis St, Airport West VIC 3042, Australia",144.885527,-37.713651,,,,1300518038,['Chargefox'],8,,6,2,0,0,0,0,,0,0,,"[50.0, 350.0]",PlugShare_Scrape,20/08/2022
+Shell Taylors Lakes,"Coles Express 410 Melton Highway, Taylors Lakes VIC 3038, Australia",144.78212,-37.69657,,,,1300463843,['Evie Networks'],8,,4,4,0,0,0,0,,0,0,,[350.0],PlugShare_Scrape,20/08/2022
+Tooradin Airfield / Wings & Fins Seafood Restaurant,"3260 S Gippsland Hwy, Tooradin VIC 3980, Australia",145.422459,-38.214809,,,,,['Tesla Destination'],1,,0,0,0,0,1,0,,0,0,,[5.0],PlugShare_Scrape,20/08/2022
+Woodman Estate,"136 Graydens Road Moorooduc VIC 3933, Australia",145.125377,-38.282256,,,,59788455,['EVUp'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Middy’s Port Melbourne,"2 Thackray Rd, Port Melbourne VIC 3207, Australia",144.925718,-37.828073,,,,,['Chargefox'],2,,1,1,0,0,0,0,,0,0,,[25.0],PlugShare_Scrape,20/08/2022
+BIG4 Mornington Peninsula Holiday Park,"2 Robinsons Rd, Frankston VIC 3199, Australia",145.141541,-38.174557,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Club Delaray,"20 Alphey Road, Clyde North VIC 3978, Australia",145.336394,-38.110037,,,,,['EVUp'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Wanzl / Rectifier Technologies,"97 Highbury Rd, Burwood VIC 3125, Australia",145.104433,-37.85402,,,,1300518038,['Chargefox'],1,,1,0,0,0,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Camberwell Supercharger,"793 Burke Road , Camberwell, VIC, Australia, 3124",145.05643,-37.828606,,,,,['Supercharger'],6,,0,0,0,0,6,0,,0,0,,[120.0],PlugShare_Scrape,20/08/2022
+Melbourne Richmond Supercharger,"650 Church St, Cremorne VIC 3121, Australia",144.995807,-37.831997,,,,,['Supercharger'],4,,0,0,0,0,4,0,,0,0,,[120.0],PlugShare_Scrape,20/08/2022
+BP Northpoint,"1 Scanlon Drive, Epping VIC 3076, Australia",144.994195,-37.648097,,,,,['Evie Networks'],8,,4,4,0,0,0,0,,0,0,,[350.0],PlugShare_Scrape,20/08/2022
+Stockland Point Cook,"Main St & Murnong St, Point Cook VIC 3030, Australia",144.736465,-37.884254,,,,,['ChargePoint'],1,,0,0,0,1,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Clifftop Accommodation Phillip Island,"1 Marlin Street, Smiths Beach, VIC 3922",145.259653,-38.504564,,,,,['Non-networked'],2,,0,0,0,0,2,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Stony point caravan park,"5 Stony Point Road, Crib Point VIC 3919, Australia",145.221478,-38.374257,,,,03 5983 9242,['Non-networked'],4,,0,0,0,0,0,0,,0,4,,['unknown'],PlugShare_Scrape,20/08/2022
+Belgrave Heights Convention Centre,"23 Lockwood Rd, Belgrave Heights VIC 3160, Australia",145.348486,-37.923605,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Corsair Solutions,"370 Darebin Rd, Alphington VIC 3078, Australia",145.03066,-37.767107,,,,,['Chargefox'],2,,2,0,0,0,0,0,,0,0,,[80.0],PlugShare_Scrape,20/08/2022
+Monash University Caulfield Car Park,"880 Princes Hwy Service Rd, Caulfield East VIC 3145, Australia",145.043688,-37.876073,,,,1300 518 038,"['Chargefox', 'Non-networked']",3,,1,1,0,0,0,0,,0,1,,"[50.0, 'unknown']",PlugShare_Scrape,20/08/2022
+Stud Park Shopping Centre,"Corner Stud & Fullham Rd, Rowville 3178, Australia",145.237553,-37.9214,,,,,['Evie Networks'],8,,4,4,0,0,0,0,,0,0,,[50.065],PlugShare_Scrape,20/08/2022
+Swinburne University - TC Building,"20 William St, Hawthorn VIC 3122, Australia",145.039887,-37.820819,,,,6139214800,['ChargePoint'],2,,1,1,0,0,0,0,,0,0,,[50.0],PlugShare_Scrape,20/08/2022
+Paradigm Hill Winery,"26 Merricks Road Merricks VIC 3916, Australia",145.071771,-38.385929,,,,0359899000,['Tesla Destination'],1,,0,0,0,0,1,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+AWM Greentech Geelong,"252-256 Portarlington Rd, Moolap, Victoria 3224",144.411376,-38.163929,,,,0352216222,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Greenvale Woolworths,"200 James Mirams Dr, Roxburgh Park VIC 3064, Australia",144.914873,-37.616294,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+King Henry Arts Cafe,"320 Mount Dandenong Tourist Rd Sassafras VIC 3787, Australia",145.351181,-37.868948,,,,0397552346,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Brunswick EV Hub,"15 Edward St, Brunswick VIC 3056, Australia",144.961886,-37.773851,,,,1300518038,['Chargefox'],6,,2,2,0,0,0,0,,2,0,,"[50.0, 'unknown']",PlugShare_Scrape,20/08/2022
+Huberts Estate,"10 St Huberts Rd, Coldstream VIC 3770, Australia",145.415698,-37.697017,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Botanic Ridge Village,"10 Hummingbird Dr, Botanic Ridge VIC 3977, Australia",145.290458,-38.150115,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+EVolution HQ,"Unit 32, 231 Osborne Avenue, Clayton South VIC 3169, Australia",145.11844,-37.942988,,,,,['EVUp'],4,,1,1,0,0,0,0,,2,0,,"[20.0, 22.0]",PlugShare_Scrape,20/08/2022
+dingley reserve ,"Dingley Reserve, Dingley Village VIC 3172, Australia",145.137319,-37.984056,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Woolworths Heidelberg,"451 Lower Heidelberg Rd, Heidelberg VIC 3084, Australia",145.068632,-37.758997,,,,,['Chargefox'],16,,0,0,0,0,0,0,,16,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Silverwater Resorts Phillip Island,"17 Potters HIll Rd, Phillip Island, , Australia, VIC 3925",145.392082,-38.522528,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Bayside City Council,"76 Royal Ave, Sandringham VIC 3191, Australia",145.017704,-37.959394,,,,,['Chargefox'],2,,1,1,0,0,0,0,,0,0,,[50.0],PlugShare_Scrape,20/08/2022
+Cranbourne Home (Out Of Service),"2 Lesdon Ave, Cranbourne VIC 3977, Australia",145.279599,-38.087041,,,,,['EVUp'],2,,0,0,0,0,0,0,,2,0,,[22.0],PlugShare_Scrape,20/08/2022
+Porsche Centre Brighton,"855 Nepean Hwy, Bentleigh VIC 3204, Australia",145.027893,-37.925691,,,,,['Non-networked'],1,,0,1,0,0,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Knox Civic Centre,"511 Burwood Hwy, Wantirna South VIC 3152, Australia",145.245056,-37.871723,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Bunnings Sunshine,"Bunnings Warehouse Sunshine, 480 Ballarat Rd, Sunshine North VIC 3020, Australia",144.83008,-37.776275,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Eltham Leisure Centre,"40 Brougham St, Eltham VIC 3095, Australia",145.142426,-37.722925,,,,,['Chargefox'],4,,0,0,0,0,0,0,,4,0,,[7.0],PlugShare_Scrape,20/08/2022
+Altona Gate Shopping Centre,"124-134 Millers Rd, Altona North VIC 3025, Australia",144.848241,-37.827587,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Berwick Nissan,"6-10 Kangan Dr, Berwick VIC 3806",145.343384,-38.040047,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Ten Minutes by Tractor,"1333 Mornington-Flinders Rd, Main Ridge VIC 3928, Australia",144.994231,-38.394641,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Eldridge Estate Winery,"120 Arthurs Seat Road, Red Hill VIC 3937, Australia",145.018678,-38.372182,,,,,"['Tesla Destination', 'EVUp']",2,,0,0,0,0,1,0,,1,0,,"['unknown', 22.0]",PlugShare_Scrape,20/08/2022
+Lakeside Villas at Crittenden Estate,"25 Harrisons Rd, Dromana VIC 3936, Australia",145.018981,-38.335276,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Armstrong Creek East Community Hub,"46-70 Central Boulevard, Armstrong Creek VIC 3217, Australia",144.368965,-38.231922,,,,,['Chargefox'],6,,0,0,0,0,0,0,,6,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Coles - Cobblebank Village,"211 Ferris Rd, Melton South VIC 3338, Australia",144.601847,-37.713815,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Sorrento Hotel,"1 Esplanade, Sorrento VIC 3943, Australia",144.743447,-38.338316,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Nelson Place Parking/Charging,"Commonwealth Reserve, Williamstown VIC 3016, Australia",144.904614,-37.863107,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Atura Hotel Dandenong,"5-17 Doveton Avenue, Eumemmerring, Victoria, Australia, VIC 3177",145.250432,-38.002297,,,,,['Tesla Destination'],1,,0,0,0,0,1,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Common Ground Project,"675 Anglesea Rd, Freshwater Creek VIC 3217, Australia",144.276227,-38.259646,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Melbourne Airport - Qantas Valet Parking,"15-25 Francis Briggs Road, Tullamarine, , Australia, VIC 3045",144.851581,-37.669133,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Cobblebank Stadium,"Astley Dr, Bridge Rd, Strathtulloh VIC 3338, Australia",144.599558,-37.716016,,,,,['Chargefox'],2,,1,1,0,0,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Laverton Community Hub,"Cohealth Clinic, Laverton Community Hub Corner Donald St &, Railway Ave, Laverton VIC 3028, Australia",144.76925,-37.865302,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Ampol Foodary Altona North (Coming Soon),"1 Horsburgh Drive, Altona North, VIC, 3025, Australia",144.809201,-37.84667,,,,,['AMPCharge'],4,,2,2,0,0,0,0,,0,0,,[150.0],PlugShare_Scrape,20/08/2022
+Hobsons Bay Civic Centre,"115 Civic Parade, Altona VIC 3018, Australia",144.831492,-37.863399,,,,,['Chargefox'],2,,1,1,0,0,0,0,,0,0,,[50.0],PlugShare_Scrape,20/08/2022
+Brimbank Shopping Centre,"Brimbank Central Shopping Centre shop 81t, 28-72 Neale Rd, Deer Park VIC 3023, Australia",144.775257,-37.751827,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Cranbourne West Community Hub (Coming Soon),"75 Evans Rd, Cranbourne West VIC 3977, Australia",145.250522,-38.106929,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Monash University Clayton - Car Park N1,"10 Research Way, Clayton VIC 3168, Australia",145.131936,-37.908137,,,,,['Chargefox'],4,,1,1,0,0,0,0,,2,0,,"[50.0, 22.0]",PlugShare_Scrape,20/08/2022
+Oak Park Sports & Aquatic Centre,"Oak Park Reserve, 563 Pascoe Vale Rd, Oak Park VIC 3046, Australia",144.920974,-37.723715,,,,,['Chargefox'],3,,0,0,0,1,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Baptcare Strathalan,"2-34 Erskine Rd, Macleod VIC 3085, Australia",145.077998,-37.728819,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Leopold Library,"31 Kensington Rd, Leopold VIC 3224",144.46436,-38.186249,,,,,['Chargefox'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Coburg Town Hall / Moreland City,"90 Bell St, Coburg VIC 3058, Australia",144.970149,-37.74111,,,,,['Chargefox'],3,,1,1,0,0,0,0,,1,0,,"[50.0, 'unknown']",PlugShare_Scrape,20/08/2022
+Amberlee Holiday Homes & Accommodation,"306 Jetty Rd, Rosebud VIC 3939, Australia",144.912544,-38.380923,,,,,"['Tesla Destination', 'EVUp']",3,,0,0,0,0,2,0,,1,0,,"['unknown', 22.0]",PlugShare_Scrape,20/08/2022
+RACV Solar,"Units 5 & 6, 8 Lewalan St, Grovedale VIC 3216, Australia",144.344603,-38.197552,,,,,['Chargefox'],1,,0,0,0,0,0,0,,1,0,,[22.0],PlugShare_Scrape,20/08/2022
+Solargain Hastings,"2161 Frankston - Flinders Rd, Hastings VIC 3915, Australia",145.184157,-38.314125,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Burwood Brickworks,"70 Middleborough Road, Burwood East VIC 3151, Australia",145.133898,-37.848953,,,,,['Chargefox'],4,,0,0,0,0,0,0,,4,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Hungry Jack’s Sunbury,"27 Gap Rd, Sunbury VIC 3429, Australia",144.724278,-37.580985,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+AAkonsult,"2/209 Hyde St, Yarraville VIC 3013",144.896722,-37.818982,,,,,['Non-networked'],1,,0,0,0,0,1,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Hyatt Place Caribbean Park (Coming Soon),"38 Dalmore Dr, Scoresby VIC 3179, Australia",145.216905,-37.915767,,,,,['Chargebay'],3,,1,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Tarneit Park Hub (BYO Type 2),"83 Leakes Rd, Tarneit VIC 3029, Australia",144.69899,-37.833989,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Malvern Central (Coming Soon),"K10, Malvern Central Shopping Centre, 110-122 Wattletree Rd, Armadale VIC 3143, Australia",145.027303,-37.862909,,,,,['Non-networked'],1,,1,0,0,0,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+BM Autowerks,"28-34 Westminster Street, Oakleigh‎ VIC‎ 3166, Australia",145.095351,-37.90326,,,,,['EVUp'],1,,0,0,0,1,0,0,,0,0,,[7.6],PlugShare_Scrape,20/08/2022
+Ramada Resort by Wyndham Phillip Island,"2128 Phillip Island Road, Cowes, VIC, Australia, VIC 3922",145.242237,-38.471698,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[5.0],PlugShare_Scrape,20/08/2022
+Cowes Transit Centre,"83 Thompson Ave, Cowes VIC 3922, Australia",145.240243,-38.451339,,,,,"['Tesla Destination', 'EVUp']",4,,0,0,0,1,2,0,,1,0,,"['unknown', 7.0]",PlugShare_Scrape,20/08/2022
+Harrow Street Car Park,"3 John St, Box Hill VIC 3128, Australia",145.124448,-37.821964,,,,,['Chargefox'],5,,0,0,0,0,0,0,,5,0,,['unknown'],PlugShare_Scrape,20/08/2022
+RACV Head Office (Service Centre Car Park),"Browns Road, Noble Park North‎ VIC‎ 3174, Australia",145.180067,-37.952893,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Hart's Farm,"Gate 2, 300 Tucks Rd, Shoreham, VIC, Australia, VIC 3916",145.0067,-38.4092,,,,,['Tesla Destination'],1,,0,0,0,0,1,0,,0,0,,[2.0],PlugShare_Scrape,20/08/2022
+Darebin Civic Centre Precinct,"274 Gower Street, Preston VIC 3072, Australia",145.005114,-37.740102,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Nepean Country Club And & Day Spa,"205 Browns Rd, Boneo VIC 3939, Australia",144.870509,-38.398895,,,,,['Non-networked'],3,,0,0,0,1,0,1,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Oakleigh South,"23-25 Bunney Road, Oakleigh South VIC 3167, Australia",145.097119,-37.932688,,,,,['EVUp'],1,,0,0,0,0,0,0,,1,0,,[7.0],PlugShare_Scrape,20/08/2022
+Quest Burwood East,"317 Burwood Hwy, Burwood East VIC 3151, Australia",145.162436,-37.853643,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Forest Hill Chase Shopping Centre,"270 Canterbury Rd, Forest Hill VIC 3131, Australia",145.163537,-37.835382,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+CB Smith Reserve,99 Jukes Road Fawkner VIC 3060 AU,144.969502,-37.702614,,,,,['Chargefox'],2,,1,1,0,0,0,0,,0,0,,[25.0],PlugShare_Scrape,20/08/2022
+Coburg North EV Fast Charge (Currently Out of Order),"11 Boundary Rd, Coburg North VIC 3058, Australia",144.961498,-37.718952,,,,,['Chargefox'],2,,1,1,0,0,0,0,,0,0,,[50.0],PlugShare_Scrape,20/08/2022
+Energy Smart Water,"11 Dalkeith Drive, Dromana VIC 3936, Australia",144.98653,-38.334999,,,,,['EVUp'],1,,0,0,0,1,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+hacyclon caravan park ,"106 Marine Drive, Safety Beach VIC 3936, Australia",144.988947,-38.317144,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+The Glen,"235 Springvale Road, Glen Waverley VIC 3150, Australia",145.16523,-37.875269,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Donato Cafe,"88 Craigie Rd, Mount Martha VIC 3934, Australia",145.037439,-38.256559,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[5.0],PlugShare_Scrape,20/08/2022
+Bru4U Geelong,"4/100 Barwon Terrace, South Geelong VIC 3220, Australia",144.367288,-38.172122,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Park Rises Residences,"72 Altona Street, Kensington VIC 3031",144.926387,-37.797009,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Paint Spot Niddrie,"1 Elstone Ct, Niddrie VIC 3042, Australia",144.887807,-37.735219,,,,,['Non-networked'],1,,0,0,0,0,0,1,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+(No Longer In Use) DHL Melbourne Gateway,"4 mace Wy, Melbourne Airport VIC 3045, Australia",144.863519,-37.684086,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Bayside Entertainment Centre,"28 Beach St, Frankston VIC 3199, Australia",145.125184,-38.140408,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,[7.0],PlugShare_Scrape,20/08/2022
+Diamond Valley Sports and Fitness Centre,"44 Civic Dr, Greensborough VIC 3088, Australia",145.110764,-37.689194,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Waverley Nissan,"565-577 Springvale Rd, Mulgrave VIC 3170, Australia",145.159718,-37.906157,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Grow Energy,"325A Bay Road, Cheltenham VIC 3192",145.038605,-37.955662,,,,,['Non-networked'],4,,0,0,0,0,0,0,,4,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Myuna Farm,"182 Kidds Rd, Doveton VIC 3177, Australia",145.232704,-37.985484,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Lockelec Rolling Stock,"14 Capital Ct, Braeside VIC 3195, Australia",145.109648,-37.995328,,,,,['Non-networked'],1,,0,0,0,0,1,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Kelly Racing,"45 Canterbury Rd Braeside VIC 3195, Australia",145.110226,-38.010174,,,,,['ChargePoint'],1,,0,0,0,1,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+"Footscray town hall, Maribyrnong city council","61 Napier St, Footscray VIC 3011, Australia",144.900362,-37.804868,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Ivanhoe Gardens (Coming Soon),"45 Linden Ave, Ivanhoe VIC 3079, Australia, Ivanhoe 3079",145.054043,-37.754954,,,,,['Exploren'],3,,0,0,0,0,0,0,,3,0,,[22.0],PlugShare_Scrape,20/08/2022
+Manor Lakes Central Shopping Centre,"455 Ballan Rd, Manor Lakes VIC 3024, Australia",144.612648,-37.875049,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Wunggurrwil Dhurrung Centre,"Wunggurrwil Dhurrung Centre 19 Communal Road, Wyndham Vale VIC 3024, Australia",144.62706,-37.876378,,,,,['Chargefox'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Pacific Werribee Shopping Centre,"Derrimut Rd & Heaths Rd, Werribee, VIC, Australia, VIC 3030",144.679638,-37.875247,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+The Pines Shopping Centre,"181 Reynolds Rd, Doncaster East VIC 3109, Australia",145.16823,-37.762252,,,,,"['ChargePoint', 'Tesla Destination']",4,,0,0,0,2,2,0,,0,0,,"[6.6, 22.0]",PlugShare_Scrape,20/08/2022
+Dandenong Agricultural and Pastoral Society,"Dandenong‎ VIC‎ 3175, Australia",145.196402,-37.983731,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Rosebud Beach,"980 Point Nepean Road, Rosebud VIC 3939, Australia",144.901769,-38.355584,,,,,['Non-networked'],3,,0,0,0,0,0,0,,0,3,,['unknown'],PlugShare_Scrape,20/08/2022
+Moonah Links,"65 Peter Thomson Dr, Fingal VIC 3939, Australia",144.853314,-38.406624,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Croydon Train Station Multi Level Car Park,"Devon Street, Croydon, Victoria",145.280091,-37.796959,,,,,['Non-networked'],6,,0,0,0,0,0,0,,6,0,,[7.0],PlugShare_Scrape,20/08/2022
+Highpoint Shopping Centre - Basement Carpark,"Rosamond Road, Maribyrnong VIC 3032, Australia",144.887869,-37.772002,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Vaclift,"39 Tullamarine Park Road, Tullamarine VIC 3043, Australia",144.871383,-37.709632,,,,,['Non-networked'],1,,0,0,0,0,1,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+RACV Cape Schanck Resort,"6 Presnell Ct, Cape Schanck VIC 3939, Australia",144.893721,-38.461847,,,,,"['Tesla Destination', 'Non-networked']",7,,0,0,0,0,2,0,,4,1,,"[4.0, 'unknown']",PlugShare_Scrape,20/08/2022
+Schnapper Point Dr Parking/Charging,"Schnapper Point Dr, Mornington VIC 3931, Australia",145.035453,-38.215455,,,,,['Non-networked'],1,,0,0,0,0,0,1,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Priority One Trade Services,"65 Watt Road, Mornington‎ VIC‎ 3931, Australia",145.056367,-38.231677,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,[22.0],PlugShare_Scrape,20/08/2022
+Peninsula Home Shopping Centre,"1130-1134 Nepean Highway, Mornington VIC 3931, Australia",145.061207,-38.220693,,,,,['EVUp'],4,,0,0,0,0,0,0,,4,0,,[22.0],PlugShare_Scrape,20/08/2022
+Dandenong Market - Southern Car Park (Coming Soon),"40 Cleeland St, Dandenong VIC 3175, Australia",145.216329,-37.984494,,,,,['Non-networked'],1,,0,0,0,1,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Ventia Head Office Carpark,"20 Corporate Drive, Heatherton‎ VIC‎ 3202, Australia",145.080488,-37.950648,,,,,['ChargePoint'],2,,0,0,0,2,0,0,,0,0,,[6.6],PlugShare_Scrape,20/08/2022
+North Drive Office Complex,"236 E Boundary Rd, Bentleigh East VIC 3165, Australia",145.062347,-37.909599,,,,,['ChargePoint'],1,,0,0,0,1,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Hume Villa Motor Inn,"1324 Sydney Rd, Fawkner VIC 3060, Australia",144.959707,-37.696652,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Foreshore Camping,"1380 Point Nepean Rd, Rosebud VIC 3939, Australia",144.888748,-38.359707,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Dromana Drive-in,"133 Nepean Hwy, Dromana VIC 3936, Australia",144.996685,-38.329727,,,,,['EVUp'],6,,0,0,0,0,0,0,,6,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Springvale Library,"9 Hillcrest Grove, Springvale VIC 3171, Australia",145.153146,-37.957007,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Waverley Gardens Shopping Centre,"271 Police Rd, Mulgrave VIC 3170, Australia",145.189902,-37.935556,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Element Melbourne Richmond,"588 Swan St, Richmond VIC 3121, Australia",145.020707,-37.826921,,,,,['EVUp'],4,,0,0,0,0,0,0,,4,0,,[22.0],PlugShare_Scrape,20/08/2022
+Springvale MEGA Centre,"754-769 Princes Hwy, Springvale VIC 3171, Australia",145.167746,-37.94168,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Sandown Raceway Carpark,"37 Davis Way, Springvale VIC 3171, Australia",145.162663,-37.950836,,,,,['Non-networked'],3,,0,0,0,0,0,3,,0,0,,[8.0],PlugShare_Scrape,20/08/2022
+Pullman Melbourne Albert Park,"67 Queens Rd, Melbourne VIC 3004, Australia",144.97831,-37.849977,,,,,['Tesla Destination'],3,,0,0,0,0,3,0,,0,0,,"[11.0, 22.0]",PlugShare_Scrape,20/08/2022
+BMW South Yarra,"145 Williams Rd, Prahran VIC 3181, Australia",145.00279,-37.849295,,,,,"['ChargePoint', 'Non-networked']",4,,0,0,0,0,0,0,,2,2,,['unknown'],PlugShare_Scrape,20/08/2022
+Barwon Valley Lodge,"99 Barrabool Rd, Belmont VIC 3216, Australia",144.341445,-38.166789,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Northern Motor Group - Pre Delivery Dept,"55 Clements Avenue, Bundoora‎ VIC‎ 3083, Australia",145.072077,-37.704572,,,,,['Non-networked'],1,,0,0,0,1,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Club Armstrong,"101 Unity Drive, Mount Duneed VIC 3217, Australia",144.328361,-38.225341,,,,,['ChargePoint'],2,,0,0,0,2,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Middy's Lilydale,"34 Melba Ave, Lilydale VIC 3140, Australia",145.346082,-37.761942,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Mantra Epping,"250 Cooper St, Epping VIC 3076, Australia",145.008102,-37.649756,,,,,"['Tesla Destination', 'Non-networked']",4,,0,0,0,0,2,0,,2,0,,"[5.0, 'unknown']",PlugShare_Scrape,20/08/2022
+Glenroy Community Hub,"50 Wheatsheaf Rd, Glenroy 3046, Australia",144.924037,-37.708497,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,[11.0],PlugShare_Scrape,20/08/2022
+Glen Eira City Council,"256 Hawthorn Road, Caulfield VIC 3162, Australia",145.022852,-37.880835,,,,,['Chargefox'],4,,0,0,0,0,0,0,,4,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Yarra Valley Nissan,"460-462 Maroondah Highway, Lilydale VIC 3140, Australia",145.363238,-37.754859,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Secure Parking,"15-29 Bank Street, South Melbourne VIC 3205, Australia",144.969126,-37.832108,,,,,['Non-networked'],21,,0,0,0,0,0,0,,0,21,,['unknown'],PlugShare_Scrape,20/08/2022
+Good Guys,"1 Gertrude St, Frankston VIC 3199, Australia",145.138689,-38.148237,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Richmond Traders Coles,"46 Cameron St, Richmond VIC 3121, Australia",144.998664,-37.817041,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Just Honk Used Cars,"4-6 Fitzgerald Rd, Laverton North VIC 3026, Australia",144.782596,-37.843884,,,,,['Exploren'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Hebco Industrial,"19-25 Trade Place Vermont VIC 3133, Australia",145.18642,-37.833743,,,,,['Non-networked'],1,,0,0,0,0,1,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Phillip Island Visitor Information Centre,"895 Phillip Island Road, Newhaven‎ VIC‎ 3925, Australia",145.348261,-38.515001,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+West Oval,"Weddell Rd, North Geelong VIC 3215, Australia",144.345207,-38.129308,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,[22.0],PlugShare_Scrape,20/08/2022
+Quest Mont Albert,"741-745 Whitehorse Road, Mont Albert VIC 3127, Australia",145.10738,-37.815833,,,,,['Non-networked'],3,,0,0,0,0,0,0,,0,3,,['unknown'],PlugShare_Scrape,20/08/2022
+Community Bank Stadium,"129-163 Main Hurstbridge Rd, Diamond Creek VIC 3089, Australia",145.166098,-37.673703,,,,,['Chargefox'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Collingwood Library,"13 Stanton St, Abbotsford VIC 3067, Australia",144.99327,-37.804471,,,,,['Evie Networks'],8,,4,4,0,0,0,0,,0,0,,[50.065],PlugShare_Scrape,20/08/2022
+Holmesglen Private Hospital,"490 South Rd, Moorabbin VIC 3189, Australia",145.050288,-37.93704,,,,,['Non-networked'],4,,0,0,0,0,0,0,,4,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Coles South Melbourne,"229 Coventry St, South Melbourne VIC 3205, Australia",144.960369,-37.832375,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+IKEA Richmond,"630 Victoria St, Richmond VIC 3121, Australia",145.010271,-37.812895,,,,,['Non-networked'],4,,0,0,0,0,0,0,,4,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Prahran Square,"Prahran Square, 30-40 Izett Street, Prahran VIC 3181, Australia",144.99266,-37.847695,,,,,"['Chargefox', 'Non-networked']",12,,0,0,0,0,0,0,,2,10,,['unknown'],PlugShare_Scrape,20/08/2022
+Ivanhoe Library,"233 Upper Heidelberg Road, Ivanhoe VIC 3079, Australia",145.044964,-37.766356,,,,,['EVUp'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Coles Lilydale,"51-59 Anderson St, Lilydale VIC 3140, Australia",145.354065,-37.756189,,,,,['Non-networked'],3,,0,0,0,0,0,0,,0,3,,['unknown'],PlugShare_Scrape,20/08/2022
+Springvale Homemaker Centre,"Springvale Homemaker Centre, 917 Princes Highway, Springvale VIC 3171, Australia",145.143552,-37.927929,,,,,"['Tesla Destination', 'Non-networked']",10,,0,0,0,0,3,0,,7,0,,"['unknown', 22.0]",PlugShare_Scrape,20/08/2022
+Clayton M City,"2145 Dandenong Road, Clayton VIC 3168, Australia",145.140054,-37.922053,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Watergardens Shopping Centre,"399 Melton Highway, Taylors Lakes VIC 3038",144.775876,-37.699043,,,,,['Tesla Destination'],3,,0,0,0,0,3,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Pullman Melbourne on the Park,"192 Wellington Parade, Melbourne VIC 3002",144.983228,-37.815994,,,,,['Non-networked'],2,,0,0,0,0,2,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Woolworths Fishermans Bend,"525 Graham St, Port Melbourne VIC 3207, Australia",144.931658,-37.830671,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Cunningham Pier,"10 Western Foreshore Rd, Geelong VIC 3220, Australia",144.361213,-38.143296,,,,,['Chargefox'],4,,0,0,0,0,0,0,,4,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Monash University Clayton - Car Park S2,"20 Ancora Imparo Way, Clayton VIC 3800, Australia",145.1338,-37.914282,,,,,"['Chargefox', 'Non-networked']",3,,0,0,0,0,0,0,,2,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Pacific Epping Shopping Centre,"583 High St, Epping VIC 3076, Australia",145.016892,-37.653416,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Eastland Shopping Centre,"175 Maroondah Hwy, Ringwood VIC 3134, Australia",145.229003,-37.81425,,,,,['Tesla Destination'],4,,0,0,0,0,4,0,,0,0,,"[11.0, 15.0]",PlugShare_Scrape,20/08/2022
+Red Rock (Coming Soon),"4 Lynton Ct, Cowes VIC 3922, Australia",145.199794,-38.453893,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+The Arts Centre,2 Kavanagh St Southbank VIC 3006 Australia,144.96767,-37.822715,,,,,['Non-networked'],2,,0,0,0,2,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Melbourne Museum,"11 Nicholson St, Carlton VIC 3053, Australia",144.972702,-37.804609,,,,,['Non-networked'],2,,0,0,0,2,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Wilson’s Carpark,"1-3 Queens Road, Melbourne VIC 3004, Australia",144.973525,-37.835734,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Flagstaff City Inn,"45 Dudley St, West Melbourne VIC 3003, Australia",144.951048,-37.810116,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Morris Moor (Coming Soon),"282/284 Chesterville Rd, Moorabbin VIC 3189, Australia",145.061402,-37.941172,,,,,['Chargebay'],6,,0,0,0,0,0,0,,6,0,,['unknown'],PlugShare_Scrape,20/08/2022
+The Prince Hotel,"2 Acland St, St Kilda VIC 3182, Australia",144.973965,-37.862284,,,,,"['Tesla Destination', 'Non-networked']",4,,0,0,0,0,2,0,,2,0,,"['unknown', 22.0]",PlugShare_Scrape,20/08/2022
+Stokehouse St Kilda,"30 Jacka Blvd, St Kilda VIC 3182, Australia",144.974352,-37.86758,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Hotel 115 Guest Carpark,"115 Cotham Rd, Kew VIC 3101, Australia",145.039021,-37.807448,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Clubs Assist,"237 243 Frankston Dandenong Rd, Dandenong South, VIC, 3175",145.213927,-38.022421,,,,,['Non-networked'],1,,0,0,0,1,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Lygon Street Car park,204-218 Lygon St Carlton Victoria 3053 Australia,144.96708,-37.802158,,,,,['Exploren'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Melbourne Convention Exhibition Centre,"16 Normanby Road, South Wharf VIC 3006, Australia",144.953107,-37.82613,,,,,['Non-networked'],3,,0,0,0,0,0,0,,0,3,,['unknown'],PlugShare_Scrape,20/08/2022
+Crown Metropol Melbourne,"8 Whiteman Street, Southbank, Victoria, Australia, VIC 3006",144.957692,-37.825511,,,,,['Tesla Destination'],1,,0,0,0,0,1,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Melbourne Central Carpark,"300 Lonsdale St, Melbourne VIC 3000, Australia",144.963518,-37.811734,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Westfield Doncaster,"619 Doncaster Rd, Doncaster VIC 3108, Australia",145.126058,-37.78342,,,,,"['ChargePoint', 'Tesla Destination']",6,,0,0,0,4,2,0,,0,0,,"[6.6, 22.0]",PlugShare_Scrape,20/08/2022
+Bitternfields Shopping Centre,"2432 Frankston - Flinders Rd, Bittern VIC 3918, Australia",145.177183,-38.336376,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Armstrong Creek Town Centre,"540 Torquay Rd, Armstrong Creek VIC 3217, Australia",144.339931,-38.22808,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,[7.0],PlugShare_Scrape,20/08/2022
+Secure Parking (300 Flinders St),"300 Flinders St, Melbourne VIC 3000, Australia",144.96402,-37.818268,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[3.0],PlugShare_Scrape,20/08/2022
+Dan Murphy’s Armstrong Creek,"458 Torquay Road, Armstrong Creek 3217, Australia",144.337345,-38.225361,,,,,['Non-networked'],3,,0,0,0,0,0,0,,3,0,,['unknown'],PlugShare_Scrape,20/08/2022
+South Melbourne Market Rooftop Parking,"322 Coventry St, South Melbourne VIC 3205",144.956791,-37.83203,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Berwick BMW,"6 Coventry Rd, Narre Warren VIC 3805",145.311511,-38.026209,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Park Hyatt Melbourne,"1 Parliament Square Off, Parliament Pl, Melbourne VIC 3002, Australia",144.976125,-37.811933,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Greensborough Plaza,"25 Main St, Greensborough VIC 3088, Australia",145.102344,-37.702301,,,,,['Chargefox'],4,,0,0,0,0,0,0,,4,0,,['unknown'],PlugShare_Scrape,20/08/2022
+WaterMarc Car Park,"1 Flintoff St, Greensborough VIC 3088, Australia",145.10525,-37.704042,,,,,['Non-networked'],3,,0,0,0,0,0,0,,3,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Flagstaff Car Park,"535 Little Lonsdale St, Melbourne VIC 3004, Australia",144.955756,-37.813111,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Queen Victoria Market - Underground Carpark,"460 Queen St, Melbourne VIC 3000, Australia",144.958282,-37.807804,,,,,['Non-networked'],12,,0,0,0,0,0,0,,12,0,,['unknown'],PlugShare_Scrape,20/08/2022
+300 Latrobe Street - Wilson Car Park,300 Latrobe Street Melbourne ,144.960653,-37.810021,,,,,['Non-networked'],3,,0,0,0,0,0,0,,0,3,,['unknown'],PlugShare_Scrape,20/08/2022
+Pentridge Shopping Centre,"1 Champ St, Coburg VIC 3058, Australia",144.969336,-37.736669,,,,,['Non-networked'],3,,0,0,0,0,0,0,,3,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Coles Express with co-located Hungry Jacks,"46 Cook St, Port Melbourne VIC 3207, Australia",144.917185,-37.829682,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Westfield Southland,"1239 Nepean Hwy, Cheltenham VIC 3192, Australia",145.053615,-37.958461,,,,,['ChargePoint'],4,,0,0,0,4,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Westfield Southland - Icon Car Wash,"40 Chesterville Rd, Cheltenham VIC 3192, Australia",145.056598,-37.959294,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Hyatt Centric Melbourne,"25 Downie St, Melbourne VIC 3000, Australia",144.955802,-37.820407,,,,,['EVUp'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Chadstone Shopping Centre Carpark A,"1341 Dandenong Rd, Chadstone VIC 3148",145.07958,-37.886337,,,,,['Non-networked'],5,,0,0,0,0,0,0,,5,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Jet City Hangar 131,"Essendon Fields VIC 3042, Australia",144.892935,-37.719978,,,,,['Tesla Destination'],1,,0,0,0,0,1,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Essendon Nissan,"288 Wirraway Rd, Essendon Fields, VIC, 3041",144.895849,-37.720262,,,,,['ChargePoint'],1,,0,0,0,1,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Brooklands of Mornington,"99 Tanti Ave, Mornington, VIC, Australia, 3931",145.045807,-38.221655,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Flinders Hotel,"23-31 Cook Street, Flinders, Victoria, Australia, VIC 3929",145.019202,-38.474449,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[8.0],PlugShare_Scrape,20/08/2022
+Flinders General Store rear car park,"48 Cook Street, Flinders VIC 3929, Australia",145.016892,-38.473287,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Secure Parking - 460 Lonsdale Street Car Park,"460 Lonsdale St, Melbourne VIC 3000, Australia",144.958347,-37.813049,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+David Street Car Park,"1 David St, Brunswick, Victoria, Australia, 3056",144.962021,-37.771404,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Stockland Point Cook - Below Woolworths,"1A Main Street, Point Cook VIC 3030, Australia",144.734115,-37.884233,,,,,"['ChargePoint', 'Tesla Destination']",2,,0,0,0,1,1,0,,0,0,,"['unknown', 22.0]",PlugShare_Scrape,20/08/2022
+Middy's Smart Centre (Behind Mulgrave Branch),"214 Wellington Rd, Clayton VIC 3168, Australia",145.148532,-37.918327,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+The Fashion Capital - Tesla,"1341 Dandenong Rd, Malvern East VIC 3145, Australia",145.082357,-37.884862,,,,,['Non-networked'],2,,0,0,0,0,2,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Cellarbrations,"185a Rosslyn St, West Melbourne VIC 3003, Australia",144.948932,-37.809802,,,,,['Non-networked'],4,,0,0,0,0,0,0,,4,0,,['unknown'],PlugShare_Scrape,20/08/2022
+District Docklands Shopping - West Carpark,"8-9 Star Circus, Docklands VIC 3008, Australia",144.93695,-37.812855,,,,,['Tesla Destination'],1,,0,0,0,0,1,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Wilson Parking,"222 Russell St, Melbourne VIC 3000, Australia",144.967823,-37.811294,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,[11.0],PlugShare_Scrape,20/08/2022
+BP Caroline Springs (Coming Soon),"1324-1332 Western Hwy, Caroline Springs VIC 3023, Australia",144.741077,-37.75577,,,,,['Non-networked'],1,,1,0,0,0,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Alto Hotel,"636 Bourke St, Melbourne VIC 3000, Australia",144.954636,-37.816254,,,,,"['Tesla Destination', 'Non-networked']",7,,0,0,0,1,3,1,,0,2,,"['unknown', 22.0]",PlugShare_Scrape,20/08/2022
+Bob Morell Reserve,"514 Moorabool St, South Geelong VIC 3220, Australia",144.352507,-38.163586,,,,,['Non-networked'],4,,0,0,0,0,0,0,,0,4,,['unknown'],PlugShare_Scrape,20/08/2022
+Rex Gorell Nissan,"481 Latrobe Terrace Geelong VIC 3220, Australia",144.350693,-38.16275,,,,,['Chargefox'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Queens & Collins,"Level 6/93-95 Queen St, Melbourne VIC 3000, Australia",144.961493,-37.81594,,,,,['Non-networked'],4,,0,0,0,0,0,0,,4,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Wilson Parking,"542 Little Bourke St, Melbourne VIC 3000, Australia",144.956451,-37.814781,,,,,['Non-networked'],1,,0,0,0,0,0,0,,0,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Kinglake Library (rear of the Police Station),"19 Whittlesea-Kinglake Rd, Kinglake VIC 3763, Australia",145.339577,-37.531509,,,,,['EVUp'],2,,0,0,0,0,0,0,,2,0,,[22.0],PlugShare_Scrape,20/08/2022
+Kinglake Reserve (beside public toilets),"1 Kinglake-Glenburn Rd, Kinglake VIC 3763, Australia",145.340696,-37.53009,,,,,['EVUp'],2,,0,0,0,0,0,0,,2,0,,[22.0],PlugShare_Scrape,20/08/2022
+Grand Hyatt Melbourne,"123 Collins St, Melbourne VIC 3000, Australia",144.969685,-37.814844,,,,,['Tesla Destination'],1,,0,0,0,0,1,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Whittlesea Motel,"36 Walnut St, Whittlesea VIC 3757, Australia",145.119479,-37.511926,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Federation Square Car Park,"Russell St, Melbourne, Victoria, 3000 Australia",144.971282,-37.817739,,,,,['Chargefox'],2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+ACDC Garage,"114-128 Flinders St, Melbourne VIC 3000, Australia",144.97077,-37.816185,,,,,"['Tesla Destination', 'EVUp']",5,,0,0,0,0,3,0,,2,0,,"[3.0, 'unknown']",PlugShare_Scrape,20/08/2022
+Secure Parking (Southern Cross),"129 Bourke St, Melbourne VIC 3000, Australia",144.969535,-37.812452,,,,,['ChargePoint'],2,,0,0,0,2,0,0,,0,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Holiday Inn Express Melbourne Little Collins,"589-599 Little Collins St, Melbourne VIC 3000, Australia",144.955291,-37.817852,,,,,['Non-networked'],3,,0,0,0,0,0,0,,3,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Tooronga Village,"766 Toorak Rd, Glen Iris VIC 3146",145.046669,-37.845907,,,,,['Tesla Destination'],2,,0,0,0,0,2,0,,0,0,,[22.0],PlugShare_Scrape,20/08/2022
+Victoria Gardens Shopping Centre,"Unit 41 B/620 Victoria St, Richmond VIC 3121, Australia",145.011729,-37.812603,,,,,"['OpenLoop', 'Non-networked']",2,,0,0,0,0,0,0,,2,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Wilson Parking Eureka,"70 City Rd, Southbank VIC 3006, Australia",144.965184,-37.821726,,,,,['Non-networked'],2,,0,0,0,0,0,0,,2,0,,[11.0],PlugShare_Scrape,20/08/2022
+Hungry Fox Café,"Essendon Fields Airport, Wirraway Road, Essendon Fields VIC 3041, Australia",144.89451,-37.719767,,,,,['Non-networked'],1,,0,0,0,0,0,0,,1,0,,['unknown'],PlugShare_Scrape,20/08/2022
+QV Melbourne - Car Park,"180 Lonsdale Street, Melbourne VIC 3000, Australia",144.966601,-37.810679,,,,,['Non-networked'],3,,0,0,0,0,0,0,,0,3,,['unknown'],PlugShare_Scrape,20/08/2022
+The Fashion Capital - Parking Block F,"1341 Dandenong Road, Malvern East VIC 3145, Australia",145.0824,-37.887286,,,,,['Tesla Destination'],4,,0,0,0,0,4,0,,0,0,,[10.0],PlugShare_Scrape,20/08/2022
+Holiday Inn Express Melbourne Southbank,"35-47 City Rd, Southbank VIC 3006, Australia",144.966652,-37.821895,,,,,['Non-networked'],9,,0,0,0,0,0,0,,9,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Secure Parking (450 Flinders Lane),"450 Flinders Ln, Melbourne VIC 3000, Australia",144.958866,-37.818758,,,,,['Non-networked'],10,,0,0,0,0,0,0,,10,0,,['unknown'],PlugShare_Scrape,20/08/2022
+Rialto Car Park,"476 Flinders Ln, Melbourne VIC 3000, Australia",144.957613,-37.8191,,,,,['Non-networked'],3,,0,0,0,0,0,0,,2,1,,['unknown'],PlugShare_Scrape,20/08/2022
+Lorbek Luxury Cars,"327 Plummer St, Port Melbourne VIC 3207, Australia",144.919764,-37.833209,,,,,['Everty'],3,,0,0,0,0,0,0,,3,0,,[22.0],PlugShare_Scrape,20/08/2022
+Lorbek Luxury Cars,"30 Prohasky St, Port Melbourne VIC 3207, Australia",144.919335,-37.832093,,,,,['Non-networked'],7,,0,0,0,0,0,0,,7,0,,['unknown'],PlugShare_Scrape,20/08/2022
