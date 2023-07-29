@@ -2,9 +2,9 @@
 
 This GitHub repository contains a collection of notebook organized into an archive and a trimester library structure.
 
-# Notebooks Summary Report- TX_YYYY
+# Notebooks Summary Report- T1_2023
 
-Please read the notebook summary report for descriptions and summary of each notebook for reference.
+Please read the notebook summary report for descriptions and summary of each notebook for reference. 
 Please Update or Add a new summary report for each trimester to help the fellow students that take on this project!
 
 # Archive Folder
@@ -15,9 +15,9 @@ The archive folder contains notebooks that have been previously used in projects
 
 The trimester library folder contains notebooks that are currently being used or may be used in previous trimesters. The library is organized by trimesters, with each trimester representing a study period. The notebooks within each trimester folder are organized by their source or category.
 
-\*\*use the template TX_YYYY to create a new trimester library!
+**use the template TX_YYYY to create a new trimester library!
 
-# Data Scraping and Cleaning Folder
+# Data Scraping and Cleaning Folder 
 
 Contain important information on how to collection EVCS data using Google API
 
@@ -31,7 +31,7 @@ The archive folder: archive (this is all data present in this directory before t
 
 To add a new notebook to the library, create a new folder within the appropriate trimester folder and name it using the descriptive naming convention. Upload the notebook files to this new folder.S
 
-\*\*you can record new datasets in the notebookrecord.md inside TX_YYYY!
+**you can record new datasets in the notebookrecord.md inside TX_YYYY!
 
 # Using the Notebooks
 
@@ -49,8 +49,6 @@ You can also contact the creator / uptaker of this folder below:
 
 T1_2023: Barry Chen chenchaoyi@deakin.edu.au
 
-T2_2023: Jamie Davidson s222356461@deakin.edu.au
-
 TX_YYYY:
 
-\*\*Acknowledgement - The readme file borrowed the template of dataset readme file contributed by Jamie Davidson
+**Acknowledgement - The readme file borrowed the template of dataset readme file contributed by Jamie Davidson
