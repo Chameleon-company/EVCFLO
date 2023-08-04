@@ -12,6 +12,7 @@ import FAQ from "./pages/faq";
 import Login from "./pages/login";
 import Logout from "./pages/logout";
 import User from "./pages/user";
+import SignUp from "./pages/SignUp";
 
 function App() {
   return (
@@ -43,6 +44,7 @@ function App() {
         <Route path="/faq" element={<FAQ />} />
         <Route path="/login" element={<Login />} />
         <Route path="/logout" element={<Logout />} />
+        <Route path="/signup" element={<SignUp />} />
         <Route path="/user" element={<User />} />
       </Routes>
       <Footer />
