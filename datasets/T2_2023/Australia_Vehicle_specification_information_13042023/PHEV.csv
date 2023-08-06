@@ -1,0 +1,26 @@
+Model,Vehicle Type,Variant Details,Fast Charge Time (Minutes),Range (km),Energy Consumption (kWh/100km),Listed Price ($AUD)
+BMW 3 Series PHEV,Medium Car,2023 BMW 3 Series 330e M Sport G20 LCI Auto,,57,16.9,97400
+BMW 5 Series PHEV,Large Car,2023 BMW 5 Series 530e M Sport G30 LCI Auto,,54,17.6,127400
+BMW X3 PHEV,Medium SUV,2023 BMW X3 xDrive30e M Sport G01 LCI Auto 4x4,"222 mins (0%-100% charge, 3.7kW charger)",41,19.3,110400
+BMW X5 PHEV,Large SUV,2023 BMW X5 xDrive45e M Sport G05 Auto 4x4,,80,25.7,139900
+CUPRA Formentor PHEV,Medium SUV,2022 CUPRA Formentor VZe MY23,,58,14.1,68990
+CUPRA Leon PHEV,Small Car,2023 CUPRA Leon VZe Auto MY23,,67,11.3,65990
+Ferrari 296,Sports Car,2023 Ferrari 296 GTB Auto,,,,568300
+Ferrari SF90,Sports Car,2023 Ferrari SF90 Stradale Auto 4WD,,,,957700
+Ford Escape PHEV,Medium SUV,2023 Ford Escape ST-Line PHEV ZH Auto MY23.25,,69,14.7,54940
+Kia Sorento PHEV,Large SUV,2023 Kia Sorento PHEV GT-Line Auto AWD MY23,"205 mins (15%-95% charge, 3.3kW charger)",68,16.1,81080
+Land Rover Range Rover Evoque PHEV,Medium SUV,2023 Land Rover Range Rover Evoque P300e R-Dynamic HSE Auto 4x4 MY23.5,"30 mins (0%-80% charge, 50kW charger)",66,18.6,104310
+Land Rover Range Rover Sport PHEV,Large SUV,2023 Land Rover Range Rover Sport PHEV P510e Dynamic HSE Auto AWD MY23,"40 mins (0%-80% charge, 50kW charger)",125,25.6,198097
+Lexus NX PHEV,Medium SUV,2023 Lexus NX NX450h+ F Sport Auto eFour,,87,14,90923
+MG HS PHEV,Medium SUV,2023 MG HS Plus EV Excite Auto FWD MY23,"300 mins (recharge to 100%, 7kW charger)",63,19.2,49690
+MINI Countryman PHEV,Small SUV,2023 MINI Countryman Cooper SE Classic Auto ALL4,,50,15.2,64000
+Mercedes-Benz GLC-Class PHEV,Medium SUV,2022 Mercedes-Benz GLC-Class GLC300 e Auto 4MATIC,,49,15.4,99600
+Mitsubishi Eclipse Cross PHEV,Small SUV,2023 Mitsubishi Eclipse Cross PHEV ES YB Auto AWD MY23,"25 mins (recharge to 80%, 60A charger)",55,16.8,47290
+Mitsubishi Outlander PHEV,Medium SUV,2023 Mitsubishi Outlander PHEV ES ZM Auto AWD MY23,"38 mins (recharge to 80%, 60A charger)",84,19.2,56490
+Peugeot 3008 PHEV,Medium SUV,2023 Peugeot 3008 GT Sport Plug-in Hybrid AWD Auto AWD MY23,"330 mins (0%-100% charge, 2.3kW charger)",50,22.9,82915
+Peugeot 308 PHEV,Small Car,2023 Peugeot 308 GT Plug-In Hybrid Auto MY23,,60,20.7,64990
+Peugeot 508 PHEV,Medium Car,2023 Peugeot 508 GT Plug-in Hybrid Auto MY23,"300 mins (0%-100% charge, 2.3kW charger)",45,21.1,81610
+Porsche Cayenne PHEV,Large SUV,2023 Porsche Cayenne E-Hybrid 9YA Auto 4x4 MY23,,42,20.9,150900
+Porsche Panamera PHEV,Large Car,2023 Porsche Panamera 4 E-Hybrid Platinum Edition 971 Auto AWD MY23,,56,19.5,250800
+Volvo XC60 PHEV,Medium SUV,2023 Volvo XC60 Recharge Ultimate T8 Plug-In Hybrid Auto AWD MY23,"300 mins (recharge to 100%, 230V;16A;3.6kW charger)",81,26.2,101990
+Volvo XC90 PHEV,Large SUV,2023 Volvo XC90 Recharge Ultimate T8 Plug-In Hybrid Auto AWD MY23,"300 mins (recharge to 100%, 200-240V;16A;3.6kW charger)",77,26.7,125990
