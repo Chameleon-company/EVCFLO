@@ -1,0 +1,38 @@
+Model,Vehicle Type,Variant Details,Fast Charge Time (Minutes),Range (km),Energy Consumption (kWh/100km),Listed Price ($AUD)
+Audi e-tron,Large SUV,2022 Audi e-tron 55 quattro,"85 mins (5%-80% charge, 50kW charger)",459,23.2,
+Audi e-tron GT,Large Car,2023 Audi e-tron GT Auto quattro MY23,"23 mins (5%-80% charge, 270kW charger)",540,19.2,180200
+BMW i4,Medium Car,2023 BMW i4 eDrive40 M Sport G26 Auto,"18 mins (10%-80% charge, 50kW charger)",520,22.2,99900
+BMW i7,Large Car,2023 BMW i7 xDrive60 M Sport G70 Auto AWD,"21 mins (10%-80% charge, 50kW charger)",625,22.2,306900
+BMW iX,Large SUV,2023 BMW iX xDrive40 I20 Auto AWD,"21 mins (10%-80% charge, 50kW charger)",420,22.5,135900
+BMW iX3,Medium SUV,2023 BMW iX3 G08 Auto,"30 mins (10%-80% charge, 50kW charger)",440,21.6,104900
+BYD Atto 3 (Standard),Medium SUV,2023 BYD ATTO 3 Standard Auto,,345,16,48011
+Genesis G80 BEV,Large Car,2022 Genesis G80 Auto AWD MY22,"22 mins (10%-80% charge, 350kW charger)",520,19.1,145000
+Genesis GV60,Small SUV,2022 Genesis GV60 AWD Auto AWD MY22,"18 mins (10%-80% charge, 350kW charger)",470,18.8,103700
+Genesis GV70 BEV,Medium SUV,2023 Genesis GV70 Performance Auto AWD MY23,"18 mins (10%-80% charge, 350kW charger)",445,19.9,127800
+Hyundai Ioniq 5 (MY23),Medium SUV,2023 Hyundai IONIQ 5 DYNAMIQ Auto 2WD MY23,"18 mins (10%-80% charge, 800V charger)",451,17.9,72000
+Hyundai Ioniq 6,Medium Car,2023 Hyundai IONIQ 6 DYNAMIQ Auto 2WD MY23,"18 mins (10%-80% charge, 800V charger)",614,14.3,74000
+Hyundai Kona BEV,Small SUV,2023 Hyundai Kona Electric Elite Auto,"48 mins (10%-80% charge, 50kW charger)",305,14.3,54500
+Jaguar I-Pace,Large SUV,2023 Jaguar I-PACE EV400 SE Auto AWD MY23,"765 mins (0%-100% charge, 7kW charger)",446,23,146857
+Kia EV6,Large SUV,2023 Kia EV6 Air Auto MY23,"73 mins (10%-80% charge, 50kW charger)",528,16.5,72590
+Kia Niro BEV (Plus EV S),Small SUV,2023 Kia Niro Plus EV S Auto MY23,"65 mins (10%-80% charge, 50kW charger)",427,16.6,64450
+LDV Mifa9,People Mover,2023 LDV MIFA 9 Mode Auto,"36 mins (30%-80% charge, 120kW charger)",,,106000
+LDV eT60,Ute (2WD),2023 LDV eT60 Auto Dual Cab,"45 mins (20%-80% charge, 80kW charger)",,,92990
+Lexus UX BEV,Small SUV,2022 Lexus UX 300e Hatch Auto,,360,15,
+MG ZS BEV,Small SUV,2023 MG ZS EV Excite Auto MY22,"54 mins (recharge to 80%, 50kW charger)",360,17.1,43990
+MINI Hatch BEV,Small Car,2023 MINI Hatch Cooper SE Classic Auto,"36 mins (recharge to 80%, 50kW charger)",222,16.8,55650
+Mazda MX-30 BEV,Small SUV,2022 Maxda MX-30 E35 Astina DR Series Auto,"36 mins (20%-80% charge, 50kW charger)",224,18.5,65490
+Mercedes-Benz EQA,Small SUV,2023 Mercedes-Benz EQA EQA250 Auto,"30 mins (10%-80% charge, 100kW charger)",524,16.2,81700
+Mercedes-Benz EQB,Medium SUV,2023 Mercedes-Benz EQB EQB250 Auto,"32 mins (10%-80% charge, 100kW charger)",507,16.7,87800
+Mercedes-Benz EQC,Medium SUV,2023 Mercedes-Benz EQC EQC400 Auto 4MATIC,"40 mins (10%-80% charge, 110kW charger)",430,23.8,128000
+Mercedes-Benz EQE,Large Car,2023 Mercedes-Benz EQE EQE300 Auto,,626,16.3,134900
+Mercedes-Benz EQS,Large Car,2023 Mercedes-Benz EQS EQS53 AMG Auto 4MATIC+,,587,23,328400
+Mercedes-Benz eVito Tourer,People Mover,2023 Mercedes-Benz eVito Tourer 129 Medium Wheelbase Auto,"45 mins (10%-80% charge, 110kW charger)",421,26.2,116115
+Mercedes-Benz eVito Van,Van,2023 Mercedes-Benz eVito 112 Medium Wheelbase Auto,"35 mins (10%-80% charge, 80kW charger)",,,89353
+Nissan Leaf,Small Car,2023 Nissan LEAF ZE1 Auto MY23,"60 mins (20%-80% charge, 50kW charger)",311,17.1,50990
+Polestar 2 (MY23),Medium Car,2023 Polestar 2 Standard range Single motor Auto MY23,"53 mins (10%-80% charge, 50kW charger)",625,19.7,63900
+Porsche Taycan,Large Car,2023 Porsche Taycan Y1A Auto RWD MY23,"93 mins (5%-80% charge, 50kW charger)",405,28.5,158100
+Renault Kangoo BEV,Van,2022 Renault Kangoo ZE Van,"360 mins (full charge, 7kW charger)",264,15.9,
+Tesla Model 3,Medium Car,2023 Tesla Model 3 Rear-Wheel Drive Auto,"15 mins (recharge to 50%, 170kW charger)",559,13.4,60900
+Tesla Model Y (Standard),Medium SUV,2023 Tesla Model Y Rear-Wheel Drive Auto,"16 mins (recharge to 50%, 170kW charger)",510,14.6,68900
+Volvo C40,Small SUV,2023 Volvo C40 Recharge Auto MY23,"28 mins (10%-80% charge, 150kW charger)",540,16.8,75990
+Volvo XC40 BEV,Small SUV,2022 Volvo XC40 Recharge Pure Electric Auto MY23,"28 mins (10%-80% charge, 130kW charger)",510,20.9,73990
