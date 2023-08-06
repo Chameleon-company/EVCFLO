@@ -22,7 +22,7 @@ Thank you for contributing to our dataset library! If you have any questions or 
 
 Dataset Name: Vehicle type sales broken down by fuel type (Last updated 20 April 2023)
 
-Dataset Source:  Australian Automobile Association
+Dataset Source: Australian Automobile Association
 
 Dataset Reference: https://data.aaa.asn.au/ev-index/
 
@@ -40,10 +40,10 @@ Contributor: Siju Deng
 
 # Dataset 3
 
-Dataset Name:
+Dataset Name: Station_Compiler_Location_T2_2023
 
-Dataset Source:
+Dataset Source: Data from datasets T2_2023 (Various)
 
-Dataset Reference:
+Dataset Reference: (Various)
 
-Contributor:
+Contributor: Jamie Davidson

@@ -22,13 +22,13 @@ Please fill out this information and add it to the end of the document:
 
 # Notebook 1
 
-Notebook Name:
+Notebook Name: Station_Compiler_Location_T2_2023
 
-Notebook Dataset:
+Notebook Dataset: T2_2023 datasets folder (Various)
 
-Notebook Description:
+Notebook Description: This Notebook is a new revision of the Station_Compiler_Location notebook made in T1_2023.
 
-Contributor:
+Contributor: Jamie Davidson
 
 # Notebook 2
 
