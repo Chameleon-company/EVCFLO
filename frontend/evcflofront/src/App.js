@@ -1,18 +1,24 @@
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "./pages/home";
-import Data from "./pages/datapage";
-import Research from "./pages/research";
-import AImodels from "./pages/aimodels";
-import News from "./pages/news";
+// material ui fonts loaded at top level
+import '@fontsource/roboto/300.css';
+import '@fontsource/roboto/400.css';
+import '@fontsource/roboto/500.css';
+import '@fontsource/roboto/700.css';
+
+import Navbar from './components/Navbar';
+import Footer from './components/Footer';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from './pages/home';
+import Data from './pages/datapage';
+import Research from './pages/research';
+import AImodels from './pages/aimodels';
+import News from './pages/news';
 //import AI models
-import DensityClustering from "./aimodels/densityclustering";
-import FAQ from "./pages/faq";
-import Login from "./pages/login";
-import Logout from "./pages/logout";
-import User from "./pages/user";
-import SignUp from "./pages/SignUp";
+import DensityClustering from './aimodels/densityclustering';
+import FAQ from './pages/faq';
+import Login from './pages/login';
+import Logout from './pages/logout';
+import User from './pages/user';
+import SignUp from './pages/SignUp';
 
 function App() {
   return (
@@ -31,14 +37,14 @@ function App() {
           exact
           path="/densityclusteringmap"
           render={() => {
-            window.location.href = "densityclusteringmap.html";
+            window.location.href = 'densityclusteringmap.html';
           }}
         />
         <Route
           exact
           path="/EVCSrecommendationsmap"
           render={() => {
-            window.location.href = "EVCSrecommendationsmap.html";
+            window.location.href = 'EVCSrecommendationsmap.html';
           }}
         />
         <Route path="/faq" element={<FAQ />} />

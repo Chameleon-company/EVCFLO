@@ -39,7 +39,7 @@ const SignUp = () => {
     signUpUser(email, password)
       .then((user) => {
         // alert success
-        setSuccess('Login success!');
+          setSuccess('Sign up successful! Please check your email for a verification link');
         console.log(user);
       })
       .catch((errorMessage) => {
@@ -99,7 +99,7 @@ const SignUp = () => {
         {success && <p className="login-success">{success}</p>}
         {/* submit button */}
         <button className="login-btn" type="submit">
-          Login
+          Sign Up
         </button>
       </form>
     </div>
