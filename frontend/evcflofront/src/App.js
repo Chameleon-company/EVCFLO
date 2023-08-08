@@ -12,7 +12,9 @@ import FAQ from "./pages/faq";
 import Login from "./pages/login";
 import Logout from "./pages/logout";
 import User from "./pages/user";
+import Certificate from "./pages/certificates";
 import SignUp from "./pages/SignUp";
+
 
 function App() {
   return (
@@ -25,6 +27,7 @@ function App() {
         <Route path="/research" element={<Research />} />
         <Route path="/aimodels" element={<AImodels />} />
         <Route path="/news" element={<News />} />
+        <Route path="/certificate" element={<Certificate />} />
 
         <Route path="/densityclustering" element={<DensityClustering />} />
         <Route
