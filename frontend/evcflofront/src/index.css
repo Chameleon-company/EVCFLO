@@ -34,7 +34,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: "Bahnschrift", sans-serif;
+  font-family: 'Bahnschrift', sans-serif;
   background: var(--white-clr);
   color: var(--heading-clr);
   line-height: 1.5;
@@ -190,7 +190,7 @@ About Component
 }
 @media screen and (min-width: 1170px) {
   .about-img::before {
-    content: "";
+    content: '';
     position: absolute;
     width: 100%;
     height: 100%;
@@ -267,6 +267,13 @@ Navbar
 
 .nav-logo {
   height: 45px;
+}
+.nav-logo2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  height: auto;
 }
 
 button.nav-link {
@@ -391,8 +398,7 @@ Hero Component
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(rgba(7, 62, 28, 0.7), rgba(0, 0, 0, 0.7)),
-    url("./images/main.jpg") center/cover no-repeat;
+  background: linear-gradient(rgba(7, 62, 28, 0.7), rgba(0, 0, 0, 0.7)), url('./images/main.jpg') center/cover no-repeat;
 }
 .hero-banner {
   text-align: center;
@@ -412,7 +418,7 @@ Hero Component
 @media screen and (min-width: 768px) {
   .hero {
     background: linear-gradient(rgb(7, 62, 28, 0.7), rgba(0, 0, 0, 0.7)),
-      url("./images/main.jpg") center/cover no-repeat;
+      url('./images/main.jpg') center/cover no-repeat;
   }
   .hero-banner {
     padding: 0;
@@ -691,7 +697,7 @@ user page
 .user-profile {
   height: auto;
   margin-top: 100px;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
