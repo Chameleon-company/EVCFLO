@@ -14,6 +14,7 @@ import Logout from "./pages/logout";
 import User from "./pages/user";
 import Certificate from "./pages/certificates";
 import SignUp from "./pages/SignUp";
+import Spare from "./pages/spare";
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
         <Route path="/aimodels" element={<AImodels />} />
         <Route path="/news" element={<News />} />
         <Route path="/certificate" element={<Certificate />} />
+        <Route path="/spare" element={<Spare />} />
 
         <Route path="/densityclustering" element={<DensityClustering />} />
         <Route
