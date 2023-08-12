@@ -29,7 +29,7 @@ function App() {
         <Route path="/aimodels" element={<AImodels />} />
         <Route path="/news" element={<News />} />
         <Route path="/certificate" element={<Certificate />} />
-        <Route path="/spare" element={<Spare />} />
+        <Route path="/accessories" element={<Spare />} />
 
         <Route path="/densityclustering" element={<DensityClustering />} />
         <Route
