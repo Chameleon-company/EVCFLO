@@ -23,23 +23,22 @@ const Map = () => {
 
       await loadScript();
 
-
       window.initMap = () => {
-        const CHARGERS_URI = config.API_URL+'/get_chargers';
-        const BOUND_URI = config.API_URL+'/get_bounds';
-        const SUGGESTED_URI = config.API_URL+'/get_suggested';
-      
+        const CHARGERS_URI = config.API_URL + '/get_chargers';
+        const BOUND_URI = config.API_URL + '/get_bounds';
+        const SUGGESTED_URI = config.API_URL + '/get_suggested';
+
         const melbourne = { lat: -37.8136, lng: 144.9631 };
         const map = new window.google.maps.Map(mapRef.current, {
           zoom: 10,
           center: melbourne,
         });
-      
+
         const infowindow = new window.google.maps.InfoWindow({
           maxWidth: 350,
           pixelOffset: new window.google.maps.Size(-2, -25),
         });
-      
+
         const infoFn = (location) => (e) => {
           const content = `
             <div class="infowindow-container">
@@ -51,12 +50,12 @@ const Map = () => {
               </div>
             </div>
           `;
-        
+
           infowindow.setContent(content);
           infowindow.open(map);
           infowindow.setPosition(new window.google.maps.LatLng(location.latitude, location.longitude));
         };
-        
+
         const infoFnSug = (location) => (e) => {
           const content = `
             <div class="infowindow-container">
@@ -68,12 +67,12 @@ const Map = () => {
               </div>
             </div>
           `;
-        
+
           infowindow.setContent(content);
           infowindow.open(map);
           infowindow.setPosition(new window.google.maps.LatLng(location.latitude, location.longitude));
         };
-      
+
         fetch(CHARGERS_URI)
           .then((response) => response.json())
           .then((data) => {
@@ -86,20 +85,20 @@ const Map = () => {
                   url: 'http://maps.google.com/mapfiles/ms/icons/red-dot.png',
                 },
               });
-      
+
               const fn = infoFn(location);
               marker.addListener('click', fn);
-      
+
               return marker;
             });
-      
+
             setMarkers(markerList);
           })
           .catch((error) => {
             console.log('An error occurred accessing the API. Is the server running?');
             console.log(error);
           });
-      
+
         fetch(BOUND_URI)
           .then((response) => response.json())
           .then((data) => {
@@ -110,7 +109,7 @@ const Map = () => {
                 east: bound.east,
                 west: bound.west,
               };
-      
+
               const rectangle = new window.google.maps.Rectangle({
                 strokeColor: '#a4a4a4',
                 strokeOpacity: 0.8,
@@ -120,17 +119,17 @@ const Map = () => {
                 map: map,
                 bounds: boundShape,
               });
-      
+
               return rectangle;
             });
-      
+
             setBounds(boundsList);
           })
           .catch((error) => {
             console.log('An error occurred accessing the API. Is the server running?');
             console.log(error);
           });
-      
+
         fetch(SUGGESTED_URI)
           .then((response) => response.json())
           .then((data) => {
@@ -143,13 +142,13 @@ const Map = () => {
                   url: 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
                 },
               });
-      
+
               const fn = infoFnSug(location);
               marker.addListener('click', fn);
-      
+
               return marker;
             });
-      
+
             setSuggested(suggestedList);
           })
           .catch((error) => {
@@ -166,11 +165,10 @@ const Map = () => {
         delete window.initMap;
       }
     };
-
   }, []);
 
   return (
-    <div style={{ width: '100%', height: '400px' }}>
+    <div style={{ width: '100%', height: '550px' }}>
       <div ref={mapRef} style={{ width: '100%', height: '100%' }}></div>
     </div>
   );

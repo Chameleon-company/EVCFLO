@@ -1,8 +1,8 @@
-import Map from "../components/Map";
-import InfoMaps from "../components/InformationMaps";
-import About from "../components/About";
-import Hero from "../components/Hero";
-import ContactUs from "../components/contactus";
+import Map from '../components/Map';
+import InfoMaps from '../components/InformationMaps';
+import About from '../components/About';
+import Hero from '../components/Hero';
+//import ContactUs from "../components/contactus";
 
 const Home = () => {
   return (
@@ -11,7 +11,6 @@ const Home = () => {
       <InfoMaps />
       <Map />
       <About />
-      <ContactUs />
     </>
   );
 };
