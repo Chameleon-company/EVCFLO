@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EV Charger Finder</title>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAuBhwP-VXkOecAelga9SRInuVpsYoLWS&libraries=places"></script>
+    <script>
+        function initMap() {
+            const map = new google.maps.Map(document.getElementById('map'), {
+                center: { lat: -33.8688, lng: 151.2093 },
+                zoom: 12
+            });
+
+            // Get user's current location or set a default location
+            navigator.geolocation.getCurrentPosition(position => {
+                const userLocation = {
+                    lat: position.coords.latitude,
+                    lng: position.coords.longitude
+                };
+
+                map.setCenter(userLocation);
+
+                // Send user's location to the server to get nearby chargers
+                fetch('/get_chargers', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded'
+                    },
+                    body: `latitude=${userLocation.lat}&longitude=${userLocation.lng}`
+                })
+                .then(response => response.json())
+                .then(chargers => {
+                    chargers.forEach(charger => {
+                        const marker = new google.maps.Marker({
+                            position: { lat: charger.latitude, lng: charger.longitude },
+                            map: map,
+                            title: charger.name
+                        });
+                    });
+                })
+                .catch(error => console.error(error));
+            }, error => console.error(error));
+        }
+    </script>
+</head>
+<body>
+    <div id="map" style="height: 400px;"></div>
+</body>
+</html>
 
