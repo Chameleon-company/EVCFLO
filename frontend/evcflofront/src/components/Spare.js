@@ -9,7 +9,7 @@ const SpareParts = () => {
         <SubTitle title="Spare" subTitle="parts" />
         <form action="" method="POST">
           <label htmlFor="company" className="form-label">
-            company name:
+            Company name:
           </label>
           <input
             type="text"
@@ -31,7 +31,7 @@ const SpareParts = () => {
           />
           <br />
           <label htmlFor="city" className="form-label">
-            city:
+            City:
           </label>
           <input
             type="text"
@@ -41,7 +41,7 @@ const SpareParts = () => {
           />
           <br />
           <label htmlFor="phone" className="form-label">
-            phone:
+            Phone:
           </label>
 
           <input
@@ -53,7 +53,7 @@ const SpareParts = () => {
           />
           <br />
           <label htmlFor="email" className="form-label">
-            email:
+            Email:
           </label>
 
           <input
