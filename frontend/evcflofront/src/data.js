@@ -6,6 +6,7 @@ export const pageLinks = [
   { id: 5, href: "/faq", text: "FAQ " },
   { id: 6, href: "/news", text: "News " },
   { id: 7, href: "/certificate", text: "Certificate " },
+  { id: 8, href: "/spare", text: "Spare " },
 ];
 
 export const socialLinks = [
