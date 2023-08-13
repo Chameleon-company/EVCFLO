@@ -20,13 +20,13 @@ Thank you for contributing to our visualisations library! If you have any questi
 
 # Visualisation 1
 
-Visualisation Name:
+Visualisation Name: Global Electric Vehicle Data Exploration
 
-Visualisation Source:
+Visualisation Source: Siju make by PowerBI
 
-Visualisation Reference:
+Visualisation Reference: data from IEA, Can be found in datasets
 
-Contributor:
+Contributor: Siju Deng
 
 # Visualisation 2
 
