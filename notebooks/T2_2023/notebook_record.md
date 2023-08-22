@@ -32,13 +32,13 @@ Contributor: Jamie Davidson
 
 # Notebook 2
 
-Notebook Name:
+Notebook Name: Data_Compiler_reference_T2_2023
 
-Notebook Dataset:
+Notebook Dataset: datasets (all compatable files according to notebook)
 
-Notebook Description:
+Notebook Description: Extracts every dataset (CSV, XLSX, JSON, ..., ect.) name and varables included into a HTML format for reference.
 
-Contributor:
+Contributor: Jamie Davidson
 
 # Notebook 3
 
