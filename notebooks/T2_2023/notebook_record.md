@@ -42,10 +42,10 @@ Contributor: Jamie Davidson
 
 # Notebook 3
 
-Notebook Name:
+Notebook Name: Forecasting golbal charging points in 2024
 
-Notebook Dataset:
+Notebook Dataset: Global_EV_Data_26042023 data, Station_Compiler_Location_T2_2023
 
-Notebook Description:
+Notebook Description: Visualize all current charging points predict the number of charging points in each city in 2024 (golbal) Forecast based on available data, subject to error
 
-Contributor:
+Contributor: Siju Deng 
