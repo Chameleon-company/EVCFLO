@@ -5,6 +5,3 @@ steps:
       - '--tag=gcr.io/$PROJECT_ID/quickstart-image'
       - '--file=Dockerfile.client'
       - .
----
-images:
-  - 'gcr.io/$PROJECT_ID/quickstart-image'
