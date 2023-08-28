@@ -3,7 +3,7 @@ steps:
     args:
       - build
       - '--tag=gcr.io/$PROJECT_ID/quickstart-image'
-      - '--file=./Dockerfile.client'
+      - '--file=Dockerfile.client'
       - .
 ---
 images:
