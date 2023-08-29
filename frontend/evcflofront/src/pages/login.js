@@ -74,18 +74,22 @@ const Login = () => {
               <Snackbar
                 open={Boolean(error)}
                 autoHideDuration={6000}
-                anchorOrigin={{ vertical: 'top', horizontal: 'center' }}
+                anchorOrigin={{ vertical: 'top', horizontal: 'right' }}
               >
-                <Alert severity="error">{error}</Alert>
+                <Alert severity="error" sx={{ marginTop: '50px' }}>
+                  {error}
+                </Alert>
               </Snackbar>
             )}
             {success && (
               <Snackbar
                 open={Boolean(success)}
                 autoHideDuration={6000}
-                anchorOrigin={{ vertical: 'bottom', horizontal: 'center' }}
+                anchorOrigin={{ vertical: 'top', horizontal: 'right' }}
               >
-                <Alert severity="success">{success}</Alert>
+                <Alert severity="success" sx={{ marginTop: '50px' }}>
+                  {success}
+                </Alert>
               </Snackbar>
             )}
           </Box>
