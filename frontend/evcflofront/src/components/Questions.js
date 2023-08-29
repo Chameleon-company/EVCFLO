@@ -287,39 +287,51 @@ function Section(props) {
     collapsedHeight: props.collapsedHeight || 0,
   };
   const { getCollapseProps, getToggleProps, isExpanded } = useCollapse(config);
+
+  const styles = {
+    content: {
+      padding: '6px',
+      backgroundColor: 'rgb(240, 240, 240)',
+      fontSize: '14px',
+      flex: '1',
+      borderRadius: '10px',
+      border: '1px solid #ccc',
+      marginBottom: '10px',
+      marginLeft: '10px',
+      marginRight: '10px',
+    },
+    header: {
+      backgroundColor: 'rgb(200, 200, 200)',
+      padding: '6px',
+      cursor: 'pointer',
+      display: 'flex',
+      justifyContent: 'space-between',
+      borderBottom: '2px solid rgb(220, 220, 220)',
+      borderRadius: '10px',
+      border: '1px solid #ccc',
+      marginBottom: '10px',
+      marginLeft: '10px',
+      marginRight: '10px',
+    },
+    title: {
+      fontWeight: '400',
+    },
+    preferencesLabel: {
+      display: 'block',
+      paddingBottom: '4px',
+    },
+  };
+
   return (
     <div className="collapsible">
-      <div
-        className="header"
-        {...getToggleProps()}
-        style={{
-          borderRadius: '10px',
-          border: '1px solid #ccc',
-          padding: '10px',
-          marginBottom: '10px',
-          marginLeft: '10px',
-          marginRight: '10px',
-        }}
-      >
-        <div className="title">{props.title}</div>
+      <div {...getToggleProps()} style={styles.header}>
+        <div style={styles.title}>{props.title}</div>
         <div className="icon">
           <i className={'fas fa-chevron-circle-' + (isExpanded ? 'up' : 'down')}></i>
         </div>
       </div>
       <div {...getCollapseProps()}>
-        <div
-          className="content"
-          style={{
-            borderRadius: '10px',
-            border: '1px solid #ccc',
-            padding: '10px',
-            marginBottom: '10px',
-            marginLeft: '10px',
-            marginRight: '10px',
-          }}
-        >
-          {props.children}
-        </div>
+        <div style={styles.content}>{props.children}</div>
       </div>
     </div>
   );
