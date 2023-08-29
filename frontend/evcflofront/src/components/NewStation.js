@@ -1,116 +1,181 @@
-import SubTitle from "./SubTitle";
+import React from 'react';
+import SubTitle from './SubTitle';
+import { TextField, Button, Grid, Container, Box } from '@mui/material';
+
 const NewStation = () => {
   return (
-    <section className="section" id="newstation">
-      <SubTitle title="Add" subTitle="Station" />
-      <form
-        action="https://server-e657pcuziq-ts.a.run.app/api/add_station"
-        method="POST"
-      >
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" />
-        <br />
-        <label for="address">Address:</label>
-        <input type="text" id="address" name="address" />
-        <br />
-        <label for="longitude">Longitude:</label>
-        <input type="number" step="0.0001" id="longitude" name="longitude" />
-        <br />
-        <label for="latitude">Latitude:</label>
-        <input type="number" step="0.0001" id="latitude" name="latitude" />
-        <br />
-        <label for="location_category">Location Category:</label>
-        <input type="text" id="location_category" name="location_category" />
-        <br />
-        <label for="location_sub_category">Location Subcategory:</label>
-        <input
-          type="text"
-          id="location_sub_category"
-          name="location_sub_category"
-        />
-        <br />
-        <label for="description">Description:</label>
-        <input type="text" id="description" name="description" />
-        <br />
-        <label for="open_date">Open Date:</label>
-        <input type="text" id="open_date" name="open_date" />
-        <br />
-        <label for="parking">Pricing:</label>
-        <input type="text" id="parking" name="parking" />
-        <br />
-        <label for="pricing">Pricing:</label>
-        <input type="text" id="pricing" name="pricing" />
-        <br />
-        <label for="free_use">Free Use:</label>
-        <input type="text" id="free_use" name="free_use" />
-        <br />
-        <label for="contact">Contact Details:</label>
-        <input type="text" id="contact" name="contact" />
-        <br />
-        <label for="networks">Networks (Format: []):</label>
-        <input type="text" id="networks" name="networks" />
-        <br />
-        <label for="total_plugs">Total Plugs:</label>
-        <input type="number" id="total_plugs" name="total_plugs" />
-        <br />
-        <label for="port_level_type">Port Level Type:</label>
-        <input type="text" id="port_level_type" name="port_level_type" />
-        <br />
-        <label for="power_outputs_kw">Power Output (kW, Format: []):</label>
-        <input type="number" id="power_outputs_kw" name="power_outputs_kw" />
-        <br />
-        <label for="renewable_power_supply">Renewable Power Supply:</label>
-        <input
-          type="text"
-          id="renewable_power_supply"
-          name="renewable_power_supply"
-        />
-        <br />
-        <label for="Plugs_CHAdeMO">Number of plugs - CHAdeMO:</label>
-        <input type="number" id="Plugs_CHAdeMO" name="Plugs_CHAdeMO" />
-        <br />
-        <label for="Plugs_Tesla">Number of plugs - Tesla:</label>
-        <input type="number" id="Plugs_Tesla" name="Plugs_Tesla" />
-        <br />
-        <label for="Plugs_CCS_SAE">Number of plugs - CCS_SAE:</label>
-        <input type="number" id="Plugs_CCS_SAE" name="Plugs_CCS_SAE" />
-        <br />
-        <label for="Plugs_J1772">Number of plugs - J1772:</label>
-        <input type="number" id="Plugs_J1772" name="Plugs_J1772" />
-        <br />
-        <label for="Plugs_Type2">Number of plugs - Type2:</label>
-        <input type="number" id="Plugs_Type2" name="Plugs_Type2" />
-        <br />
-        <label for="Plugs_Three_Phase">Number of plugs - Three Phase:</label>
-        <input type="number" id="Plugs_Three_Phase" name="Plugs_Three_Phase" />
-        <br />
-        <label for="Plugs_Commando">Number of plugs - Commando:</label>
-        <input type="number" id="Plugs_Commando" name="Plugs_Commando" />
-        <br />
-        <label for="Plugs_Wall_AU_NZ">Number of plugs - Wall_AU:</label>
-        <input type="number" id="Plugs_Wall_AU_NZ" name="Plugs_Wall_AU_NZ" />
-        <br />
-        <label for="Plugs_Caravan_Mains">
-          Number of plugs - Caravan_Mains:
-        </label>
-        <input
-          type="number"
-          id="Plugs_Caravan_Mains"
-          name="Plugs_Caravan_Mains"
-        />
-        <br />
-        <label for="Plugs_Other">Number of plugs - Other:</label>
-        <input type="number" id="Plugs_Other" name="Plugs_Other" />
-        <br />
-        <label for="source">Source of Datapoint:</label>
-        <input type="text" id="source" name="source" />
-        <br />
-        <label for="source_date">Source Date:</label>
-        <input type="date" id="source_date" name="source_date" />
-        <br />
-        <input type="submit" value="Submit" />
+    <Box
+      component="section"
+      sx={{
+        flexGrow: 1,
+        width: '100%', // Ensures full width on small screens
+        maxWidth: { xs: '100%', md: '50%' }, // Full width on small (xs) screens, 500px max-width on medium (md) and up
+        margin: '0 auto', // Centers the content
+      }}
+      style={{
+        boxShadow: '0 50px 50px rgb(0 0 0 / 0.2)',
+        borderRadius: '25px',
+        background: '#2144ad1a',
+        padding: '50px',
+      }}
+    >
+      <SubTitle title="Add Station" />
+
+      <form action="https://server-e657pcuziq-ts.a.run.app/api/add_station" method="POST">
+        <Grid container spacing={3}>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Name" name="name" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Address" name="address" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth type="number" label="Longitude" name="longitude" step="0.0001" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth type="number" label="Latitude" name="latitude" step="0.0001" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Location Category" name="location_category" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Location Subcategory" name="location_sub_category" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Description" name="description" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Open Date" name="open_date" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Parking" name="parking" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Pricing" name="pricing" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Free Use" name="free_use" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Contact Details" name="contact" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Networks (Format: [])" name="networks" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth type="number" label="Total Plugs" name="total_plugs" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Port Level Type" name="port_level_type" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField
+              fullWidth
+              type="number"
+              label="Power Output (kW, Format: [])"
+              name="power_outputs_kw"
+              variant="outlined"
+            />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Renewable Power Supply" name="renewable_power_supply" variant="outlined" />
+          </Grid>
+          {/* The following are the "Number of plugs" series, note the pattern */}
+          <Grid item xs={12} md={6}>
+            <TextField
+              fullWidth
+              type="number"
+              label="Number of plugs - CHAdeMO"
+              name="Plugs_CHAdeMO"
+              variant="outlined"
+            />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth type="number" label="Number of plugs - Tesla" name="Plugs_Tesla" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField
+              fullWidth
+              type="number"
+              label="Number of plugs - CCS_SAE"
+              name="Plugs_CCS_SAE"
+              variant="outlined"
+            />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth type="number" label="Number of plugs - J1772" name="Plugs_J1772" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth type="number" label="Number of plugs - Type2" name="Plugs_Type2" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField
+              fullWidth
+              type="number"
+              label="Number of plugs - Three Phase"
+              name="Plugs_Three_Phase"
+              variant="outlined"
+            />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField
+              fullWidth
+              type="number"
+              label="Number of plugs - Commando"
+              name="Plugs_Commando"
+              variant="outlined"
+            />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField
+              fullWidth
+              type="number"
+              label="Number of plugs - Wall_AU"
+              name="Plugs_Wall_AU_NZ"
+              variant="outlined"
+            />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField
+              fullWidth
+              type="number"
+              label="Number of plugs - Caravan_Mains"
+              name="Plugs_Caravan_Mains"
+              variant="outlined"
+            />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth type="number" label="Number of plugs - Other" name="Plugs_Other" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField fullWidth label="Source of Datapoint" name="source" variant="outlined" />
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <TextField
+              fullWidth
+              type="date"
+              InputLabelProps={{ shrink: true }}
+              label="Source Date"
+              name="source_date"
+              variant="outlined"
+            />
+          </Grid>
+          <Grid item xs={12}>
+            <Button
+              style={{
+                display: 'block',
+                margin: '0 auto',
+              }}
+              variant="contained"
+              color="primary"
+              type="submit"
+            >
+              Submit
+            </Button>
+          </Grid>
+        </Grid>
       </form>
-    </section>
+    </Box>
   );
 };
 

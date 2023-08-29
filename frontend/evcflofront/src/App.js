@@ -19,41 +19,51 @@ import Login from './pages/login';
 import Logout from './pages/logout';
 import User from './pages/user';
 import SignUp from './pages/SignUp';
+import { Box } from '@mui/material';
 
 function App() {
   return (
     <Router>
       <Navbar />
-      <Routes>
-        <Route path="/home" element={<Home />} />
-        <Route path="/" element={<Home />} />
-        <Route path="/datapage" element={<Data />} />
-        <Route path="/research" element={<Research />} />
-        <Route path="/aimodels" element={<AImodels />} />
-        <Route path="/news" element={<News />} />
+      <Box display="flex" flexDirection="column" minHeight="100vh">
+        <Box
+          flexGrow={1}
+          style={{
+            paddingBottom: '500px', // footer height
+          }}
+        >
+          <Routes>
+            <Route path="/home" element={<Home />} />
+            <Route path="/" element={<Home />} />
+            <Route path="/datapage" element={<Data />} />
+            <Route path="/research" element={<Research />} />
+            <Route path="/aimodels" element={<AImodels />} />
+            <Route path="/news" element={<News />} />
 
-        <Route path="/densityclustering" element={<DensityClustering />} />
-        <Route
-          exact
-          path="/densityclusteringmap"
-          render={() => {
-            window.location.href = 'densityclusteringmap.html';
-          }}
-        />
-        <Route
-          exact
-          path="/EVCSrecommendationsmap"
-          render={() => {
-            window.location.href = 'EVCSrecommendationsmap.html';
-          }}
-        />
-        <Route path="/faq" element={<FAQ />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="/logout" element={<Logout />} />
-        <Route path="/signup" element={<SignUp />} />
-        <Route path="/user" element={<User />} />
-      </Routes>
-      <Footer />
+            <Route path="/densityclustering" element={<DensityClustering />} />
+            <Route
+              exact
+              path="/densityclusteringmap"
+              render={() => {
+                window.location.href = 'densityclusteringmap.html';
+              }}
+            />
+            <Route
+              exact
+              path="/EVCSrecommendationsmap"
+              render={() => {
+                window.location.href = 'EVCSrecommendationsmap.html';
+              }}
+            />
+            <Route path="/faq" element={<FAQ />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/logout" element={<Logout />} />
+            <Route path="/signup" element={<SignUp />} />
+            <Route path="/user" element={<User />} />
+          </Routes>
+        </Box>
+        <Footer />
+      </Box>
     </Router>
   );
 }
