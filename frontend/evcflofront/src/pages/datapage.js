@@ -3,6 +3,7 @@ import SuggestedStation from '../components/SuggestStation';
 import NewStation from '../components/NewStation';
 import NewBoundary from '../components/NewBoundary';
 import { Button, Box } from '@mui/material';
+import Title from '../components/Title';
 
 const Data = () => {
   const [selectedComponent, setSelectedComponent] = useState(null);
@@ -29,7 +30,15 @@ const Data = () => {
           marginBottom: 4,
         }}
       >
-        <h2>Add or Suggest Map Data</h2>
+        <Box mt={4}>
+          <Title
+            title="EVCFLO"
+            subTitle="Data"
+            style={{
+              paddingTop: '20px',
+            }}
+          />
+        </Box>
         <Box
           sx={{
             display: 'flex',
@@ -37,13 +46,31 @@ const Data = () => {
             gap: 2,
           }}
         >
-          <Button variant="contained" color="primary" onClick={() => setSelectedComponent('suggested')}>
+          <Button
+            variant="contained"
+            style={{
+              backgroundColor: 'var(--heading-clr)',
+            }}
+            onClick={() => setSelectedComponent('suggested')}
+          >
             Suggest Station
           </Button>
-          <Button variant="contained" color="primary" onClick={() => setSelectedComponent('new')}>
+          <Button
+            style={{
+              backgroundColor: 'var(--heading-clr)',
+            }}
+            variant="contained"
+            onClick={() => setSelectedComponent('new')}
+          >
             Add Station
           </Button>
-          <Button variant="contained" color="primary" onClick={() => setSelectedComponent('boundary')}>
+          <Button
+            style={{
+              backgroundColor: 'var(--heading-clr)',
+            }}
+            variant="contained"
+            onClick={() => setSelectedComponent('boundary')}
+          >
             Add Boundary
           </Button>
         </Box>

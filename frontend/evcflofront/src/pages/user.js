@@ -20,6 +20,9 @@ import {
   DialogContent,
   DialogActions,
 } from '@mui/material';
+import { Box } from '@mui/material';
+
+import Title from '../components/Title';
 
 import EditIcon from '@mui/icons-material/Edit';
 import KeyIcon from '@mui/icons-material/Key';
@@ -104,73 +107,79 @@ const User = () => {
   };
 
   return userProfile ? (
-    <Grid container spacing={2} alignItems="center" justifyContent="center" sx={{ minHeight: '70vh' }}>
-      <UsernameDialog open={open} onClose={handleClose} newUsername={newUsername} setNewUsername={setNewUsername} />
-      <Grid item xs={12} sm={10} md={8} lg={6}>
-        <Card
-          variant="outlined"
-          sx={{
-            '&:hover': {
-              boxShadow: '0 0 10px 5px rgba(0, 0, 0, 0.1)',
-            },
-          }}
-        >
-          <CardContent>
-            <Typography variant="h5" component="h2">
-              User Profile
-            </Typography>
-            <List>
-              <ListItemWithTooltip tooltipTitle="Change username" onClick={() => setOpen(true)}>
-                <ListItemText primary="Username" secondary={userProfile.displayName} />
-              </ListItemWithTooltip>
-              <ListItem
-                sx={{
-                  '&:hover': {
-                    backgroundColor: 'grey.100',
-                  },
-                }}
-              >
-                <ListItemText
-                  primary="Email"
-                  secondary={userProfile.emailVerified ? userProfile.email : userProfile.email + ' (unverified)'}
+    <>
+      <Box mt={4}>
+        <Title title="EVCFLO" subTitle="User" />
+      </Box>
+
+      <Grid container spacing={2} justifyContent="center" sx={{ minHeight: '70vh' }}>
+        <UsernameDialog open={open} onClose={handleClose} newUsername={newUsername} setNewUsername={setNewUsername} />
+        <Grid item xs={12} sm={10} md={8} lg={6}>
+          <Card
+            variant="outlined"
+            sx={{
+              '&:hover': {
+                boxShadow: '0 0 10px 5px rgba(0, 0, 0, 0.1)',
+              },
+            }}
+          >
+            <CardContent>
+              <Typography variant="h5" component="h2">
+                User Profile
+              </Typography>
+              <List>
+                <ListItemWithTooltip tooltipTitle="Change username" onClick={() => setOpen(true)}>
+                  <ListItemText primary="Username" secondary={userProfile.displayName} />
+                </ListItemWithTooltip>
+                <ListItem
                   sx={{
-                    color: userProfile.emailVerified ? 'green' : 'red',
+                    '&:hover': {
+                      backgroundColor: 'grey.100',
+                    },
                   }}
-                />
-                <ListItemSecondaryAction>
-                  {!userProfile.emailVerified ? (
-                    <Tooltip title="Resend email verification">
-                      <IconButton edge="end" aria-label="edit" onClick={handleVerifyEmail}>
-                        <ReplayIcon />
+                >
+                  <ListItemText
+                    primary="Email"
+                    secondary={userProfile.emailVerified ? userProfile.email : userProfile.email + ' (unverified)'}
+                    sx={{
+                      color: userProfile.emailVerified ? 'green' : 'red',
+                    }}
+                  />
+                  <ListItemSecondaryAction>
+                    {!userProfile.emailVerified ? (
+                      <Tooltip title="Resend email verification">
+                        <IconButton edge="end" aria-label="edit" onClick={handleVerifyEmail}>
+                          <ReplayIcon />
+                        </IconButton>
+                      </Tooltip>
+                    ) : (
+                      <></>
+                    )}
+                  </ListItemSecondaryAction>
+                </ListItem>
+
+                <ListItem
+                  sx={{
+                    '&:hover': {
+                      backgroundColor: 'grey.100',
+                    },
+                  }}
+                >
+                  <ListItemText primary="Password" secondary="********" />
+                  <ListItemSecondaryAction>
+                    <Tooltip title="Change Password">
+                      <IconButton edge="end" aria-label="edit" onClick={handlePasswordReset}>
+                        <KeyIcon />
                       </IconButton>
                     </Tooltip>
-                  ) : (
-                    <></>
-                  )}
-                </ListItemSecondaryAction>
-              </ListItem>
-
-              <ListItem
-                sx={{
-                  '&:hover': {
-                    backgroundColor: 'grey.100',
-                  },
-                }}
-              >
-                <ListItemText primary="Password" secondary="********" />
-                <ListItemSecondaryAction>
-                  <Tooltip title="Change Password">
-                    <IconButton edge="end" aria-label="edit" onClick={handlePasswordReset}>
-                      <KeyIcon />
-                    </IconButton>
-                  </Tooltip>
-                </ListItemSecondaryAction>
-              </ListItem>
-            </List>
-          </CardContent>
-        </Card>
+                  </ListItemSecondaryAction>
+                </ListItem>
+              </List>
+            </CardContent>
+          </Card>
+        </Grid>
       </Grid>
-    </Grid>
+    </>
   ) : (
     <div className="loader">
       <Typography variant="h6">Loading...</Typography>

@@ -6,10 +6,8 @@ import { Typography } from '@mui/material';
 function Footer() {
   const footerStyle = {
     backgroundColor: '#fafafa',
-    // padding: '48px',
     paddingTop: '48px',
     paddingBottom: '48px',
-    // position: 'fixed',
     bottom: '0',
     width: '100%',
     left: '0',

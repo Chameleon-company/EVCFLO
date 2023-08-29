@@ -1,52 +1,42 @@
-
 import React from 'react';
 import JsonData from '../data/notebook.json';
-import SubTitle from "./SubTitle";
+import { Box, Typography, Table, TableBody, TableCell, TableHead, TableRow, Paper, Link } from '@mui/material';
 
- function JsonDataDisplay(){
-    const DisplayData=JsonData.map(
-        (notebook)=>{
-            return(
-                <tr>
-                    <td>{notebook.topic}</td>
-                    <td>{notebook.detail}</td>
-                    <td>
-                    <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href={process.env.PUBLIC_URL + notebook.link}
-                    >
-                        HTML Link
-                    </a>
-                    </td>
-                </tr>
-            )
-        }
-    )
- 
-    return(
-        <section className="section" id="notebook">
-            <SubTitle title="EVCFLO" subTitle="Researches" />
-            <div class="centered">
-                <table class="table table-striped" width="80%" className="centerText">
-                    <thead>
-                        <tr>
-                        <th>Research Topic</th>
-                        <th>Decsription</th>
-                        <th>Jupyter Notebook</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                    
-                        
-                        {DisplayData}
-                        
-                    </tbody>
-                </table>
-                
-            </div>
-        </section>
-    )
- }
- 
- export default JsonDataDisplay;
+function JsonDataDisplay() {
+  return (
+    <Box mt={3} mb={6}>
+      <Typography variant="h5" align="center" paragraph>
+        This page showcases research results and applications from our notebooks.
+      </Typography>
+
+      <Box display="flex" justifyContent="center">
+        <Paper style={{ width: '80%' }}>
+          <Table>
+            <TableHead>
+              <TableRow>
+                <TableCell>Research Topic</TableCell>
+                <TableCell>Description</TableCell>
+                <TableCell>Jupyter Notebook</TableCell>
+              </TableRow>
+            </TableHead>
+            <TableBody>
+              {JsonData.map((notebook) => (
+                <TableRow key={notebook.topic}>
+                  <TableCell>{notebook.topic}</TableCell>
+                  <TableCell>{notebook.detail}</TableCell>
+                  <TableCell>
+                    <Link target="_blank" rel="noreferrer" href={process.env.PUBLIC_URL + notebook.link}>
+                      HTML Link
+                    </Link>
+                  </TableCell>
+                </TableRow>
+              ))}
+            </TableBody>
+          </Table>
+        </Paper>
+      </Box>
+    </Box>
+  );
+}
+
+export default JsonDataDisplay;
