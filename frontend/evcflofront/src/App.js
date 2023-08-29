@@ -12,13 +12,14 @@ import Data from './pages/datapage';
 import Research from './pages/research';
 import AImodels from './pages/aimodels';
 import News from './pages/news';
-//import AI models
 import DensityClustering from './aimodels/densityclustering';
 import FAQ from './pages/faq';
 import Login from './pages/login';
 import Logout from './pages/logout';
 import User from './pages/user';
 import SignUp from './pages/SignUp';
+import Certificate from './pages/certificates';
+import Spare from './pages/spare';
 import { Box } from '@mui/material';
 
 function App() {
@@ -39,7 +40,8 @@ function App() {
             <Route path="/research" element={<Research />} />
             <Route path="/aimodels" element={<AImodels />} />
             <Route path="/news" element={<News />} />
-
+            <Route path="/certificate" element={<Certificate />} />
+            <Route path="/accessories" element={<Spare />} />
             <Route path="/densityclustering" element={<DensityClustering />} />
             <Route
               exact
