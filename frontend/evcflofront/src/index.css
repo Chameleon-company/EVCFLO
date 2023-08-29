@@ -210,26 +210,6 @@ About Component
 }
 
 /*
-Footer Component
-*/
-.footer {
-  background: var(--heading-clr);
-  text-align: center;
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-.footer-icons {
-}
-
-.copyright {
-  text-transform: capitalize;
-  letter-spacing: var(--spacing);
-  color: var(--white-clr);
-}
-.copyright span {
-  margin-left: 0.5rem;
-}
-/*
 Navbar
 */
 
@@ -545,7 +525,7 @@ AI Page
 NewBoundary, NewStation and SuggestStation forms
 */
 
-.datapage {
+/* .datapage {
   height: 1900px;
 }
 
@@ -582,7 +562,7 @@ NewBoundary, NewStation and SuggestStation forms
   border-radius: 25px;
   background: #2144ad1a;
   padding: 20px;
-}
+} */
 
 /*
 Questions Component
@@ -612,126 +592,4 @@ Questions Component
 .preferences label {
   display: block;
   padding-bottom: 4px;
-}
-
-/*
-Login Page
-*/
-
-.loginpage {
-  margin-top: 0px;
-  height: 600px;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.login-form {
-  background-color: var(--prime-clr-4);
-  color: var(--white-clr);
-  padding: 2rem;
-  border-radius: 0.5rem;
-  width: 30rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.login-form-group {
-  margin-bottom: 1rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-  width: 100%;
-}
-.login-label {
-  margin-bottom: 0.5rem;
-}
-.login-form input {
-  padding: 0.5rem;
-  border-radius: 0.25rem;
-  border: none;
-  color: var(--heading-clr);
-  width: 100%;
-}
-.login-btn {
-  margin-top: 1rem;
-  background-color: var(--prime-clr-2);
-  color: var(--white-clr);
-  border: none;
-  padding: 0.5rem 1rem;
-  border-radius: 0.25rem;
-  cursor: pointer;
-  transition: var(--transition);
-}
-.login-btn:hover {
-  background-color: var(--prime-clr-5);
-  color: var(--prime-clr-1);
-}
-.login-error {
-  color: red;
-  margin-bottom: 1rem;
-}
-
-.login-success {
-  color: white;
-  margin-bottom: 1rem;
-}
-
-/*
-user page
-*/
-/* User Profile Specific Styles */
-
-.up-outer-placeholder {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: var(--bg-clr);
-}
-
-.up-inner-placeholder {
-  width: 50%;
-  font-family: 'Roboto', sans-serif;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center; /* Centering content vertically */
-  padding: 2rem;
-  background-color: var(--prime-clr-5);
-  border-radius: 1rem;
-  box-shadow: var(--dark-shadow);
-}
-
-.up-user-info {
-  display: grid;
-  grid-template-columns: auto auto;
-  gap: 0.5rem;
-  width: 50%;
-  margin-bottom: 1.5rem;
-}
-
-.up-user-info span {
-  font-size: 1.5rem;
-  color: var(--paragraph-clr);
-}
-
-.up-password-actions {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center; /* Centering content vertically */
-  gap: 1rem;
-  width: 100%; /* Take full width of the parent container */
-}
-
-.up-loader {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
 }
