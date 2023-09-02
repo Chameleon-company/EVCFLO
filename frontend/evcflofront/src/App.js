@@ -15,6 +15,7 @@ import User from "./pages/user";
 import Certificate from "./pages/certificates";
 import SignUp from "./pages/SignUp";
 import Spare from "./pages/spare";
+import Support from "./components/Support";
 
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
         <Route path="/news" element={<News />} />
         <Route path="/certificate" element={<Certificate />} />
         <Route path="/accessories" element={<Spare />} />
+        <Route path="/support" element={<Support />} />
 
         <Route path="/densityclustering" element={<DensityClustering />} />
         <Route
