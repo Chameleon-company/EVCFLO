@@ -32,20 +32,30 @@ Contributor: Jamie Davidson
 
 # Notebook 2
 
-Notebook Name:
+Notebook Name: Data_Compiler_reference_T2_2023
 
-Notebook Dataset:
+Notebook Dataset: datasets (all compatable files according to notebook)
 
-Notebook Description:
+Notebook Description: Extracts every dataset (CSV, XLSX, JSON, ..., ect.) name and varables included into a HTML format for reference.
 
-Contributor:
+Contributor: Jamie Davidson
 
 # Notebook 3
 
-Notebook Name:
+Notebook Name: Forecasting golbal charging points in 2024
 
-Notebook Dataset:
+Notebook Dataset: Global_EV_Data_26042023 data, Station_Compiler_Location_T2_2023
 
-Notebook Description:
+Notebook Description: Visualize all current charging points predict the number of charging points in each city in 2024 (golbal) Forecast based on available data, subject to error
 
-Contributor:
+Contributor: Siju Deng 
+
+# Notebook 4
+
+Notebook Name: AU_EV charging station_prediction_T2_2023
+
+Notebook Dataset: datasets/T2_2023/Australian_EV_Charging_Stations_T2_2023/Cleaned_Australian_EV_Charging_Stations.csv
+
+Notebook Description: By using prediction model to handle the missing value in the dataset
+
+Contributor: Jennifer Yau
