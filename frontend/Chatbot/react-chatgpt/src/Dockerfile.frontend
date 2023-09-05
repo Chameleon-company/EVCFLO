@@ -1,0 +1,17 @@
+# Use an official Node.js runtime as the base image
+FROM node:14
+
+# Set the working directory in the container to /frontend
+WORKDIR /frontend
+
+# Copy the package.json and package-lock.json to the container
+COPY package*.json ./
+
+# Install the app dependencies inside the container
+RUN npm install
+
+# Copy the rest of the frontend code into the container
+COPY . .
+
+# Start the React development server
+CMD ["npm", "start"]
