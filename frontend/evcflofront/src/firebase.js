@@ -1,5 +1,12 @@
 import { initializeApp } from 'firebase/app';
-import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword } from 'firebase/auth';
+import {
+  getAuth,
+  signInWithEmailAndPassword,
+  createUserWithEmailAndPassword,
+  sendEmailVerification,
+  sendPasswordResetEmail,
+  updateProfile,
+} from 'firebase/auth';
 
 const firebaseConfig = {
   apiKey: 'AIzaSyDKfzJfKg08xUAHb7WBhs-I2L8lQV5nUIg',
@@ -67,6 +74,13 @@ export const signUpUser = (email, password) => {
     createUserWithEmailAndPassword(auth, email, password)
       .then((userCredential) => {
         const user = userCredential.user;
+        sendVerificationEmail(user)
+          .then(() => {
+            console.log('Verification email sent.');
+          })
+          .catch((verificationError) => {
+            console.error('Error sending verification email:', verificationError);
+          });
         resolve(user);
       })
       .catch((error) => {
@@ -87,5 +101,69 @@ export const signUpUser = (email, password) => {
       });
   });
 };
+
+export const updateUserDisplayName = (newDisplayName) => {
+  return new Promise((resolve, reject) => {
+    const user = auth.currentUser;
+    if (user) {
+      updateProfile(user, {
+        displayName: newDisplayName,
+      })
+        .then(() => {
+          resolve('Display name updated successfully');
+        })
+        .catch((error) => {
+          console.error('Error updating display name:', error);
+          reject(error);
+        });
+    } else {
+      console.error('No user logged in to update display name');
+      reject('No user logged in to update display name');
+    }
+  });
+};
+
+export const sendVerificationEmail = (user) => {
+  // Get the passed user or currentUser if passed user is null
+  user = user || auth.currentUser;
+
+  if (user) {
+    return sendEmailVerification(user)
+      .then(() => {
+        return Promise.resolve('Verification email sent.');
+      })
+      .catch((error) => {
+        const errorCode = error.code;
+        const errorMessage = error.message;
+        console.log(errorCode, errorMessage);
+        return Promise.reject(errorMessage);
+      });
+  } else {
+    // Handle case where there's no user and no current user
+    return Promise.reject('No user provided and no current user found.');
+  }
+};
+
+export const resetUserPassword = (email) => {
+  return new Promise((resolve, reject) => {
+    email = email || (auth.currentUser && auth.currentUser.email);
+    if (email) {
+      sendPasswordResetEmail(auth, email)
+        .then(() => {
+          resolve('Password reset email sent.');
+        })
+        .catch((error) => {
+          const errorCode = error.code;
+          const errorMessage = error.message;
+          console.log(errorCode, errorMessage);
+          reject(errorMessage);
+        });
+    } else {
+      console.error('No email provided and no current user found.');
+      reject('No email provided and no current user found.');
+    }
+  });
+};
+
 
 export default app;

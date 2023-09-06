@@ -1,137 +1,104 @@
 import React from 'react';
-import { Link } from "react-router-dom";
-import SubTitle from "../components/SubTitle";
+import { Link as RouterLink } from 'react-router-dom';
+import { Typography, Table, TableBody, TableCell, TableHead, TableRow, Paper, Box, Link } from '@mui/material';
+
+const modelData = [
+  {
+    name: 'EVCS VIC & QLD area density clustering map',
+    source:
+      'https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T32022/Australian_EV_charging_stations_prediction.html',
+    sourceText: 'Notebook: Australian_EV_charging_stations_prediction',
+    description: 'VIC and QLD EVCS locations display on the map with colours showing their density in selected area',
+    items: [
+      'Red Icon: EVCS concentrated location',
+      'Yellow Icon: EVCS less concentrated location',
+      'Green Icon: EVCS locations where is not concentrated',
+    ],
+    applicationLink: `${process.env.PUBLIC_URL}densityclusteringmap.html`,
+  },
+  {
+    name: 'Future EVCS Recommendation Map',
+    source:
+      'https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/EVCS%20Interactive%20Maps/EVCS%20Interactive%20Map-melbourne%20and%20geelong.html',
+    sourceText: 'Notebook: EVCS - Interactive Map Development Melbourne and Geelong Region',
+    description: 'Showing colour icons of different EVCS in Melbourne and Geelong areas',
+    items: [
+      'Red Icon: EVCS near another EVCS within 5km radius',
+      'Green Icon: EVCS has no other EVCS within 5km radius',
+      'Blue Icon: Recommended future EVCS locations for carpark having over 100 parking spaces',
+    ],
+    applicationLink: `${process.env.PUBLIC_URL}EVCSrecommendationsmap.html`,
+  },
+  {
+    name: 'EVCS VIC & QLD area clustering prediction model',
+    source:
+      'https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T12023/Australian_VIC%26QLD_EVCS_clustering_T12023update.html',
+    sourceText: 'Notebook: Australian_VIC&QLD_EVCS_clustering_T12023update.html',
+    description: 'Applied Machine learning models to predict EVCS clustering based on the following feature data:',
+    items: [
+      'Postal Code',
+      'Parks',
+      'Restaurants',
+      'Nearby EVStations',
+      'Supermarkets',
+      'Power',
+      'Malls',
+      'charging_stations',
+      'Hospitals',
+    ],
+    applicationLink: `/densityclustering`, // Assuming you don't need `process.env.PUBLIC_URL` for this Link route
+  },
+];
 
 const AImodelTable = () => {
-    return (
-    <section className="section" id="model">
-        <div className="aiModels">
-        <SubTitle title="AI/ML EVCS applications" />
-        <p className="centerText">
-            This page contains all Artificial Intelligence/Machine Learning Model
-            application that generated from our researchs to help promote EV
-            adoption
-        </p>
+  return (
+    <Box mt={3} mb={6}>
+      <Typography variant="h5" align="center" paragraph>
+        This page contains all Artificial Intelligence/Machine Learning Model applications that were generated from our
+        research to help promote EV adoption
+      </Typography>
 
-            <div class="centered">
-                <table width="80%" className="centerText">
-                <tr>
-                    <th>Name</th>
-                    <th>Source</th>
-                    <th>Description</th>
-                    <th>Application</th>
-                </tr>
-                {/* 1st model */}
-                <tr>
-                    <td>EVCS VIC & QLD area density clustering map</td>
-                    <td>
-                    <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href={
-                        process.env.PUBLIC_URL +
-                        "https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T32022/Australian_EV_charging_stations_prediction.html"
-                        }
-                    >
-                        Notebook: Australian_EV_charging_stations_prediction
-                    </a>
-                    </td>
-                    <td>
-                    VIC and QLD EVCS locations display on the map with colours showing
-                    their density in selected area
-                    <ur>
-                        <li>Red Icon: EVCS concentrated location</li>
-                        <li>Yellow Icon: EVCS less concentrated location</li>
-                        <li>Green Icon: EVCS locations where is not concentrated</li>
-                    </ur>
-                    </td>
-                    <td>
-                    <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href={process.env.PUBLIC_URL + "densityclusteringmap.html"}
-                    >
-                        Click me
-                    </a>
-                    </td>
-                </tr>
-                {/* 2nd model */}
-                <tr>
-                    <td>Future EVCS Recommendation Map</td>
-                    <td>
-                    <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href={
-                        process.env.PUBLIC_URL +
-                        "https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/notebooks/Archived/EVCS%20Interactive%20Maps/EVCS%20Interactive%20Map-melbourne%20and%20geelong.html"
-                        }
-                    >
-                        Notebook: EVCS - Interactive Map Development Melbourne and
-                        Geelong Region
-                    </a>
-                    </td>
-                    <td>
-                    Showing colour icons of different EVCS in Melbourne and Geelong
-                    areas
-                    <ur>
-                        <li>Red Icon: EVCS near another EVCS within 5km radius</li>
-                        <li>Green Icon: EVCS has no other EVCS within 5km radius</li>
-                        <li>
-                        Blue Icon: Recommended future EVCS locations for carpark
-                        having over 100 parking spaces{" "}
-                        </li>
-                    </ur>
-                    </td>
-                    <td>
-                    <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href={process.env.PUBLIC_URL + "EVCSrecommendationsmap.html"}
-                    >
-                        Click me
-                    </a>
-                    </td>
-                </tr>
-                {/* 3rd model */}
-                <tr>
-                    <td>EVCS VIC & QLD area clustering prediction model</td>
-                    <td>
-                    <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href={
-                        process.env.PUBLIC_URL +
-                        "https://htmlpreview.github.io/?https://github.com/Chameleon-company/EVCFLO/blob/main/frontend/notebooks/T12023/Australian_VIC%26QLD_EVCS_clustering_T12023update.html"
-                        }
-                    >
-                        Notebook: Australian_VIC&QLD_EVCS_clustering_T12023update.html
-                    </a>
-                    </td>
-                    <td>
-                    Applied Machine learning models to predict EVCS clustering based
-                    on the following feature data:
-                        <ur>
-                            <li>Postal Code</li>	
-                            <li>Parks</li>	
-                            <li>Restaurants</li>	
-                            <li>Nearby EVStations</li>	
-                            <li>Supermarkets</li>	
-                            <li>Power</li>	
-                            <li>Malls</li>	
-                            <li>charging_stations</li>	
-                            <li>Hospitals</li>
-                        </ur>
-                    </td>
-                    <td>
-                    <Link to="/densityclustering">Click me</Link>
-                    </td>
-                </tr>
-                </table>
-            </div>
-        </div>
-    </section>
-    )
- }
- 
- export default AImodelTable;
+      <Box display="flex" justifyContent="center">
+        <Paper style={{ width: '80%' }}>
+          <Table>
+            <TableHead>
+              <TableRow>
+                <TableCell>Name</TableCell>
+                <TableCell>Source</TableCell>
+                <TableCell>Description</TableCell>
+                <TableCell>Application</TableCell>
+              </TableRow>
+            </TableHead>
+            <TableBody>
+              {modelData.map((model) => (
+                <TableRow key={model.name}>
+                  <TableCell>{model.name}</TableCell>
+                  <TableCell>
+                    <Link target="_blank" rel="noreferrer" href={model.source}>
+                      {model.sourceText}
+                    </Link>
+                  </TableCell>
+                  <TableCell>
+                    {model.description}
+                    <ul>
+                      {model.items.map((item) => (
+                        <li key={item}>-{item}</li>
+                      ))}
+                    </ul>
+                  </TableCell>
+                  <TableCell>
+                    <Link target="_blank" rel="noreferrer" href={model.applicationLink}>
+                      Click me
+                    </Link>
+                  </TableCell>
+                </TableRow>
+              ))}
+            </TableBody>
+          </Table>
+        </Paper>
+      </Box>
+    </Box>
+  );
+};
+
+export default AImodelTable;
