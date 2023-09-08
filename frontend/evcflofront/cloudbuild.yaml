@@ -7,3 +7,4 @@ steps:
         'australia-southeast1-docker.pkg.dev/sit-22t1-ev-adoption-t-a4efab5/evcflo/testbuild',
         './frontend/evcflofront',
       ]
+    images: ['australia-southeast2-docker.pkg.dev/sit-22t1-ev-adoption-t-a4efab5/evcflo/imagebuild']
