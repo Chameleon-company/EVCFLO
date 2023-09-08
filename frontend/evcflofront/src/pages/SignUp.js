@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
 import { debounce } from 'lodash';
-
 import { signUpUser } from '../firebase';
+import { Button, TextField, Typography, Container, Paper, Box, Snackbar, Alert } from '@mui/material';
+import Title from '../components/Title';
+import { useNavigate } from 'react-router-dom';
 
 const SignUp = () => {
   const [email, setEmail] = useState('');
@@ -9,6 +11,7 @@ const SignUp = () => {
   const [confirmPassword, setConfirmPassword] = useState('');
   const [error, setError] = useState('');
   const [success, setSuccess] = useState('');
+  const navigate = useNavigate();
 
   const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 
@@ -17,92 +20,116 @@ const SignUp = () => {
 
     setError(null);
 
-    // Verify email and password
     if (!email || !password) {
       setError('Please provide both email and password.');
       return;
     }
-
-    // Check that the password and confirm password match
     if (password !== confirmPassword) {
       setError('Passwords do not match.');
       return;
     }
-
-    // Check email format using regex
     if (!emailRegex.test(email)) {
       setError('Please provide a valid email address.');
       return;
     }
 
-    // Call the loginUser function and handle the Promise
     signUpUser(email, password)
       .then((user) => {
-        // alert success
-        setSuccess('Login success!');
+        setSuccess('Sign up successful! Please check your email for a verification link');
         console.log(user);
+        navigate('/user');
       })
       .catch((errorMessage) => {
-        // Login failed, display error message
         setError(errorMessage);
       });
   };
 
   return (
-    <div className="loginpage">
-      <h1>Sign Up</h1>
-      <form onSubmit={handleSignUp} className="login-form">
-        <div className="login-form-group">
-          {/* email input */}
-          <label htmlFor="email" className="login-label">
-            Email:
-          </label>
-          <input
-            type="email"
+    <Container component="main" maxWidth="xs">
+      <Box mt={4}>
+        <Title title="EVCFLO" subTitle="SignUp" />
+      </Box>
+      <Paper elevation={3} style={{ padding: '20px', marginTop: '20px' }}>
+        <Typography component="h1" variant="h5">
+          Sign Up
+        </Typography>
+        <form onSubmit={handleSignUp} noValidate>
+          <TextField
+            variant="outlined"
+            margin="normal"
+            required
+            fullWidth
             id="email"
+            label="Email Address"
             name="email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
-            required
           />
-        </div>
-        {/* password input */}
-        <div className="login-form-group">
-          <label htmlFor="password" className="login-label">
-            Password:
-          </label>
-          <input
+          <TextField
+            variant="outlined"
+            margin="normal"
+            required
+            fullWidth
+            name="password"
+            label="Password"
             type="password"
             id="password"
-            name="password"
             value={password}
             onChange={(e) => setPassword(e.target.value)}
-            required
           />
-        </div>
-        {/* confirm password */}
-        <div className="login-form-group">
-          <label htmlFor="password" className="login-label">
-            Confirm Password:
-          </label>
-          <input
+          <TextField
+            variant="outlined"
+            margin="normal"
+            required
+            fullWidth
+            name="confirmPassword"
+            label="Confirm Password"
             type="password"
-            id="password"
-            name="password"
+            id="confirmPassword"
             value={confirmPassword}
             onChange={(e) => setConfirmPassword(e.target.value)}
-            required
           />
-        </div>
-        {/* display error or succes */}
-        {error && <p className="login-error">{error}</p>}
-        {success && <p className="login-success">{success}</p>}
-        {/* submit button */}
-        <button className="login-btn" type="submit">
-          Login
-        </button>
-      </form>
-    </div>
+
+          <Button
+            type="submit"
+            fullWidth
+            variant="contained"
+            color="primary"
+            style={{
+              marginTop: '10px',
+              backgroundColor: 'var(--heading-clr)',
+            }}
+          >
+            Sign Up
+          </Button>
+
+          <Box position="absolute" top="100%" mt={2} width="100%">
+            {error && (
+              <Snackbar
+                open={Boolean(error)}
+                autoHideDuration={6000}
+                anchorOrigin={{ vertical: 'top', horizontal: 'right' }}
+              >
+                <Alert severity="error" sx={{ marginTop: '50px' }}>
+                  {error}
+                </Alert>
+              </Snackbar>
+            )}
+            {success && (
+              <Snackbar
+                open={Boolean(success)}
+                autoHideDuration={6000}
+                anchorOrigin={{ vertical: 'bottom', horizontal: 'center' }}
+              >
+                <Alert severity="success" sx={{ marginTop: '50px' }}>
+                  {success}
+                </Alert>
+              </Snackbar>
+            )}
+          </Box>
+        </form>
+      </Paper>
+    </Container>
   );
 };
 

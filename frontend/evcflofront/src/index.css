@@ -42,6 +42,7 @@ body {
   color: var(--heading-clr);
   line-height: 1.5;
   font-size: 0.875rem;
+  display: ;
 }
 
 ul {
@@ -241,33 +242,6 @@ About Component
 }
 
 /*
-Footer Component
-*/
-.footer {
-  background: var(--heading-clr);
-  text-align: center;
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
-.footer-icons {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 1.5rem;
-  flex-wrap: wrap;
-}
-
-.copyright {
-  text-transform: capitalize;
-  letter-spacing: var(--spacing);
-  color: var(--white-clr);
-}
-
-.copyright span {
-  margin-left: 0.5rem;
-}
-
-/*
 Navbar
 */
 
@@ -304,6 +278,7 @@ Navbar
 
 .nav-logo {
   height: 45px;
+  padding-right: 10px;
 }
 .nav-logo2 {
   display: block;
@@ -348,8 +323,8 @@ button.nav-link {
 
 .links-container {
   height: 0;
-  overflow: hidden;
   transition: var(--transition);
+  overflow: hidden;
 }
 
 .show-container {
@@ -362,7 +337,7 @@ button.nav-link {
 
   .nav-center {
     width: 90vw;
-    max-width: 1170px;
+    max-width: 1190px;
     margin: 0 auto;
     padding: 1rem;
     display: flex;
@@ -590,7 +565,6 @@ NewBoundary, NewStation and SuggestStation forms
 }
 
 #newstation {
-  float: left;
   width: 30%;
   margin-right: 10px;
   box-shadow: 0 50px 50px rgb(0 0 0 / 0.2);
@@ -621,7 +595,7 @@ AI Page
 NewBoundary, NewStation and SuggestStation forms
 */
 
-.datapage {
+/* .datapage {
   height: 1900px;
 }
 
@@ -661,8 +635,7 @@ NewBoundary, NewStation and SuggestStation forms
   border-radius: 25px;
   background: #2144ad1a;
   padding: 20px;
-}
-
+} */
 
 /*
 Questions Component
@@ -676,6 +649,7 @@ Questions Component
   padding: 6px;
   background-color: rgb(240, 240, 240);
   font-size: 14px;
+  flex: 1;
 }
 
 .collapsible .header {
@@ -852,7 +826,7 @@ user page
   border-radius: 4px;
 }
 
-.form-input-1{
+.form-input-1 {
   /* Input styling */
   width: 20%;
   padding: 8px;
@@ -861,7 +835,7 @@ user page
   border-radius: 4px;
 }
 
-.form-input{
+.form-input {
   /* Input styling */
   width: 85%;
   padding: 8px;
@@ -901,11 +875,11 @@ news page
   padding: 0;
 }
 
-.title {
+/* .title {
   text-align: center;
   margin: 2em 0;
   font-size: 4em;
-}
+} */
 
 .menu {
   display: flex;
@@ -1025,4 +999,57 @@ news page
   .news-grid {
     grid-template-columns: 1fr;
   }
+}
+
+/* Support Page */
+
+.diamond-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.btn-diamond {
+  margin: 100px 0;  /* This creates a total of 100px gap between vertical buttons */
+}
+
+.side-buttons {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 600px;  /* The width is set to allow a 100px gap between the side buttons. This value may need adjustment based on button width. */
+  transform: translate(-50%, -50%);
+}
+
+.side-buttons .btn-diamond {
+  margin: 0;  /* Since the side-buttons width is handling the spacing, no additional margin is needed here. */
+}
+
+#Support {
+  height: 800px;
+}
+
+.btn-diamond {
+  padding: 10px 20px;        /* Padding for the button */
+  border-radius: 5px;        /* Slight rounded corners */
+  font-size: 25px;           /* Font size */
+  cursor: pointer;           /* Hand cursor on hover */
+  transition: 0.3s;          /* Transition for hover effects */
+}
+
+@media screen and (max-width: 600px) {
+  .side-buttons {
+    width: 100%;
+  }
+}
+
+#Certificates {
+  height: 800px;
+}
+
+.support {
+  margin-top: 100px;
 }

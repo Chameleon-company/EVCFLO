@@ -47,3 +47,13 @@ Dataset Source: Data from datasets T2_2023 (Various)
 Dataset Reference: (Various)
 
 Contributor: Jamie Davidson
+
+# Dataset 4
+
+Dataset Name: Cleaned_Australian_EV_Charging_Stations_T2_2023
+
+Dataset Source: Data from datasets T1_2023
+
+Dataset Reference: (Various)
+
+Contributor: Jennifer Yau

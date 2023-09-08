@@ -49,3 +49,13 @@ Notebook Dataset: Global_EV_Data_26042023 data, Station_Compiler_Location_T2_202
 Notebook Description: Visualize all current charging points predict the number of charging points in each city in 2024 (golbal) Forecast based on available data, subject to error
 
 Contributor: Siju Deng 
+
+# Notebook 4
+
+Notebook Name: AU_EV charging station_prediction_T2_2023
+
+Notebook Dataset: datasets/T2_2023/Australian_EV_Charging_Stations_T2_2023/Cleaned_Australian_EV_Charging_Stations.csv
+
+Notebook Description: By using prediction model to handle the missing value in the dataset
+
+Contributor: Jennifer Yau
