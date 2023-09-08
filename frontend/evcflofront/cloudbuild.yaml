@@ -1,5 +1,5 @@
 steps:
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/ev-code-webapp', file=./Dockerfile.client"]
+    args: ['build', '-t', 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/ev-code-webapp', file=/Dockerfile.client"]
 images:
   - 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/ev-code-webapp'
