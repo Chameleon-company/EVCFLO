@@ -1,4 +1,11 @@
 steps:
   - name: 'gcr.io/cloud-builders/docker'
     args:
-      ['build', '-t', 'australia-southeast1-docker.pkg.dev/sit-22t1-ev-adoption-t-a4efab5/evcflo/testbuild', '-f', '.']
+      [
+        'build',
+        '-t',
+        'australia-southeast1-docker.pkg.dev/sit-22t1-ev-adoption-t-a4efab5/evcflo/testbuild',
+        '-f',
+        'EVCFLO/frontend/evcflofront',
+        '.',
+      ]
