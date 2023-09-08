@@ -6,6 +6,6 @@ steps:
         '-t',
         'australia-southeast1-docker.pkg.dev/sit-22t1-ev-adoption-t-a4efab5/evcflo/testbuild',
         '-f',
-        'frontend/evcflofront/src',
-        '.',
+        'frontend/evcflofront',
+        './frontend/evcflofront',
       ]
