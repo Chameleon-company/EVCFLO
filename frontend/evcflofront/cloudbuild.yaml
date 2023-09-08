@@ -1,14 +1,8 @@
 steps:
   - name: 'gcr.io/cloud-builders/docker'
-    args:
-      [
-        'build',
-        '-t',
-        'australia-southeast1-docker.pkg.dev/sit-22t1-ev-adoption-t-a4efab5/evcflo/testbuild',
-        './frontend/evcflofront',
-      ]
+    args: ['build', '-t', 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo', './frontend/evcflofront']
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['push', 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo3']
+    args: ['push', 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo']
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
     entrypoint: gcloud
     args:
@@ -19,7 +13,7 @@ steps:
       - '--image'
       - 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo'
       - '--region'
-      - 'australia-southeast2'
+      - 'australia-southeast1'
 images:
   - 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo'
 
