@@ -21,6 +21,7 @@ import SignUp from './pages/SignUp';
 import Certificate from './pages/certificates';
 import Spare from './pages/spare';
 import { Box } from '@mui/material';
+import Support from "./components/Support";
 
 function App() {
   return (
@@ -43,6 +44,7 @@ function App() {
             <Route path="/certificate" element={<Certificate />} />
             <Route path="/accessories" element={<Spare />} />
             <Route path="/densityclustering" element={<DensityClustering />} />
+            <Route path="/support" element={<Support />} />
             <Route
               exact
               path="/densityclusteringmap"
