@@ -8,7 +8,7 @@ steps:
     args:
       - 'run'
       - 'deploy'
-      - 'evcflo3'
+      - 'evcflo'
       - '--allow-unauthenticated'
       - '--image'
       - 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo'
@@ -16,5 +16,4 @@ steps:
       - 'australia-southeast1'
 images:
   - 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo'
-
 logsBucket: 'gs://logbucketevcflo'
