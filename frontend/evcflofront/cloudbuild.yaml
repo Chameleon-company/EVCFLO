@@ -9,7 +9,6 @@ steps:
       - 'run'
       - 'deploy'
       - 'evcflo'
-      - '--allow-unauthenticated'
       - '--image'
       - 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo'
       - '--region'
