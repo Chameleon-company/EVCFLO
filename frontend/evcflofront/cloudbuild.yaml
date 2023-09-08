@@ -7,6 +7,19 @@ steps:
         'australia-southeast1-docker.pkg.dev/sit-22t1-ev-adoption-t-a4efab5/evcflo/testbuild',
         './frontend/evcflofront',
       ]
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo3']
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'evcflo3'
+      - '--allow-unauthenticated'
+      - '--image'
+      - 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo'
+      - '--region'
+      - 'australia-southeast2'
 images:
   - 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo'
 
