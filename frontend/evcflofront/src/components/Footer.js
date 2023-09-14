@@ -11,7 +11,6 @@ function Footer() {
     bottom: '0',
     width: '100%',
     left: '0',
-    backgroundColor: 'var(--heading-clr)',
   };
 
   return (
