@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import config from '../config.testing';
+import config from '../config.production';
 
 const Map = () => {
   const mapRef = useRef(null);
@@ -11,7 +11,7 @@ const Map = () => {
     const loadMap = async () => {
       const apiKey = config.GOOGLE_KEY;
       const script = document.createElement('script');
-      script.src = `https://maps.googleapis.com/maps/api/js?v=3.53&key=AIzaSyDtqhSWmPBgoWRASz58IbAuMqQY9lgWoxo&callback=initMap`;
+      script.src = `https://maps.googleapis.com/maps/api/js?v=3.53&key=${apiKey}&callback=initMap`;
       script.defer = true;
       script.async = true;
 
