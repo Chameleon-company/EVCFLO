@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import config from '../config.production';
+import config from '../config.production.js';
 
 const Map = () => {
   const mapRef = useRef(null);
