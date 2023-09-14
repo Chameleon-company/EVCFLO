@@ -1,6 +1,7 @@
 steps:
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo', './frontend/evcflofront']
+    args:
+      ['build', '-t', 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo/evcflow-frontend:v1.00', './frontend/evcflofront']
   - name: 'gcr.io/cloud-builders/docker'
     args: ['push', 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo']
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
