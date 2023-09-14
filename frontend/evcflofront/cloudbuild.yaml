@@ -1,4 +1,4 @@
-steps:
+steps: #for CD pipeline https://testing-e657pcuziq-ts.a.run.app
   - name: 'gcr.io/cloud-builders/docker'
     args:
       ['build', '-t', 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo/evcflow-frontend:v1.00', './frontend/evcflofront']
@@ -17,4 +17,4 @@ steps:
       - 'australia-southeast1'
 images:
   - 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo'
-logsBucket: 'gs://logbucketevcflo'
+logsBucket: 'gs://logbucketevcflo' #places logs in local bucket for permissions reasons
