@@ -1,11 +1,19 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
+import Title from '../components/Title';
 
 const CertificatePage = () => {
+
+  const navigate = useNavigate();  // Get the useNavigate hook
+
+  const goToHomePage = () => {
+    navigate('/');  // Navigate to the Home page
+  }
+
   const appStyle = {
     margin: '0 auto',
     maxWidth: 'auto',
     padding: '0 2rem',
-    height : '450Px',
   };
 
   const textStyle = {
@@ -15,22 +23,9 @@ const CertificatePage = () => {
     textAlign: 'left', // Change to "left" alignment
   };
 
-  const buttonStyle = {
-    backgroundColor: '#2196F3',
-    borderRadius: '2px',
-    color: '#fff',
-    fontWeight: '500',
-    padding: '8px',
-    textAlign: 'center',
-    textTransform: 'uppercase',
-    textDecoration: 'none',
-    display: 'inline-block',
-    margin: '8px',
-    cursor: 'pointer',
-  };
-
   return (
-    <div className="app" style={appStyle}>
+    <div className="app" style={appStyle} id='Certificates'>
+      <Title title="Certificates " />
       <div className="screenLeft" style={textStyle}>
         <p>
           This page is to include the certificates obtained by the company in the field of providing reliable and safe electric charging systems.
@@ -39,7 +34,7 @@ const CertificatePage = () => {
           The standards include measures taken by the company to meet its clients' needs in a more reliable and safe way. This page also shows the company's product conformance to standardize the requirements of the client.
           The product includes services, hardware, and software in the field of EV charging stations. The company holds the standard that the automotive manufacturers and distributors are to uphold for quality and efficiency. All the standards of the company help to instill confidence in clients.
         </p>
-        <a href='https://dr' target='_blank' rel='noreferrer' style={buttonStyle}>Back</a>
+        <input type="submit" value="Back" className="form-submit" onClick={goToHomePage} />
       </div>
     </div>
   );

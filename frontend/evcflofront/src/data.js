@@ -3,10 +3,11 @@ export const pageLinks = [
   { id: 2, href: '/datapage', text: 'data ' },
   { id: 3, href: '/research', text: 'research ' },
   { id: 4, href: '/aimodels', text: 'AIModels ' },
-  { id: 5, href: '/faq', text: 'FAQ ' },
+  //{ id: 5, href: '/faq', text: 'FAQ ' },
   { id: 6, href: '/news', text: 'News ' },
   { id: 7, href: '/certificate', text: 'Certs ' },
   { id: 8, href: '/accessories', text: 'Accessories ' },
+  { id: 8, href: "/support", text: "Support" },
 ];
 
 export const socialLinks = [
