@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link as RouterLink } from 'react-router-dom';
 import { Typography, Table, TableBody, TableCell, TableHead, TableRow, Paper, Box, Link } from '@mui/material';
 
 const modelData = [

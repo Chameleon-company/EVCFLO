@@ -1,8 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import logo from '../images/logo.png';
-import { pageLinks, socialLinks, authenticatedLinks, notAuthenticatedLinks } from '../data';
+import { pageLinks, authenticatedLinks, notAuthenticatedLinks } from '../data';
 import Hamburger from 'hamburger-react';
-import { SocialIcon } from 'react-social-icons';
 import { auth } from '../firebase';
 import { useNavigate } from 'react-router-dom';
 

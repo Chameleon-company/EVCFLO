@@ -1,0 +1,20 @@
+steps: #for CD pipeline https://testing-e657pcuziq-ts.a.run.app
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      ['build', '-t', 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo/evcflow-frontend:v1.00', './frontend/evcflofront']
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo/evcflow-frontend:v1.00']
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'evcflo'
+      - '--allow-unauthenticated'
+      - '--image'
+      - 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo/evcflow-frontend:v1.00 '
+      - '--region'
+      - 'australia-southeast1'
+images:
+  - 'gcr.io/sit-22t1-ev-adoption-t-a4efab5/evcflo'
+logsBucket: 'gs://logbucketevcflo' #places logs in local bucket for permissions reasons

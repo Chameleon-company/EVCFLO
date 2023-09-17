@@ -10,7 +10,6 @@ coverage/
 
 # production
 /build
-config.production.js
 
 # misc
 .DS_Store
