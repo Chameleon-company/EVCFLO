@@ -5,6 +5,7 @@ export const pageLinks = [
   { id: 4, href: "/aimodels", text: "AIModels " },
   { id: 5, href: "/faq", text: "FAQ " },
   { id: 6, href: "/news", text: "News " },
+  { id: 11, href: "/news", text: "AAA " },
 ];
 
 export const socialLinks = [
@@ -17,12 +18,13 @@ export const socialLinks = [
 
 // These show if the user isn't authenticated
 export const notAuthenticatedLinks = [
-  { id: 7, href: "/login", text: "Login " },
-  { id: 8, href: "/signup", text: "Signup " },
+  { id: 7, href: "/ourteam", text: "Our team " },
+  { id: 8, href: "/login", text: "Login " },
+  { id: 9, href: "/signup", text: "Signup " },
 ];
 
 // These show if the user is authenticated
 export const authenticatedLinks = [
-  { id: 9, href: "/user", text: "User " },
-  { id: 10, href: "/logout", text: "Logout " },
+  { id: 10, href: "/user", text: "User " },
+  { id: 11, href: "/logout", text: "Logout " },
 ];

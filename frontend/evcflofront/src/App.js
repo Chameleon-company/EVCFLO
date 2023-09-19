@@ -13,6 +13,7 @@ import Login from "./pages/login";
 import Logout from "./pages/logout";
 import User from "./pages/user";
 import SignUp from "./pages/SignUp";
+import Ourteam from "./pages/ourteam";
 
 function App() {
   return (
@@ -42,6 +43,7 @@ function App() {
           }}
         />
         <Route path="/faq" element={<FAQ />} />
+        <Route path="/ourteam" element={<Ourteam />}/>
         <Route path="/login" element={<Login />} />
         <Route path="/logout" element={<Logout />} />
         <Route path="/signup" element={<SignUp />} />

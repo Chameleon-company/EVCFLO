@@ -741,3 +741,36 @@ user page
   justify-content: center;
   height: 100vh;
 }
+ 
+.row {
+  display: flex;
+  margin-top: 52px;
+  margin-bottom: 50px;
+}
+.column{
+  margin: auto;
+  
+  width: 320px;
+  height: 320px;
+  align-items: center;
+  border: 1px solid
+}
+.avatarimage{
+  
+  height: 200px;
+  width: 200px;
+  
+  margin-top: 20px;
+  
+}
+.center{
+  text-align: center;
+  
+}
+.headingcenter{
+  text-align: center;
+  
+}
+.otpage{
+  margin-top: 50px;
+}

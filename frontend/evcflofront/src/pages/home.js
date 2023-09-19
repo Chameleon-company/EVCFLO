@@ -4,6 +4,7 @@ import About from "../components/About";
 import Hero from "../components/Hero";
 import ContactUs from "../components/contactus";
 
+
 const Home = () => {
   return (
     <>
@@ -11,6 +12,7 @@ const Home = () => {
       <InfoMaps />
       <Map />
       <About />
+      
       <ContactUs />
     </>
   );
