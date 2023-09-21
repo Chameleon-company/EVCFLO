@@ -22,6 +22,10 @@ const Support = () => {
     navigate('/getquotes');  // Navigate to the View page
   }
 
+  const goToSustainabilityPage = () => {
+    navigate('/sustainability');  // Navigate to the View page
+  }
+
   return (
     <>
       <section className="section" id="Support">
@@ -34,10 +38,11 @@ const Support = () => {
             <input type="submit" value="GetQuotes" className="btn-diamond form-submit" onClick={goToGetQuotesPage} />
           </div>
           <input type="submit" value="Home" className="btn-diamond form-submit" onClick={goToHomePage} />
+          <input type="submit" value="Sustainability" className="btn-diamond form-submit" onClick={goToSustainabilityPage} />
         </div>
 
       </section>
-      <div id='sp'></div>
+      {/* <div id='sp'></div> */}
     </>
   );
 };

@@ -24,6 +24,7 @@ import { Box } from '@mui/material';
 import Support from "./components/Support";
 import Brochure from "./components/Brochure";
 import GetQuotes from './components/GetQuotes';
+import Sustainability from './pages/sustainability';
 
 function App() {
   return (
@@ -49,6 +50,7 @@ function App() {
             <Route path="/support" element={<Support />} />
             <Route path="/brochure" element={<Brochure />} />
             <Route path="/getquotes" element={<GetQuotes />} />
+            <Route path="/sustainability" element={<Sustainability />} />
             <Route
               exact
               path="/densityclusteringmap"
