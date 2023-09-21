@@ -812,6 +812,11 @@ user page
   align-items: center;
 }
 
+#GetQuotes {
+  margin: 10%;
+  align-items: center;
+}
+
 .form-label {
   /* Label styling */
   font-weight: bold;

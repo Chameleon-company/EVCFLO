@@ -22,6 +22,8 @@ import Certificate from './pages/certificates';
 import Spare from './pages/spare';
 import { Box } from '@mui/material';
 import Support from "./components/Support";
+import Brochure from "./components/Brochure";
+import GetQuotes from './components/GetQuotes';
 
 function App() {
   return (
@@ -45,6 +47,8 @@ function App() {
             <Route path="/accessories" element={<Spare />} />
             <Route path="/densityclustering" element={<DensityClustering />} />
             <Route path="/support" element={<Support />} />
+            <Route path="/brochure" element={<Brochure />} />
+            <Route path="/getquotes" element={<GetQuotes />} />
             <Route
               exact
               path="/densityclusteringmap"
