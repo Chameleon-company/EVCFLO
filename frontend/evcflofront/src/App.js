@@ -21,7 +21,8 @@ import SignUp from './pages/SignUp';
 import Certificate from './pages/certificates';
 import Spare from './pages/spare';
 import { Box } from '@mui/material';
-import Support from "./components/Support";
+import Support from './components/Support';
+import Ourteam from './pages/ourteam';
 
 function App() {
   return (
@@ -60,6 +61,7 @@ function App() {
               }}
             />
             <Route path="/faq" element={<FAQ />} />
+            <Route path="/ourteam" element={<Ourteam />} />
             <Route path="/login" element={<Login />} />
             <Route path="/logout" element={<Logout />} />
             <Route path="/signup" element={<SignUp />} />
