@@ -32,20 +32,63 @@ Contributor: Jamie Davidson
 
 # Notebook 2
 
-Notebook Name:
+Notebook Name: Data_Compiler_reference_T2_2023
 
-Notebook Dataset:
+Notebook Dataset: datasets (all compatable files according to notebook)
 
-Notebook Description:
+Notebook Description: Extracts every dataset (CSV, XLSX, JSON, ..., ect.) name and varables included into a HTML format for reference.
 
-Contributor:
+Contributor: Jamie Davidson
 
 # Notebook 3
 
-Notebook Name:
+Notebook Name: Forecasting golbal charging points in 2024
+
+Notebook Dataset: Global_EV_Data_26042023 data, Station_Compiler_Location_T2_2023
+
+Notebook Description: Visualize all current charging points predict the number of charging points in each city in 2024 (golbal) Forecast based on available data, subject to error
+
+Contributor: Siju Deng
+
+# Notebook 4
+
+Notebook Name: AU_EV charging station_prediction_T2_2023
+
+Notebook Dataset: datasets/T2_2023/Australian_EV_Charging_Stations_T2_2023/Cleaned_Australian_EV_Charging_Stations.csv
+
+Notebook Description: By using prediction model to handle the missing value in the dataset
+
+Contributor: Jennifer Yau
+
+# Notebook 5
+
+Notebook Name: ipynb_to_html_T2_2023
+
+Notebook Dataset: n/a
+
+Notebook Description: converts ipynb to html format using a function and file locations.
+
+Contributor: Jamie Davidson
+
+# Notebook 6
+
+Notebook Name: Charger_Compiler_Type_T2_2023
+
+Notebook Dataset: Datasets containing charger/connector type variables
+
+Notebook Description: compiles a dataset for charger types
+
+Contributor: Jamie Davidson
+
+# Notebook 7
+
+Notebook Name: Find_A_Station_T2_2023
 
 Notebook Dataset:
 
-Notebook Description:
+datasets\T2_2023\Station_Compiler_Location_T2_2023\Station_Compiler_Location_T2_2023.csv
+datasets\T2_2023\Charger_Compiler_Type_T2_2023.csv
 
-Contributor:
+Notebook Description: takes your location and finds closed charging station or closest charger/connector type.
+
+Contributor: Jamie Davidson

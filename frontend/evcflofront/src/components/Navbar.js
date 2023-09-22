@@ -1,9 +1,8 @@
-import React, { useState, useRef, useEffect } from "react";
-import logo from "../images/logo.png";
-import { pageLinks, socialLinks, authenticatedLinks, notAuthenticatedLinks } from "../data";
-import Hamburger from "hamburger-react";
-import { SocialIcon } from "react-social-icons";
-import { auth } from "../firebase";
+import React, { useState, useRef, useEffect } from 'react';
+import logo from '../images/logo.png';
+import { pageLinks, authenticatedLinks, notAuthenticatedLinks } from '../data';
+import Hamburger from 'hamburger-react';
+import { auth } from '../firebase';
 import { useNavigate } from 'react-router-dom';
 
 const Navbar = () => {
@@ -22,27 +21,27 @@ const Navbar = () => {
     if (showLinks) {
       linksUseRef.current.style.height = `${linksHeight}px`;
     } else {
-      linksUseRef.current.style.height = "0px";
+      linksUseRef.current.style.height = '0px';
     }
   }, [showLinks]);
 
-// for different links if logged in
-const [loggedIn, setLoggedIn] = useState(false); //unused but could be useful in future?
-// Mutating page links directly can cause issues, so we create a copy
-const [navLinks, setNavLinks] = useState( [...pageLinks, ...notAuthenticatedLinks])
+  // for different links if logged in
+  const [loggedIn, setLoggedIn] = useState(false); //unused but could be useful in future?
+  // Mutating page links directly can cause issues, so we create a copy
+  const [navLinks, setNavLinks] = useState([...pageLinks, ...notAuthenticatedLinks]);
 
-useEffect(() => {
-  auth.onAuthStateChanged((user) => {
-    user ? setLoggedIn(true) : setLoggedIn(false);
-    setNavLinks(user ? [...pageLinks, ...authenticatedLinks] : [...pageLinks, ...notAuthenticatedLinks]);
-  });
-}, []);
+  useEffect(() => {
+    auth.onAuthStateChanged((user) => {
+      user ? setLoggedIn(true) : setLoggedIn(false);
+      setNavLinks(user ? [...pageLinks, ...authenticatedLinks] : [...pageLinks, ...notAuthenticatedLinks]);
+    });
+  }, []);
   return (
     <nav className="navbar">
       <div className="nav-center">
         <div className="nav-header">
           <a href="/home" target="_blank" rel="noreferrer">
-            {" "}
+            {' '}
             {/*links logo to homepage*/}
             <img src={logo} className="nav-logo" alt="evcflologo" />
           </a>
@@ -63,10 +62,14 @@ useEffect(() => {
               return (
                 <li key={id}>
                   {/* Changed this to an onclick function so it doesn't refresh the page, gives a more seamless experience*/}
-                  <a href={href} className="nav-link" onClick={(e) => {
+                  <a
+                    href={href}
+                    className="nav-link"
+                    onClick={(e) => {
                       e.preventDefault();
                       navigate(href);
-                    }}>
+                    }}
+                  >
                     {text}
                   </a>
                 </li>
@@ -74,17 +77,6 @@ useEffect(() => {
             })}
           </ul>
         </div>
-        <ul className="nav-icons">
-          {/* maps social links from data.js*/}
-          {socialLinks.map((link) => {
-            const { id, href, bgc } = link;
-            return (
-              <li key={id}>
-                <SocialIcon url={href} bgColor={bgc} />
-              </li>
-            );
-          })}
-        </ul>
       </div>
     </nav>
   );
