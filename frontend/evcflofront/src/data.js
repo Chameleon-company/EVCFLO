@@ -7,12 +7,12 @@ export const pageLinks = [
   { id: 6, href: '/news', text: 'News ' },
   { id: 7, href: '/certificate', text: 'Certs ' },
   { id: 8, href: '/accessories', text: 'Accessories ' },
-  { id: 8, href: "/support", text: "Support" },
+  { id: 9, href: '/support', text: 'Support' },
 ];
 
 export const socialLinks = [
   {
-    id: 1,
+    id: 15,
     href: 'https://github.com/Chameleon-company/EVCFLO',
     bgc: '#cc9900',
   },
@@ -20,12 +20,13 @@ export const socialLinks = [
 
 // These show if the user isn't authenticated
 export const notAuthenticatedLinks = [
-  { id: 7, href: '/login', text: 'Login ' },
-  { id: 8, href: '/signup', text: 'Signup ' },
+  { id: 10, href: '/ourteam', text: 'Team ' },
+  { id: 11, href: '/login', text: 'Login ' },
+  { id: 12, href: '/signup', text: 'Signup ' },
 ];
 
 // These show if the user is authenticated
 export const authenticatedLinks = [
-  { id: 9, href: '/user', text: 'User ' },
-  { id: 10, href: '/logout', text: 'Logout ' },
+  { id: 13, href: '/user', text: 'User ' },
+  { id: 14, href: '/logout', text: 'Logout ' },
 ];
