@@ -67,3 +67,11 @@ Dataset Source: Output from the same name notebook file
 Dataset Reference: Nan
 
 Contributor: Siju Deng
+
+# Dataset 6
+
+Dataset Name: Charger_Compiler_Type
+
+Dataset Source: Data from datasets T2_2023 (Various)
+
+Contributor: Jamie Davidson
