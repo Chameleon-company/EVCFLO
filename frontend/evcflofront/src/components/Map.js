@@ -152,7 +152,7 @@ const Map = () => {
             setSuggested(suggestedList);
           })
           .catch((error) => {
-            console.log('An error occurred accessing the API. Is the server running?');
+            console.log('An error occurred accessing the API. Is the server running??');
             console.log(error);
           });
       };
