@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import config from '../config.production.js';
+import config from '../config.testing.js';
 
 const Map = () => {
   const mapRef = useRef(null);
@@ -152,7 +152,7 @@ const Map = () => {
             setSuggested(suggestedList);
           })
           .catch((error) => {
-            console.log('An error occurred accessing the API. Is the server running?');
+            console.log('An error occurred accessing the API. Is the server running??');
             console.log(error);
           });
       };
